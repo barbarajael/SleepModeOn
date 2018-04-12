@@ -1,0 +1,5495 @@
+s1,start,2014-12-29 22:57:49
+s1,end,2014-12-30 07:30:13
+s1,quality,100%
+s1,time_in_bed,8:32
+s1,feeling,:)
+s1,heart_rate,59
+s1,steps,0
+s2,start,2014-12-30 21:17:50
+s2,end,2014-12-30 21:33:54
+s2,quality,3%
+s2,time_in_bed,0:16
+s2,feeling,:|
+s2,notes,Stressful day
+s2,heart_rate,72
+s2,steps,0
+s3,start,2014-12-30 22:42:49
+s3,end,2014-12-31 07:13:31
+s3,quality,98%
+s3,time_in_bed,8:30
+s3,feeling,:|
+s3,heart_rate,57
+s3,steps,0
+s4,start,2014-12-31 22:31:01
+s4,end,2015-01-01 06:03:01
+s4,quality,65%
+s4,time_in_bed,7:32
+s4,steps,0
+s5,start,2015-01-01 22:12:10
+s5,end,2015-01-02 04:56:35
+s5,quality,72%
+s5,time_in_bed,6:44
+s5,feeling,:)
+s5,notes,Drank coffee:Drank tea
+s5,heart_rate,68
+s5,steps,0
+s6,start,2015-01-03 00:34:57
+s6,end,2015-01-03 07:47:23
+s6,quality,83%
+s6,time_in_bed,7:12
+s6,feeling,:)
+s6,notes,Drank coffee:Drank tea
+s6,heart_rate,60
+s6,steps,0
+s7,start,2015-01-04 00:23:06
+s7,end,2015-01-04 07:37:09
+s7,quality,78%
+s7,time_in_bed,7:14
+s7,notes,Drank tea
+s7,steps,0
+s8,start,2015-01-04 21:34:44
+s8,end,2015-01-05 04:53:34
+s8,quality,78%
+s8,time_in_bed,7:18
+s8,feeling,:)
+s8,notes,Ate late:Drank coffee
+s8,heart_rate,57
+s8,steps,0
+s9,start,2015-01-05 21:32:25
+s9,end,2015-01-06 05:00:03
+s9,quality,69%
+s9,time_in_bed,7:27
+s9,feeling,:)
+s9,notes,Drank coffee:Drank tea:Worked out
+s9,heart_rate,56
+s9,steps,0
+s10,start,2015-01-06 21:24:56
+s10,end,2015-01-07 05:00:02
+s10,quality,74%
+s10,time_in_bed,7:35
+s10,feeling,:|
+s10,notes,Drank tea:Worked out
+s10,heart_rate,64
+s10,steps,0
+s11,start,2015-01-07 20:59:58
+s11,end,2015-01-08 06:19:20
+s11,quality,81%
+s11,time_in_bed,9:19
+s11,feeling,:)
+s11,notes,Drank coffee:Drank tea:Stressful day
+s11,heart_rate,62
+s11,steps,0
+s12,start,2015-01-08 22:58:18
+s12,end,2015-01-09 06:14:58
+s12,quality,88%
+s12,time_in_bed,7:16
+s12,feeling,:)
+s12,notes,Drank coffee:Drank tea
+s12,heart_rate,58
+s12,steps,0
+s13,start,2015-01-09 22:27:58
+s13,end,2015-01-10 07:29:00
+s13,quality,77%
+s13,time_in_bed,9:01
+s13,feeling,:|
+s13,notes,Drank coffee:Drank tea
+s13,heart_rate,65
+s13,steps,0
+s14,start,2015-01-10 22:38:24
+s14,end,2015-01-11 07:28:59
+s14,quality,89%
+s14,time_in_bed,8:50
+s14,feeling,:|
+s14,notes,Drank coffee:Drank tea
+s14,heart_rate,65
+s14,steps,0
+s15,start,2015-01-11 22:12:07
+s15,end,2015-01-12 06:20:29
+s15,quality,78%
+s15,time_in_bed,8:08
+s15,feeling,:)
+s15,notes,Drank tea
+s15,heart_rate,53
+s15,steps,0
+s16,start,2015-01-12 21:01:46
+s16,end,2015-01-13 06:13:23
+s16,quality,100%
+s16,time_in_bed,9:11
+s16,feeling,:)
+s16,notes,Drank tea:Worked out
+s16,heart_rate,65
+s16,steps,0
+s17,start,2015-01-13 22:14:29
+s17,end,2015-01-14 06:20:33
+s17,quality,100%
+s17,time_in_bed,8:06
+s17,feeling,:)
+s17,notes,Drank coffee:Drank tea
+s17,heart_rate,55
+s17,steps,0
+s18,start,2015-01-14 21:48:26
+s18,end,2015-01-15 05:02:05
+s18,quality,88%
+s18,time_in_bed,7:13
+s18,feeling,:)
+s18,notes,Drank coffee:Drank tea:Worked out
+s18,heart_rate,60
+s18,steps,0
+s19,start,2015-01-15 21:32:07
+s19,end,2015-01-16 04:54:42
+s19,quality,87%
+s19,time_in_bed,7:22
+s19,feeling,:)
+s19,notes,Drank tea
+s19,heart_rate,60
+s19,steps,0
+s20,start,2015-01-17 02:11:57
+s20,end,2015-01-17 09:03:37
+s20,quality,83%
+s20,time_in_bed,6:51
+s20,feeling,:)
+s20,notes,Drank coffee:Drank tea
+s20,heart_rate,94
+s20,steps,0
+s21,start,2015-01-17 23:55:16
+s21,end,2015-01-18 07:47:15
+s21,quality,93%
+s21,time_in_bed,7:51
+s21,feeling,:)
+s21,notes,Drank coffee:Drank tea
+s21,heart_rate,57
+s21,steps,0
+s22,start,2015-01-18 21:51:53
+s22,end,2015-01-19 05:04:18
+s22,quality,58%
+s22,time_in_bed,7:12
+s22,feeling,:)
+s22,notes,Drank coffee
+s22,heart_rate,67
+s22,steps,0
+s23,start,2015-01-19 05:06:38
+s23,end,2015-01-19 06:20:29
+s23,quality,16%
+s23,time_in_bed,1:13
+s23,feeling,:)
+s23,heart_rate,58
+s23,steps,0
+s24,start,2015-01-19 21:45:19
+s24,end,2015-01-20 05:45:37
+s24,quality,75%
+s24,time_in_bed,8:00
+s24,feeling,:|
+s24,notes,Drank coffee:Drank tea:Worked out
+s24,heart_rate,54
+s24,steps,0
+s25,start,2015-01-20 21:42:37
+s25,end,2015-01-21 05:45:22
+s25,quality,80%
+s25,time_in_bed,8:02
+s25,feeling,:|
+s25,notes,Drank coffee:Drank tea:Worked out
+s25,heart_rate,60
+s25,steps,0
+s26,start,2015-01-21 22:34:35
+s26,end,2015-01-22 06:17:22
+s26,quality,87%
+s26,time_in_bed,7:42
+s26,feeling,:)
+s26,notes,Drank coffee:Drank tea:Worked out
+s26,heart_rate,75
+s26,steps,0
+s27,start,2015-01-25 20:55:02
+s27,end,2015-01-26 06:14:59
+s27,quality,87%
+s27,time_in_bed,9:19
+s27,feeling,:)
+s27,notes,Drank coffee
+s27,heart_rate,58
+s27,steps,0
+s28,start,2015-01-26 22:36:21
+s28,end,2015-01-27 06:11:49
+s28,quality,83%
+s28,time_in_bed,7:35
+s28,feeling,:|
+s28,notes,Drank coffee:Drank tea:Stressful day
+s28,heart_rate,66
+s28,steps,0
+s29,start,2015-01-28 21:43:16
+s29,end,2015-01-29 05:20:42
+s29,quality,76%
+s29,time_in_bed,7:37
+s29,feeling,:)
+s29,notes,Drank coffee:Drank tea:Stressful day
+s29,heart_rate,57
+s29,steps,0
+s30,start,2015-01-29 22:23:40
+s30,end,2015-01-30 05:29:11
+s30,quality,67%
+s30,time_in_bed,7:05
+s30,feeling,:)
+s30,notes,Drank coffee:Drank tea:Worked out
+s30,heart_rate,63
+s30,steps,0
+s31,start,2015-01-31 00:13:46
+s31,end,2015-01-31 08:17:30
+s31,quality,93%
+s31,time_in_bed,8:03
+s31,feeling,:)
+s31,notes,Drank coffee:Drank tea:Stressful day
+s31,heart_rate,62
+s31,steps,0
+s32,start,2015-02-01 21:55:59
+s32,end,2015-02-02 05:09:06
+s32,quality,64%
+s32,time_in_bed,7:13
+s32,feeling,:)
+s32,notes,Drank coffee:Drank tea
+s32,heart_rate,56
+s32,steps,0
+s33,start,2015-02-02 22:30:35
+s33,end,2015-02-03 06:20:29
+s33,quality,75%
+s33,time_in_bed,7:49
+s33,feeling,:)
+s33,notes,Drank tea
+s33,heart_rate,61
+s33,steps,0
+s34,start,2015-02-03 22:47:33
+s34,end,2015-02-04 06:20:21
+s34,quality,72%
+s34,time_in_bed,7:32
+s34,feeling,:)
+s34,notes,Drank coffee:Drank tea
+s34,heart_rate,61
+s34,steps,0
+s35,start,2015-02-04 23:03:06
+s35,end,2015-02-05 06:10:44
+s35,quality,70%
+s35,time_in_bed,7:07
+s35,feeling,:)
+s35,notes,Drank tea:Worked out
+s35,heart_rate,57
+s35,steps,0
+s36,start,2015-02-08 22:30:34
+s36,end,2015-02-09 06:48:30
+s36,quality,89%
+s36,time_in_bed,8:17
+s36,feeling,:)
+s36,notes,Drank coffee:Drank tea
+s36,heart_rate,61
+s36,steps,0
+s37,start,2015-02-09 21:55:43
+s37,end,2015-02-10 06:13:22
+s37,quality,85%
+s37,time_in_bed,8:17
+s37,feeling,:)
+s37,notes,Drank coffee
+s37,heart_rate,58
+s37,steps,0
+s38,start,2015-02-10 22:20:46
+s38,end,2015-02-11 06:20:51
+s38,quality,59%
+s38,time_in_bed,8:00
+s38,feeling,:)
+s38,notes,Drank coffee
+s38,heart_rate,60
+s38,steps,0
+s39,start,2015-02-11 21:53:45
+s39,end,2015-02-12 05:30:25
+s39,quality,67%
+s39,time_in_bed,7:36
+s39,feeling,:)
+s39,notes,Drank coffee:Drank tea:Worked out
+s39,heart_rate,57
+s39,steps,0
+s40,start,2015-02-12 22:34:54
+s40,end,2015-02-13 05:24:22
+s40,quality,69%
+s40,time_in_bed,6:49
+s40,feeling,:)
+s40,notes,Drank coffee:Drank tea:Worked out
+s40,heart_rate,53
+s40,steps,0
+s41,start,2015-02-15 22:16:27
+s41,end,2015-02-16 05:20:44
+s41,quality,74%
+s41,time_in_bed,7:04
+s41,feeling,:)
+s41,notes,Drank coffee
+s41,heart_rate,60
+s41,steps,0
+s42,start,2015-02-17 00:02:30
+s42,end,2015-02-17 06:16:11
+s42,quality,78%
+s42,time_in_bed,6:13
+s42,feeling,:)
+s42,notes,Drank coffee:Drank tea:Worked out
+s42,heart_rate,65
+s42,steps,0
+s43,start,2015-02-17 22:20:00
+s43,end,2015-02-18 05:05:23
+s43,quality,70%
+s43,time_in_bed,6:45
+s43,feeling,:)
+s43,notes,Drank coffee:Drank tea
+s43,heart_rate,55
+s43,steps,0
+s44,start,2015-02-19 22:39:45
+s44,end,2015-02-20 06:20:14
+s44,quality,77%
+s44,time_in_bed,7:40
+s44,feeling,:)
+s44,notes,Drank coffee:Drank tea:Stressful day
+s44,heart_rate,66
+s44,steps,0
+s45,start,2015-02-21 00:31:24
+s45,end,2015-02-21 07:32:22
+s45,quality,72%
+s45,time_in_bed,7:00
+s45,feeling,:)
+s45,notes,Drank coffee:Drank tea:Worked out
+s45,heart_rate,55
+s45,steps,0
+s46,start,2015-02-21 22:54:00
+s46,end,2015-02-22 07:49:15
+s46,quality,92%
+s46,time_in_bed,8:55
+s46,feeling,:)
+s46,notes,Drank coffee:Drank tea
+s46,heart_rate,56
+s46,steps,0
+s47,start,2015-02-22 22:18:00
+s47,end,2015-02-23 06:20:17
+s47,quality,87%
+s47,time_in_bed,8:02
+s47,feeling,:)
+s47,notes,Drank coffee
+s47,heart_rate,60
+s47,steps,0
+s48,start,2015-02-24 22:30:11
+s48,end,2015-02-25 06:20:07
+s48,quality,69%
+s48,time_in_bed,7:49
+s48,feeling,:)
+s48,notes,Drank coffee:Drank tea
+s48,heart_rate,62
+s48,steps,0
+s49,start,2015-02-26 01:22:32
+s49,end,2015-02-26 07:16:32
+s49,quality,65%
+s49,time_in_bed,5:54
+s49,feeling,:|
+s49,notes,Drank coffee:Drank tea
+s49,steps,0
+s50,start,2015-02-26 21:42:32
+s50,end,2015-02-27 05:37:28
+s50,quality,90%
+s50,time_in_bed,7:54
+s50,feeling,:)
+s50,notes,Drank tea:Worked out
+s50,heart_rate,61
+s50,steps,0
+s51,start,2015-03-01 20:14:26
+s51,end,2015-03-02 05:44:08
+s51,quality,88%
+s51,time_in_bed,9:29
+s51,feeling,:)
+s51,notes,Drank coffee
+s51,heart_rate,62
+s51,steps,0
+s52,start,2015-03-03 21:47:16
+s52,end,2015-03-04 05:30:18
+s52,quality,61%
+s52,time_in_bed,7:43
+s52,feeling,:)
+s52,notes,Drank coffee:Drank tea:Worked out
+s52,heart_rate,62
+s52,steps,0
+s53,start,2015-03-04 20:53:47
+s53,end,2015-03-05 06:13:31
+s53,quality,54%
+s53,time_in_bed,9:19
+s53,feeling,:)
+s53,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s53,heart_rate,68
+s53,steps,0
+s54,start,2015-03-05 22:29:33
+s54,end,2015-03-06 06:20:18
+s54,quality,86%
+s54,time_in_bed,7:50
+s54,feeling,:)
+s54,notes,Drank coffee:Drank tea
+s54,heart_rate,58
+s54,steps,0
+s55,start,2015-03-08 22:54:58
+s55,end,2015-03-09 06:20:12
+s55,quality,69%
+s55,time_in_bed,7:25
+s55,feeling,:)
+s55,notes,Drank coffee
+s55,heart_rate,61
+s55,steps,0
+s56,start,2015-03-09 21:28:08
+s56,end,2015-03-10 06:18:59
+s56,quality,99%
+s56,time_in_bed,8:50
+s56,feeling,:)
+s56,notes,Drank coffee:Drank tea
+s56,heart_rate,67
+s56,steps,0
+s57,start,2015-03-10 22:17:17
+s57,end,2015-03-11 06:18:56
+s57,quality,82%
+s57,time_in_bed,8:01
+s57,feeling,:)
+s57,notes,Drank coffee:Drank tea
+s57,heart_rate,71
+s57,steps,0
+s58,start,2015-03-11 21:39:44
+s58,end,2015-03-12 05:19:55
+s58,quality,77%
+s58,time_in_bed,7:40
+s58,feeling,:)
+s58,notes,Drank coffee:Drank tea
+s58,heart_rate,63
+s58,steps,0
+s59,start,2015-03-12 21:44:36
+s59,end,2015-03-13 05:20:52
+s59,quality,72%
+s59,time_in_bed,7:36
+s59,feeling,:)
+s59,notes,Drank coffee:Drank tea:Worked out
+s59,heart_rate,60
+s59,steps,0
+s60,start,2015-03-15 21:50:56
+s60,end,2015-03-16 04:51:22
+s60,quality,82%
+s60,time_in_bed,7:00
+s60,feeling,:)
+s60,heart_rate,62
+s60,steps,0
+s61,start,2015-03-16 21:48:42
+s61,end,2015-03-17 05:21:34
+s61,quality,75%
+s61,time_in_bed,7:32
+s61,feeling,:)
+s61,notes,Drank coffee:Drank tea
+s61,heart_rate,54
+s61,steps,0
+s62,start,2015-03-17 23:57:46
+s62,end,2015-03-18 08:01:27
+s62,quality,91%
+s62,time_in_bed,8:03
+s62,feeling,:)
+s62,notes,Drank coffee:Drank tea:Worked out
+s62,heart_rate,62
+s62,steps,0
+s63,start,2015-03-21 01:10:15
+s63,end,2015-03-21 08:00:08
+s63,quality,74%
+s63,time_in_bed,6:49
+s63,feeling,:)
+s63,notes,Drank coffee
+s63,heart_rate,66
+s63,steps,0
+s64,start,2015-03-22 23:07:46
+s64,end,2015-03-23 07:30:02
+s64,quality,75%
+s64,time_in_bed,8:22
+s64,feeling,:)
+s64,notes,Drank coffee:Drank tea
+s64,heart_rate,65
+s64,steps,0
+s65,start,2015-03-24 22:11:07
+s65,end,2015-03-25 06:19:05
+s65,quality,84%
+s65,time_in_bed,8:07
+s65,feeling,:)
+s65,notes,Drank coffee
+s65,heart_rate,58
+s65,steps,0
+s66,start,2015-03-25 22:00:06
+s66,end,2015-03-26 05:22:21
+s66,quality,76%
+s66,time_in_bed,7:22
+s66,feeling,:)
+s66,notes,Drank coffee:Drank tea:Worked out
+s66,steps,0
+s67,start,2015-03-26 21:23:43
+s67,end,2015-03-27 05:26:51
+s67,quality,92%
+s67,time_in_bed,8:03
+s67,feeling,:)
+s67,notes,Drank tea:Worked out
+s67,heart_rate,54
+s67,steps,0
+s68,start,2015-03-30 22:30:48
+s68,end,2015-03-31 05:28:23
+s68,quality,82%
+s68,time_in_bed,6:57
+s68,feeling,:)
+s68,notes,Drank coffee:Worked out
+s68,heart_rate,64
+s68,steps,0
+s69,start,2015-03-31 22:17:15
+s69,end,2015-04-01 05:50:10
+s69,quality,84%
+s69,time_in_bed,7:32
+s69,feeling,:)
+s69,notes,Drank coffee:Drank tea:Worked out
+s69,heart_rate,55
+s69,steps,0
+s70,start,2015-04-04 23:13:30
+s70,end,2015-04-05 07:31:06
+s70,quality,95%
+s70,time_in_bed,8:17
+s70,feeling,:)
+s70,notes,Drank coffee:Drank tea
+s70,steps,0
+s71,start,2015-04-06 21:22:37
+s71,end,2015-04-07 06:15:41
+s71,quality,79%
+s71,time_in_bed,8:53
+s71,feeling,:)
+s71,notes,Drank coffee:Drank tea
+s71,heart_rate,55
+s71,steps,0
+s72,start,2015-04-07 21:17:36
+s72,end,2015-04-08 06:18:55
+s72,quality,100%
+s72,time_in_bed,9:01
+s72,feeling,:)
+s72,notes,Drank tea
+s72,heart_rate,51
+s72,steps,0
+s73,start,2015-04-08 22:09:38
+s73,end,2015-04-09 05:02:01
+s73,quality,81%
+s73,time_in_bed,6:52
+s73,feeling,:)
+s73,notes,Drank tea
+s73,heart_rate,52
+s73,steps,0
+s74,start,2015-04-09 21:56:08
+s74,end,2015-04-10 05:23:08
+s74,quality,80%
+s74,time_in_bed,7:27
+s74,feeling,:)
+s74,notes,Drank coffee:Drank tea:Worked out
+s74,steps,0
+s75,start,2015-04-10 23:51:30
+s75,end,2015-04-11 07:41:42
+s75,quality,85%
+s75,time_in_bed,7:50
+s75,feeling,:)
+s75,notes,Drank tea:Worked out
+s75,steps,0
+s76,start,2015-04-11 23:16:56
+s76,end,2015-04-12 06:53:03
+s76,quality,97%
+s76,time_in_bed,7:36
+s76,feeling,:)
+s76,notes,Drank coffee:Drank tea
+s76,heart_rate,52
+s76,steps,0
+s77,start,2015-04-12 22:04:59
+s77,end,2015-04-13 05:41:13
+s77,quality,84%
+s77,time_in_bed,7:36
+s77,feeling,:)
+s77,notes,Drank coffee:Drank tea
+s77,heart_rate,58
+s77,steps,0
+s78,start,2015-04-13 22:19:39
+s78,end,2015-04-14 05:45:04
+s78,quality,78%
+s78,time_in_bed,7:25
+s78,feeling,:)
+s78,notes,Drank tea:Worked out
+s78,heart_rate,57
+s78,steps,0
+s79,start,2015-04-15 00:28:55
+s79,end,2015-04-15 07:30:14
+s79,quality,81%
+s79,time_in_bed,7:01
+s79,feeling,:)
+s79,notes,Drank coffee:Drank tea:Worked out
+s79,heart_rate,63
+s79,steps,0
+s80,start,2015-04-16 23:20:50
+s80,end,2015-04-17 06:20:07
+s80,quality,82%
+s80,time_in_bed,6:59
+s80,feeling,:)
+s80,notes,Drank coffee:Drank tea
+s80,heart_rate,58
+s80,steps,0
+s81,start,2015-04-17 23:50:04
+s81,end,2015-04-18 07:22:19
+s81,quality,59%
+s81,time_in_bed,7:32
+s81,feeling,:)
+s81,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s81,heart_rate,53
+s81,steps,0
+s82,start,2015-04-20 22:37:59
+s82,end,2015-04-21 06:18:56
+s82,quality,77%
+s82,time_in_bed,7:40
+s82,feeling,:)
+s82,notes,Drank coffee:Drank tea
+s82,heart_rate,58
+s82,steps,0
+s83,start,2015-04-22 21:31:35
+s83,end,2015-04-23 05:11:23
+s83,quality,77%
+s83,time_in_bed,7:39
+s83,feeling,:)
+s83,notes,Drank coffee:Drank tea:Stressful day
+s83,heart_rate,67
+s83,steps,0
+s84,start,2015-04-23 21:46:46
+s84,end,2015-04-24 05:13:42
+s84,quality,87%
+s84,time_in_bed,7:26
+s84,feeling,:)
+s84,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s84,steps,0
+s85,start,2015-04-25 22:53:27
+s85,end,2015-04-26 07:53:35
+s85,quality,100%
+s85,time_in_bed,9:00
+s85,feeling,:)
+s85,notes,Drank coffee:Drank tea
+s85,heart_rate,61
+s85,steps,0
+s86,start,2015-04-26 21:51:16
+s86,end,2015-04-27 04:59:06
+s86,quality,70%
+s86,time_in_bed,7:07
+s86,feeling,:)
+s86,notes,Ate late:Drank coffee:Drank tea
+s86,heart_rate,64
+s86,steps,0
+s87,start,2015-04-27 21:35:56
+s87,end,2015-04-28 04:57:17
+s87,quality,77%
+s87,time_in_bed,7:21
+s87,feeling,:)
+s87,notes,Drank tea:Worked out
+s87,heart_rate,59
+s87,steps,0
+s88,start,2015-04-28 21:41:45
+s88,end,2015-04-29 05:00:17
+s88,quality,53%
+s88,time_in_bed,7:18
+s88,feeling,:)
+s88,notes,Drank coffee:Worked out
+s88,heart_rate,59
+s88,steps,0
+s89,start,2015-04-30 23:13:44
+s89,end,2015-05-01 06:06:21
+s89,quality,77%
+s89,time_in_bed,6:52
+s89,feeling,:)
+s89,notes,Drank coffee:Drank tea:Stressful day
+s89,heart_rate,60
+s89,steps,0
+s90,start,2015-05-01 22:20:45
+s90,end,2015-05-02 06:07:10
+s90,quality,65%
+s90,time_in_bed,7:46
+s90,feeling,:)
+s90,notes,Drank coffee:Worked out
+s90,heart_rate,91
+s90,steps,0
+s91,start,2015-05-05 22:23:26
+s91,end,2015-05-06 06:18:20
+s91,quality,83%
+s91,time_in_bed,7:54
+s91,feeling,:)
+s91,notes,Drank coffee:Drank tea:Worked out
+s91,heart_rate,62
+s91,steps,0
+s92,start,2015-05-06 21:47:25
+s92,end,2015-05-07 05:21:38
+s92,quality,50%
+s92,time_in_bed,7:34
+s92,feeling,:)
+s92,notes,Ate late:Drank coffee:Drank tea:Worked out
+s92,heart_rate,59
+s92,steps,0
+s93,start,2015-05-07 21:22:59
+s93,end,2015-05-08 04:57:13
+s93,quality,89%
+s93,time_in_bed,7:34
+s93,feeling,:)
+s93,notes,Drank tea:Worked out
+s93,heart_rate,54
+s93,steps,0
+s94,start,2015-05-09 01:58:47
+s94,end,2015-05-09 07:01:52
+s94,quality,61%
+s94,time_in_bed,5:03
+s94,feeling,:)
+s94,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s94,heart_rate,75
+s94,steps,0
+s95,start,2015-05-10 22:11:42
+s95,end,2015-05-11 05:00:10
+s95,quality,66%
+s95,time_in_bed,6:48
+s95,feeling,:)
+s95,notes,Drank coffee:Drank tea:Worked out
+s95,heart_rate,50
+s95,steps,0
+s96,start,2015-05-11 21:57:02
+s96,end,2015-05-12 05:00:13
+s96,quality,75%
+s96,time_in_bed,7:03
+s96,feeling,:)
+s96,notes,Drank tea:Worked out
+s96,heart_rate,55
+s96,steps,0
+s97,start,2015-05-12 22:04:51
+s97,end,2015-05-13 04:52:48
+s97,quality,72%
+s97,time_in_bed,6:47
+s97,feeling,:)
+s97,notes,Drank tea:Worked out
+s97,heart_rate,59
+s97,steps,0
+s98,start,2015-05-14 22:49:01
+s98,end,2015-05-15 06:17:50
+s98,quality,79%
+s98,time_in_bed,7:28
+s98,feeling,:)
+s98,notes,Drank coffee:Drank tea
+s98,heart_rate,51
+s98,steps,0
+s99,start,2015-05-17 21:03:11
+s99,end,2015-05-18 07:49:16
+s99,quality,93%
+s99,time_in_bed,10:46
+s99,feeling,:)
+s99,notes,Drank tea:Stressful day
+s99,heart_rate,59
+s99,steps,0
+s100,start,2015-05-18 22:39:06
+s100,end,2015-05-19 06:20:30
+s100,quality,91%
+s100,time_in_bed,7:41
+s100,feeling,:)
+s100,heart_rate,59
+s100,steps,0
+s101,start,2015-05-20 22:22:50
+s101,end,2015-05-21 05:25:20
+s101,quality,59%
+s101,time_in_bed,7:02
+s101,feeling,:)
+s101,notes,Drank tea:Worked out
+s101,heart_rate,62
+s101,steps,0
+s102,start,2015-05-21 22:47:04
+s102,end,2015-05-22 05:25:14
+s102,quality,74%
+s102,time_in_bed,6:38
+s102,feeling,:)
+s102,notes,Drank coffee:Drank tea:Worked out
+s102,heart_rate,60
+s102,steps,0
+s103,start,2015-05-24 00:01:49
+s103,end,2015-05-24 07:35:15
+s103,quality,73%
+s103,time_in_bed,7:33
+s103,feeling,:)
+s103,notes,Drank coffee:Worked out
+s103,steps,0
+s104,start,2015-05-24 22:58:17
+s104,end,2015-05-25 06:45:23
+s104,quality,67%
+s104,time_in_bed,7:47
+s104,feeling,:)
+s104,notes,Drank coffee:Drank tea
+s104,heart_rate,61
+s104,steps,0
+s105,start,2015-05-25 22:05:49
+s105,end,2015-05-26 05:29:03
+s105,quality,85%
+s105,time_in_bed,7:23
+s105,feeling,:)
+s105,notes,Drank coffee:Drank tea
+s105,steps,0
+s106,start,2015-05-26 22:18:17
+s106,end,2015-05-27 05:14:36
+s106,quality,69%
+s106,time_in_bed,6:56
+s106,feeling,:)
+s106,notes,Drank coffee:Drank tea:Worked out
+s106,steps,0
+s107,start,2015-05-28 23:10:34
+s107,end,2015-05-29 07:00:03
+s107,quality,81%
+s107,time_in_bed,7:49
+s107,feeling,:)
+s107,notes,Drank coffee:Drank tea:Worked out
+s107,heart_rate,52
+s107,steps,0
+s108,start,2015-05-31 23:16:56
+s108,end,2015-06-01 06:20:08
+s108,quality,72%
+s108,time_in_bed,7:03
+s108,feeling,:)
+s108,notes,Drank coffee
+s108,heart_rate,76
+s108,steps,0
+s109,start,2015-06-01 22:20:07
+s109,end,2015-06-02 06:19:46
+s109,quality,76%
+s109,time_in_bed,7:59
+s109,feeling,:)
+s109,notes,Drank coffee:Drank tea:Worked out
+s109,heart_rate,57
+s109,steps,0
+s110,start,2015-06-03 22:19:31
+s110,end,2015-06-04 05:20:25
+s110,quality,78%
+s110,time_in_bed,7:00
+s110,feeling,:)
+s110,notes,Drank coffee:Drank tea
+s110,heart_rate,64
+s110,steps,0
+s111,start,2015-06-04 22:20:19
+s111,end,2015-06-05 03:45:30
+s111,quality,70%
+s111,time_in_bed,5:25
+s111,feeling,:(
+s111,notes,Drank coffee:Drank tea:Worked out
+s111,steps,0
+s112,start,2015-06-05 03:45:52
+s112,end,2015-06-05 05:41:01
+s112,quality,23%
+s112,time_in_bed,1:55
+s112,feeling,:)
+s112,heart_rate,57
+s112,steps,0
+s113,start,2015-06-07 22:01:10
+s113,end,2015-06-08 05:40:26
+s113,quality,75%
+s113,time_in_bed,7:39
+s113,feeling,:)
+s113,notes,Drank coffee
+s113,heart_rate,58
+s113,steps,0
+s114,start,2015-06-08 21:57:12
+s114,end,2015-06-09 05:16:21
+s114,quality,69%
+s114,time_in_bed,7:19
+s114,feeling,:)
+s114,notes,Drank coffee:Drank tea:Worked out
+s114,steps,0
+s115,start,2015-06-09 21:07:02
+s115,end,2015-06-10 05:01:10
+s115,quality,83%
+s115,time_in_bed,7:54
+s115,feeling,:)
+s115,notes,Drank coffee:Drank tea:Worked out
+s115,steps,0
+s116,start,2015-06-10 21:12:48
+s116,end,2015-06-11 06:17:34
+s116,quality,92%
+s116,time_in_bed,9:04
+s116,feeling,:)
+s116,notes,Drank tea:Stressful day:Worked out
+s116,heart_rate,68
+s116,steps,0
+s117,start,2015-06-11 22:54:00
+s117,end,2015-06-12 06:19:02
+s117,quality,74%
+s117,time_in_bed,7:25
+s117,feeling,:)
+s117,notes,Drank coffee:Worked out
+s117,steps,0
+s118,start,2015-06-14 22:38:25
+s118,end,2015-06-15 06:12:56
+s118,quality,81%
+s118,time_in_bed,7:34
+s118,feeling,:)
+s118,notes,Drank coffee:Drank tea
+s118,steps,0
+s119,start,2015-06-15 22:31:51
+s119,end,2015-06-16 06:20:20
+s119,quality,88%
+s119,time_in_bed,7:48
+s119,feeling,:)
+s119,notes,Drank coffee:Drank tea:Worked out
+s119,heart_rate,64
+s119,steps,0
+s120,start,2015-06-16 22:21:15
+s120,end,2015-06-17 06:20:16
+s120,quality,69%
+s120,time_in_bed,7:59
+s120,feeling,:)
+s120,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s120,steps,0
+s121,start,2015-06-17 21:28:17
+s121,end,2015-06-18 05:00:04
+s121,quality,63%
+s121,time_in_bed,7:31
+s121,feeling,:)
+s121,notes,Drank coffee
+s121,steps,0
+s122,start,2015-06-18 22:26:07
+s122,end,2015-06-19 04:46:50
+s122,quality,71%
+s122,time_in_bed,6:20
+s122,feeling,:)
+s122,notes,Drank coffee:Worked out
+s122,steps,0
+s123,start,2015-06-22 21:54:38
+s123,end,2015-06-23 05:07:41
+s123,quality,78%
+s123,time_in_bed,7:13
+s123,feeling,:)
+s123,notes,Drank coffee:Worked out
+s123,steps,0
+s124,start,2015-06-23 22:09:26
+s124,end,2015-06-24 04:57:46
+s124,quality,76%
+s124,time_in_bed,6:48
+s124,feeling,:)
+s124,notes,Drank coffee:Drank tea:Worked out
+s124,steps,0
+s125,start,2015-06-24 04:58:36
+s125,end,2015-06-24 05:45:00
+s125,quality,10%
+s125,time_in_bed,0:46
+s125,feeling,:)
+s125,steps,0
+s126,start,2015-06-24 22:37:23
+s126,end,2015-06-25 06:20:50
+s126,quality,82%
+s126,time_in_bed,7:43
+s126,feeling,:)
+s126,notes,Drank coffee:Stressful day:Worked out
+s126,heart_rate,58
+s126,steps,0
+s127,start,2015-07-11 22:29:21
+s127,end,2015-07-12 08:00:42
+s127,quality,98%
+s127,time_in_bed,9:31
+s127,feeling,:)
+s127,notes,Drank coffee:Stressful day
+s127,heart_rate,69
+s127,steps,0
+s128,start,2015-07-19 21:38:23
+s128,end,2015-07-20 06:09:35
+s128,quality,69%
+s128,time_in_bed,8:31
+s128,feeling,:)
+s128,notes,Drank coffee
+s128,heart_rate,74
+s128,steps,0
+s129,start,2015-07-20 22:01:21
+s129,end,2015-07-21 05:04:47
+s129,quality,68%
+s129,time_in_bed,7:03
+s129,feeling,:)
+s129,notes,Drank coffee:Drank tea:Worked out
+s129,steps,0
+s130,start,2015-07-21 22:02:34
+s130,end,2015-07-22 05:45:33
+s130,quality,79%
+s130,time_in_bed,7:42
+s130,feeling,:)
+s130,notes,Drank coffee:Drank tea:Worked out
+s130,heart_rate,67
+s130,steps,0
+s131,start,2015-07-23 22:29:37
+s131,end,2015-07-24 06:44:02
+s131,quality,86%
+s131,time_in_bed,8:14
+s131,feeling,:)
+s131,notes,Drank coffee:Stressful day:Worked out
+s131,steps,0
+s132,start,2015-07-26 22:29:51
+s132,end,2015-07-27 06:20:13
+s132,quality,93%
+s132,time_in_bed,7:50
+s132,feeling,:)
+s132,notes,Drank coffee:Worked out
+s132,heart_rate,58
+s132,steps,0
+s133,start,2015-07-28 21:32:08
+s133,end,2015-07-29 05:39:59
+s133,quality,68%
+s133,time_in_bed,8:07
+s133,feeling,:)
+s133,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s133,heart_rate,58
+s133,steps,0
+s134,start,2015-07-29 23:06:06
+s134,end,2015-07-30 05:40:14
+s134,quality,71%
+s134,time_in_bed,6:34
+s134,feeling,:)
+s134,notes,Drank coffee:Drank tea:Worked out
+s134,heart_rate,61
+s134,steps,0
+s135,start,2015-07-30 21:40:08
+s135,end,2015-07-31 05:40:15
+s135,quality,88%
+s135,time_in_bed,8:00
+s135,feeling,:)
+s135,notes,Drank coffee:Worked out
+s135,heart_rate,64
+s135,steps,0
+s136,start,2015-08-01 01:41:20
+s136,end,2015-08-01 08:31:02
+s136,quality,77%
+s136,time_in_bed,6:49
+s136,feeling,:)
+s136,notes,Drank coffee:Drank tea:Worked out
+s136,heart_rate,64
+s136,steps,0
+s137,start,2015-08-01 22:55:10
+s137,end,2015-08-02 08:02:09
+s137,quality,97%
+s137,time_in_bed,9:06
+s137,feeling,:)
+s137,notes,Drank coffee:Worked out
+s137,steps,0
+s138,start,2015-08-02 23:45:43
+s138,end,2015-08-03 00:00:48
+s138,quality,3%
+s138,time_in_bed,0:15
+s138,feeling,:|
+s138,notes,Drank coffee:Worked out
+s138,steps,0
+s139,start,2015-08-03 00:26:02
+s139,end,2015-08-03 07:25:42
+s139,quality,88%
+s139,time_in_bed,6:59
+s139,feeling,:)
+s139,notes,Drank coffee:Worked out
+s139,heart_rate,68
+s139,steps,0
+s140,start,2015-08-03 21:46:15
+s140,end,2015-08-04 05:00:34
+s140,quality,71%
+s140,time_in_bed,7:14
+s140,feeling,:)
+s140,notes,Drank coffee:Stressful day:Worked out
+s140,steps,0
+s141,start,2015-08-04 21:17:10
+s141,end,2015-08-05 04:55:48
+s141,quality,81%
+s141,time_in_bed,7:38
+s141,feeling,:)
+s141,notes,Drank coffee:Drank tea:Worked out
+s141,steps,0
+s142,start,2015-08-05 21:35:13
+s142,end,2015-08-06 04:55:01
+s142,quality,78%
+s142,time_in_bed,7:19
+s142,feeling,:)
+s142,notes,Drank coffee:Drank tea:Worked out
+s142,heart_rate,57
+s142,steps,0
+s143,start,2015-08-08 00:19:09
+s143,end,2015-08-08 07:56:38
+s143,quality,97%
+s143,time_in_bed,7:37
+s143,feeling,:)
+s143,notes,Drank coffee:Worked out
+s143,heart_rate,54
+s143,steps,0
+s144,start,2015-08-10 00:01:12
+s144,end,2015-08-10 05:03:22
+s144,quality,65%
+s144,time_in_bed,5:02
+s144,feeling,:)
+s144,notes,Drank coffee
+s144,steps,0
+s145,start,2015-08-10 21:11:19
+s145,end,2015-08-11 06:09:21
+s145,quality,72%
+s145,time_in_bed,8:58
+s145,feeling,:)
+s145,notes,Drank coffee:Drank tea:Worked out
+s145,heart_rate,50
+s145,steps,0
+s146,start,2015-08-15 23:41:21
+s146,end,2015-08-16 07:27:56
+s146,quality,84%
+s146,time_in_bed,7:46
+s146,feeling,:)
+s146,notes,Drank coffee
+s146,steps,0
+s147,start,2015-08-16 21:44:20
+s147,end,2015-08-17 04:45:16
+s147,quality,58%
+s147,time_in_bed,7:00
+s147,feeling,:)
+s147,notes,Drank coffee
+s147,heart_rate,56
+s147,steps,0
+s148,start,2015-08-17 22:13:05
+s148,end,2015-08-18 05:27:25
+s148,quality,85%
+s148,time_in_bed,7:14
+s148,feeling,:)
+s148,notes,Drank coffee:Drank tea:Worked out
+s148,steps,0
+s149,start,2015-08-18 22:33:21
+s149,end,2015-08-19 06:45:33
+s149,quality,90%
+s149,time_in_bed,8:12
+s149,feeling,:)
+s149,notes,Drank coffee:Drank tea:Worked out
+s149,heart_rate,57
+s149,steps,0
+s150,start,2015-08-19 21:48:50
+s150,end,2015-08-20 06:01:07
+s150,quality,79%
+s150,time_in_bed,8:12
+s150,feeling,:)
+s150,notes,Drank coffee:Worked out
+s150,heart_rate,51
+s150,steps,0
+s151,start,2015-08-20 22:36:23
+s151,end,2015-08-21 06:00:11
+s151,quality,69%
+s151,time_in_bed,7:23
+s151,feeling,:)
+s151,notes,Drank coffee
+s151,heart_rate,58
+s151,steps,0
+s152,start,2015-08-21 21:52:41
+s152,end,2015-08-22 06:00:13
+s152,quality,88%
+s152,time_in_bed,8:07
+s152,feeling,:)
+s152,notes,Drank coffee:Stressful day
+s152,steps,0
+s153,start,2015-08-22 21:59:47
+s153,end,2015-08-23 05:49:06
+s153,quality,90%
+s153,time_in_bed,7:49
+s153,feeling,:)
+s153,notes,Drank coffee
+s153,heart_rate,52
+s153,steps,0
+s154,start,2015-08-23 21:59:05
+s154,end,2015-08-24 05:29:52
+s154,quality,83%
+s154,time_in_bed,7:30
+s154,feeling,:)
+s154,notes,Ate late:Drank coffee:Drank tea
+s154,heart_rate,52
+s154,steps,0
+s155,start,2015-08-25 21:57:25
+s155,end,2015-08-26 05:45:28
+s155,quality,67%
+s155,time_in_bed,7:48
+s155,feeling,:)
+s155,notes,Drank coffee
+s155,steps,0
+s156,start,2015-08-26 21:14:31
+s156,end,2015-08-27 05:45:18
+s156,quality,90%
+s156,time_in_bed,8:30
+s156,feeling,:)
+s156,notes,Drank coffee:Stressful day
+s156,steps,0
+s157,start,2015-08-27 21:19:00
+s157,end,2015-08-28 05:45:10
+s157,quality,93%
+s157,time_in_bed,8:26
+s157,feeling,:|
+s157,heart_rate,60
+s157,steps,0
+s158,start,2015-08-28 22:01:03
+s158,end,2015-08-29 06:00:39
+s158,quality,85%
+s158,time_in_bed,7:59
+s158,feeling,:)
+s158,notes,Drank coffee:Drank tea
+s158,heart_rate,62
+s158,steps,0
+s159,start,2015-08-30 22:00:05
+s159,end,2015-08-31 06:00:18
+s159,quality,84%
+s159,time_in_bed,8:00
+s159,feeling,:)
+s159,notes,Drank coffee
+s159,heart_rate,66
+s159,steps,0
+s160,start,2015-08-31 22:14:35
+s160,end,2015-09-01 06:00:59
+s160,quality,77%
+s160,time_in_bed,7:46
+s160,feeling,:)
+s160,notes,Drank coffee
+s160,steps,0
+s161,start,2015-09-01 22:00:12
+s161,end,2015-09-02 06:00:07
+s161,quality,85%
+s161,time_in_bed,7:59
+s161,feeling,:)
+s161,notes,Drank tea
+s161,heart_rate,65
+s161,steps,0
+s162,start,2015-09-02 23:36:43
+s162,end,2015-09-03 07:10:29
+s162,quality,77%
+s162,time_in_bed,7:33
+s162,feeling,:)
+s162,notes,Drank coffee
+s162,heart_rate,57
+s162,steps,0
+s163,start,2015-09-05 22:54:41
+s163,end,2015-09-06 06:59:15
+s163,quality,87%
+s163,time_in_bed,8:04
+s163,feeling,:)
+s163,notes,Drank coffee
+s163,steps,0
+s164,start,2015-09-07 22:45:57
+s164,end,2015-09-08 06:13:08
+s164,quality,84%
+s164,time_in_bed,7:27
+s164,feeling,:)
+s164,notes,Drank coffee:Drank tea
+s164,heart_rate,61
+s164,steps,0
+s165,start,2015-09-08 22:03:28
+s165,end,2015-09-09 06:04:55
+s165,quality,86%
+s165,time_in_bed,8:01
+s165,feeling,:)
+s165,notes,Drank tea:Worked out
+s165,steps,0
+s166,start,2015-09-09 22:40:40
+s166,end,2015-09-10 06:10:24
+s166,quality,83%
+s166,time_in_bed,7:29
+s166,feeling,:)
+s166,notes,Drank coffee:Drank tea:Worked out
+s166,steps,0
+s167,start,2015-09-10 22:10:47
+s167,end,2015-09-11 04:57:40
+s167,quality,77%
+s167,time_in_bed,6:46
+s167,feeling,:)
+s167,notes,Drank coffee:Drank tea:Worked out
+s167,steps,0
+s168,start,2015-09-12 00:06:20
+s168,end,2015-09-12 07:41:35
+s168,quality,81%
+s168,time_in_bed,7:35
+s168,feeling,:)
+s168,notes,Drank coffee:Worked out
+s168,steps,0
+s169,start,2015-09-13 22:03:28
+s169,end,2015-09-14 05:50:31
+s169,quality,81%
+s169,time_in_bed,7:47
+s169,feeling,:)
+s169,notes,Drank coffee
+s169,steps,0
+s170,start,2015-09-14 22:33:49
+s170,end,2015-09-15 06:30:22
+s170,quality,83%
+s170,time_in_bed,7:56
+s170,feeling,:)
+s170,notes,Drank coffee:Stressful day:Worked out
+s170,steps,0
+s171,start,2015-09-15 22:14:42
+s171,end,2015-09-16 05:55:16
+s171,quality,70%
+s171,time_in_bed,7:40
+s171,feeling,:)
+s171,notes,Drank coffee:Worked out
+s171,steps,0
+s172,start,2015-09-16 21:59:14
+s172,end,2015-09-17 06:20:08
+s172,quality,80%
+s172,time_in_bed,8:20
+s172,feeling,:)
+s172,notes,Drank coffee:Drank tea:Worked out
+s172,heart_rate,59
+s172,steps,0
+s173,start,2015-09-17 22:57:35
+s173,end,2015-09-18 06:20:12
+s173,quality,60%
+s173,time_in_bed,7:22
+s173,feeling,:)
+s173,notes,Drank coffee:Drank tea:Worked out
+s173,heart_rate,56
+s173,steps,0
+s174,start,2015-09-19 00:31:33
+s174,end,2015-09-19 06:55:11
+s174,quality,55%
+s174,time_in_bed,6:23
+s174,feeling,:)
+s174,notes,Drank coffee
+s174,steps,0
+s175,start,2015-09-19 22:01:37
+s175,end,2015-09-20 06:48:52
+s175,quality,91%
+s175,time_in_bed,8:47
+s175,feeling,:)
+s175,notes,Drank coffee
+s175,steps,0
+s176,start,2015-09-20 22:07:26
+s176,end,2015-09-21 06:15:54
+s176,quality,79%
+s176,time_in_bed,8:08
+s176,feeling,:)
+s176,notes,Drank coffee:Drank tea:Worked out
+s176,heart_rate,55
+s176,steps,0
+s177,start,2015-09-22 21:34:08
+s177,end,2015-09-23 06:15:39
+s177,quality,81%
+s177,time_in_bed,8:41
+s177,feeling,:)
+s177,notes,Drank coffee:Drank tea:Worked out
+s177,heart_rate,58
+s177,steps,0
+s178,start,2015-09-23 21:37:35
+s178,end,2015-09-24 05:07:03
+s178,quality,77%
+s178,time_in_bed,7:29
+s178,feeling,:)
+s178,notes,Drank coffee:Drank tea:Worked out
+s178,heart_rate,49
+s178,steps,0
+s179,start,2015-09-24 22:37:41
+s179,end,2015-09-25 06:00:13
+s179,quality,83%
+s179,time_in_bed,7:22
+s179,feeling,:)
+s179,notes,Ate late:Drank coffee:Drank tea:Worked out
+s179,steps,0
+s180,start,2015-09-27 22:57:29
+s180,end,2015-09-28 07:00:25
+s180,quality,82%
+s180,time_in_bed,8:02
+s180,feeling,:)
+s180,notes,Drank tea
+s180,heart_rate,61
+s180,steps,0
+s181,start,2015-09-28 21:12:50
+s181,end,2015-09-29 05:15:43
+s181,quality,90%
+s181,time_in_bed,8:02
+s181,feeling,:)
+s181,notes,Drank tea:Worked out
+s181,heart_rate,60
+s181,steps,0
+s182,start,2015-09-29 22:54:50
+s182,end,2015-09-30 06:20:27
+s182,quality,89%
+s182,time_in_bed,7:25
+s182,feeling,:)
+s182,notes,Ate late:Drank coffee:Drank tea:Worked out
+s182,heart_rate,58
+s182,steps,0
+s183,start,2015-09-30 23:57:47
+s183,end,2015-10-01 06:14:26
+s183,quality,62%
+s183,time_in_bed,6:16
+s183,feeling,:)
+s183,notes,Drank coffee:Drank tea:Worked out
+s183,heart_rate,55
+s183,steps,0
+s184,start,2015-10-03 00:09:08
+s184,end,2015-10-03 07:26:26
+s184,quality,69%
+s184,time_in_bed,7:17
+s184,feeling,:)
+s184,notes,Drank coffee:Worked out
+s184,heart_rate,57
+s184,steps,0
+s185,start,2015-10-11 00:27:25
+s185,end,2015-10-11 08:58:25
+s185,quality,100%
+s185,time_in_bed,8:31
+s185,feeling,:)
+s185,notes,Drank coffee:Stressful day
+s185,heart_rate,50
+s185,steps,0
+s186,start,2015-10-12 21:59:10
+s186,end,2015-10-13 06:00:45
+s186,quality,74%
+s186,time_in_bed,8:01
+s186,feeling,:)
+s186,notes,Ate late:Drank coffee:Drank tea:Worked out
+s186,steps,0
+s187,start,2015-10-13 22:19:10
+s187,end,2015-10-14 04:59:56
+s187,quality,59%
+s187,time_in_bed,6:40
+s187,feeling,:)
+s187,notes,Drank coffee:Worked out
+s187,steps,0
+s188,start,2015-10-14 05:00:29
+s188,end,2015-10-14 06:00:39
+s188,quality,13%
+s188,time_in_bed,1:00
+s188,feeling,:)
+s188,steps,0
+s189,start,2015-10-14 22:40:34
+s189,end,2015-10-15 06:20:36
+s189,quality,68%
+s189,time_in_bed,7:40
+s189,feeling,:)
+s189,notes,Drank tea:Worked out
+s189,heart_rate,65
+s189,steps,0
+s190,start,2015-10-15 22:12:48
+s190,end,2015-10-16 06:21:06
+s190,quality,67%
+s190,time_in_bed,8:08
+s190,feeling,:)
+s190,notes,Drank coffee:Drank tea:Worked out
+s190,heart_rate,58
+s190,steps,0
+s191,start,2015-10-17 00:45:53
+s191,end,2015-10-17 07:37:31
+s191,quality,57%
+s191,time_in_bed,6:51
+s191,feeling,:)
+s191,notes,Drank coffee:Drank tea
+s191,steps,0
+s192,start,2015-10-18 21:52:46
+s192,end,2015-10-19 06:20:17
+s192,quality,67%
+s192,time_in_bed,8:27
+s192,feeling,:|
+s192,notes,Drank coffee
+s192,steps,0
+s193,start,2015-10-20 21:38:02
+s193,end,2015-10-21 06:20:20
+s193,quality,88%
+s193,time_in_bed,8:42
+s193,feeling,:|
+s193,notes,Drank coffee:Drank tea
+s193,heart_rate,62
+s193,steps,0
+s194,start,2015-10-21 22:41:23
+s194,end,2015-10-22 06:20:28
+s194,quality,77%
+s194,time_in_bed,7:39
+s194,feeling,:)
+s194,notes,Drank coffee:Drank tea
+s194,heart_rate,53
+s194,steps,0
+s195,start,2015-10-22 21:46:35
+s195,end,2015-10-23 05:30:45
+s195,quality,80%
+s195,time_in_bed,7:44
+s195,feeling,:)
+s195,notes,Drank coffee:Drank tea:Worked out
+s195,heart_rate,70
+s195,steps,0
+s196,start,2015-10-24 00:32:20
+s196,end,2015-10-24 08:12:45
+s196,quality,77%
+s196,time_in_bed,7:40
+s196,feeling,:)
+s196,notes,Drank coffee:Drank tea:Worked out
+s196,steps,0
+s197,start,2015-10-24 22:38:13
+s197,end,2015-10-25 06:33:35
+s197,quality,81%
+s197,time_in_bed,7:55
+s197,feeling,:)
+s197,notes,Drank coffee:Drank tea
+s197,steps,0
+s198,start,2015-10-26 23:09:15
+s198,end,2015-10-27 06:05:04
+s198,quality,77%
+s198,time_in_bed,6:55
+s198,feeling,:)
+s198,notes,Drank coffee:Drank tea
+s198,heart_rate,65
+s198,steps,0
+s199,start,2015-10-27 21:34:17
+s199,end,2015-10-28 05:35:51
+s199,quality,78%
+s199,time_in_bed,8:01
+s199,feeling,:|
+s199,notes,Drank coffee:Worked out
+s199,steps,0
+s200,start,2015-10-28 22:28:47
+s200,end,2015-10-29 06:20:36
+s200,quality,83%
+s200,time_in_bed,7:51
+s200,feeling,:|
+s200,notes,Drank tea:Worked out
+s200,heart_rate,53
+s200,steps,0
+s201,start,2015-10-29 22:30:45
+s201,end,2015-10-30 06:10:51
+s201,quality,81%
+s201,time_in_bed,7:40
+s201,feeling,:|
+s201,notes,Drank tea:Worked out
+s201,heart_rate,57
+s201,steps,0
+s202,start,2015-10-31 01:01:48
+s202,end,2015-10-31 07:50:17
+s202,quality,50%
+s202,time_in_bed,6:48
+s202,feeling,:)
+s202,notes,Drank coffee:Drank tea
+s202,steps,0
+s203,start,2015-11-02 22:00:53
+s203,end,2015-11-03 06:10:32
+s203,quality,83%
+s203,time_in_bed,8:09
+s203,feeling,:|
+s203,notes,Drank coffee:Drank tea:Worked out
+s203,heart_rate,55
+s203,steps,0
+s204,start,2015-11-03 22:46:00
+s204,end,2015-11-04 06:09:53
+s204,quality,75%
+s204,time_in_bed,7:23
+s204,feeling,:|
+s204,notes,Drank coffee:Drank tea:Worked out
+s204,steps,0
+s205,start,2015-11-04 22:49:17
+s205,end,2015-11-05 06:00:43
+s205,quality,65%
+s205,time_in_bed,7:11
+s205,feeling,:|
+s205,notes,Drank coffee:Drank tea:Worked out
+s205,steps,0
+s206,start,2015-11-05 21:36:52
+s206,end,2015-11-06 05:29:48
+s206,quality,77%
+s206,time_in_bed,7:52
+s206,feeling,:|
+s206,notes,Drank coffee:Drank tea:Worked out
+s206,steps,0
+s207,start,2015-11-07 00:19:42
+s207,end,2015-11-07 08:13:55
+s207,quality,93%
+s207,time_in_bed,7:54
+s207,feeling,:)
+s207,notes,Drank coffee:Drank tea:Worked out
+s207,heart_rate,98
+s207,steps,0
+s208,start,2015-11-08 23:28:38
+s208,end,2015-11-09 06:20:45
+s208,quality,69%
+s208,time_in_bed,6:52
+s208,feeling,:)
+s208,notes,Drank coffee:Drank tea
+s208,steps,0
+s209,start,2015-11-09 21:59:54
+s209,end,2015-11-10 05:41:00
+s209,quality,88%
+s209,time_in_bed,7:41
+s209,feeling,:)
+s209,notes,Drank coffee:Drank tea:Worked out
+s209,steps,0
+s210,start,2015-11-10 22:56:22
+s210,end,2015-11-11 06:28:43
+s210,quality,83%
+s210,time_in_bed,7:32
+s210,feeling,:)
+s210,notes,Drank coffee:Drank tea:Worked out
+s210,steps,0
+s211,start,2015-11-11 22:57:35
+s211,end,2015-11-12 06:20:38
+s211,quality,72%
+s211,time_in_bed,7:23
+s211,feeling,:)
+s211,notes,Drank coffee:Drank tea
+s211,steps,0
+s212,start,2015-11-13 22:59:58
+s212,end,2015-11-14 07:46:48
+s212,quality,96%
+s212,time_in_bed,8:46
+s212,feeling,:)
+s212,notes,Drank coffee:Drank tea
+s212,heart_rate,59
+s212,steps,0
+s213,start,2015-11-15 22:17:12
+s213,end,2015-11-16 06:30:48
+s213,quality,72%
+s213,time_in_bed,8:13
+s213,feeling,:)
+s213,notes,Drank coffee:Drank tea
+s213,heart_rate,62
+s213,steps,0
+s214,start,2015-11-18 22:07:28
+s214,end,2015-11-19 05:30:48
+s214,quality,80%
+s214,time_in_bed,7:23
+s214,feeling,:)
+s214,notes,Ate late:Drank coffee:Drank tea:Worked out
+s214,heart_rate,63
+s214,steps,0
+s215,start,2015-11-19 23:10:23
+s215,end,2015-11-20 06:00:42
+s215,quality,73%
+s215,time_in_bed,6:50
+s215,feeling,:)
+s215,notes,Drank coffee:Drank tea:Worked out
+s215,heart_rate,62
+s215,steps,0
+s216,start,2015-11-22 21:57:39
+s216,end,2015-11-23 05:30:46
+s216,quality,83%
+s216,time_in_bed,7:33
+s216,feeling,:)
+s216,notes,Drank tea
+s216,steps,0
+s217,start,2015-11-23 22:15:24
+s217,end,2015-11-24 05:00:10
+s217,quality,74%
+s217,time_in_bed,6:44
+s217,feeling,:)
+s217,notes,Drank coffee:Drank tea:Worked out
+s217,steps,0
+s218,start,2015-11-24 22:33:40
+s218,end,2015-11-25 06:30:54
+s218,quality,87%
+s218,time_in_bed,7:57
+s218,feeling,:)
+s218,notes,Drank coffee:Drank tea:Worked out
+s218,steps,0
+s219,start,2015-11-25 23:26:02
+s219,end,2015-11-26 06:20:47
+s219,quality,69%
+s219,time_in_bed,6:54
+s219,feeling,:)
+s219,notes,Drank coffee:Drank tea:Worked out
+s219,steps,0
+s220,start,2015-11-26 22:25:29
+s220,end,2015-11-27 06:20:36
+s220,quality,81%
+s220,time_in_bed,7:55
+s220,feeling,:)
+s220,notes,Drank coffee:Drank tea:Worked out
+s220,steps,0
+s221,start,2015-11-28 01:20:50
+s221,end,2015-11-28 07:46:30
+s221,quality,58%
+s221,time_in_bed,6:25
+s221,feeling,:)
+s221,notes,Drank coffee:Drank tea:Worked out
+s221,heart_rate,59
+s221,steps,0
+s222,start,2015-11-29 22:20:20
+s222,end,2015-11-30 06:20:11
+s222,quality,68%
+s222,time_in_bed,7:59
+s222,feeling,:)
+s222,notes,Drank tea
+s222,steps,0
+s223,start,2015-11-30 21:23:47
+s223,end,2015-12-01 06:19:46
+s223,quality,64%
+s223,time_in_bed,8:55
+s223,feeling,:)
+s223,notes,Drank coffee:Drank tea:Worked out
+s223,steps,0
+s224,start,2015-12-01 23:03:32
+s224,end,2015-12-02 06:20:45
+s224,quality,84%
+s224,time_in_bed,7:17
+s224,feeling,:)
+s224,notes,Drank coffee:Drank tea:Worked out
+s224,heart_rate,57
+s224,steps,0
+s225,start,2015-12-02 22:19:31
+s225,end,2015-12-03 05:11:26
+s225,quality,75%
+s225,time_in_bed,6:51
+s225,feeling,:)
+s225,notes,Drank coffee:Drank tea
+s225,steps,0
+s226,start,2015-12-03 22:51:20
+s226,end,2015-12-04 05:01:02
+s226,quality,70%
+s226,time_in_bed,6:09
+s226,feeling,:)
+s226,notes,Ate late:Drank coffee:Drank tea
+s226,steps,0
+s227,start,2015-12-06 22:10:17
+s227,end,2015-12-07 05:31:02
+s227,quality,86%
+s227,time_in_bed,7:20
+s227,feeling,:)
+s227,notes,Drank coffee:Drank tea
+s227,heart_rate,68
+s227,steps,0
+s228,start,2015-12-07 21:20:30
+s228,end,2015-12-08 05:00:36
+s228,quality,86%
+s228,time_in_bed,7:40
+s228,feeling,:)
+s228,notes,Drank tea:Stressful day:Worked out
+s228,heart_rate,61
+s228,steps,0
+s229,start,2015-12-08 22:17:33
+s229,end,2015-12-09 05:45:41
+s229,quality,79%
+s229,time_in_bed,7:28
+s229,feeling,:)
+s229,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s229,steps,0
+s230,start,2015-12-09 21:57:33
+s230,end,2015-12-10 06:10:41
+s230,quality,93%
+s230,time_in_bed,8:13
+s230,feeling,:)
+s230,notes,Drank tea:Stressful day:Worked out
+s230,heart_rate,67
+s230,steps,0
+s231,start,2015-12-13 00:08:26
+s231,end,2015-12-13 08:23:03
+s231,quality,77%
+s231,time_in_bed,8:14
+s231,feeling,:)
+s231,notes,Drank coffee
+s231,steps,0
+s232,start,2015-12-13 22:07:01
+s232,end,2015-12-14 06:09:53
+s232,quality,80%
+s232,time_in_bed,8:02
+s232,feeling,:)
+s232,notes,Drank coffee
+s232,heart_rate,52
+s232,steps,0
+s233,start,2015-12-15 22:32:48
+s233,end,2015-12-16 06:10:41
+s233,quality,75%
+s233,time_in_bed,7:37
+s233,feeling,:)
+s233,notes,Drank coffee:Drank tea:Worked out
+s233,steps,0
+s234,start,2015-12-16 22:20:47
+s234,end,2015-12-17 05:40:53
+s234,quality,84%
+s234,time_in_bed,7:20
+s234,feeling,:)
+s234,notes,Drank coffee:Drank tea:Stressful day
+s234,steps,0
+s235,start,2015-12-17 21:07:49
+s235,end,2015-12-18 05:45:44
+s235,quality,100%
+s235,time_in_bed,8:37
+s235,feeling,:)
+s235,notes,Drank coffee:Drank tea:Worked out
+s235,steps,0
+s236,start,2015-12-20 22:19:20
+s236,end,2015-12-21 06:20:02
+s236,quality,72%
+s236,time_in_bed,8:00
+s236,feeling,:|
+s236,notes,Drank coffee:Drank tea:Worked out
+s236,heart_rate,56
+s236,steps,0
+s237,start,2015-12-21 22:06:14
+s237,end,2015-12-22 05:29:49
+s237,quality,80%
+s237,time_in_bed,7:23
+s237,feeling,:|
+s237,notes,Drank coffee:Worked out
+s237,steps,0
+s238,start,2015-12-22 21:41:31
+s238,end,2015-12-23 05:43:31
+s238,quality,82%
+s238,time_in_bed,8:01
+s238,feeling,:)
+s238,notes,Drank coffee:Drank tea:Worked out
+s238,steps,0
+s239,start,2015-12-23 22:33:13
+s239,end,2015-12-24 06:01:00
+s239,quality,79%
+s239,time_in_bed,7:27
+s239,feeling,:)
+s239,notes,Drank coffee:Drank tea
+s239,steps,0
+s240,start,2015-12-29 22:44:12
+s240,end,2015-12-30 07:00:31
+s240,quality,76%
+s240,time_in_bed,8:16
+s240,feeling,:|
+s240,notes,Drank coffee
+s240,steps,0
+s241,start,2016-01-01 23:53:45
+s241,end,2016-01-02 08:27:19
+s241,quality,79%
+s241,time_in_bed,8:33
+s241,feeling,:|
+s241,notes,Drank coffee:Drank tea
+s241,heart_rate,71
+s241,steps,0
+s242,start,2016-01-02 23:49:43
+s242,end,2016-01-03 08:13:49
+s242,quality,85%
+s242,time_in_bed,8:24
+s242,feeling,:)
+s242,notes,Drank coffee:Drank tea
+s242,heart_rate,65
+s242,steps,0
+s243,start,2016-01-03 21:44:08
+s243,end,2016-01-04 05:35:23
+s243,quality,69%
+s243,time_in_bed,7:51
+s243,feeling,:)
+s243,notes,Drank coffee
+s243,steps,0
+s244,start,2016-01-04 22:17:03
+s244,end,2016-01-05 05:45:29
+s244,quality,74%
+s244,time_in_bed,7:28
+s244,feeling,:|
+s244,notes,Drank coffee:Drank tea:Stressful day
+s244,steps,0
+s245,start,2016-01-05 22:18:45
+s245,end,2016-01-06 06:20:45
+s245,quality,66%
+s245,time_in_bed,8:01
+s245,feeling,:|
+s245,notes,Drank coffee:Worked out
+s245,steps,0
+s246,start,2016-01-13 22:44:29
+s246,end,2016-01-14 06:20:25
+s246,quality,72%
+s246,time_in_bed,7:35
+s246,feeling,:|
+s246,notes,Ate late:Drank coffee:Drank tea:Stressful day
+s246,steps,0
+s247,start,2016-01-14 22:10:58
+s247,end,2016-01-15 05:28:34
+s247,quality,73%
+s247,time_in_bed,7:17
+s247,feeling,:|
+s247,notes,Drank coffee:Drank tea:Worked out
+s247,steps,0
+s248,start,2016-01-17 22:00:46
+s248,end,2016-01-18 05:30:32
+s248,quality,76%
+s248,time_in_bed,7:29
+s248,feeling,:|
+s248,notes,Drank coffee:Drank tea:Worked out
+s248,steps,0
+s249,start,2016-01-18 21:56:26
+s249,end,2016-01-19 05:34:59
+s249,quality,78%
+s249,time_in_bed,7:38
+s249,notes,Ate late:Drank coffee:Drank tea
+s249,steps,0
+s250,start,2016-01-19 22:46:50
+s250,end,2016-01-20 06:35:37
+s250,quality,75%
+s250,time_in_bed,7:48
+s250,notes,Drank coffee:Drank tea:Worked out
+s250,steps,0
+s251,start,2016-01-20 21:13:40
+s251,end,2016-01-21 06:29:37
+s251,quality,77%
+s251,time_in_bed,9:15
+s251,notes,Drank coffee:Drank tea
+s251,steps,0
+s252,start,2016-01-21 21:33:27
+s252,end,2016-01-22 06:23:55
+s252,quality,79%
+s252,time_in_bed,8:50
+s252,notes,Drank coffee
+s252,steps,0
+s253,start,2016-01-22 22:17:12
+s253,end,2016-01-23 08:14:54
+s253,quality,79%
+s253,time_in_bed,9:57
+s253,notes,Drank coffee:Worked out
+s253,steps,0
+s254,start,2016-01-24 22:06:59
+s254,end,2016-01-25 06:30:14
+s254,quality,85%
+s254,time_in_bed,8:23
+s254,notes,Drank coffee:Drank tea:Worked out
+s254,steps,0
+s255,start,2016-01-25 22:27:55
+s255,end,2016-01-26 06:38:49
+s255,quality,88%
+s255,time_in_bed,8:10
+s255,notes,Drank coffee
+s255,steps,0
+s256,start,2016-01-26 22:58:16
+s256,end,2016-01-27 06:28:13
+s256,quality,83%
+s256,time_in_bed,7:29
+s256,notes,Drank coffee:Drank tea:Worked out
+s256,steps,0
+s257,start,2016-01-27 22:02:27
+s257,end,2016-01-28 05:23:02
+s257,quality,84%
+s257,time_in_bed,7:20
+s257,notes,Drank coffee:Drank tea:Worked out
+s257,steps,0
+s258,start,2016-01-28 22:11:17
+s258,end,2016-01-29 05:26:31
+s258,quality,76%
+s258,time_in_bed,7:15
+s258,notes,Drank coffee:Drank tea:Worked out
+s258,steps,0
+s259,start,2016-01-29 21:47:34
+s259,end,2016-01-30 06:06:40
+s259,quality,88%
+s259,time_in_bed,8:19
+s259,notes,Drank coffee:Drank tea:Worked out
+s259,steps,0
+s260,start,2016-01-31 22:58:22
+s260,end,2016-02-01 06:19:07
+s260,quality,78%
+s260,time_in_bed,7:20
+s260,notes,Drank coffee
+s260,steps,0
+s261,start,2016-02-01 22:02:40
+s261,end,2016-02-02 05:27:42
+s261,quality,82%
+s261,time_in_bed,7:25
+s261,notes,Drank coffee:Drank tea:Worked out
+s261,steps,0
+s262,start,2016-02-02 21:47:43
+s262,end,2016-02-03 05:20:45
+s262,quality,72%
+s262,time_in_bed,7:33
+s262,notes,Drank coffee:Worked out
+s262,steps,0
+s263,start,2016-02-03 22:54:38
+s263,end,2016-02-04 06:20:45
+s263,quality,79%
+s263,time_in_bed,7:26
+s263,notes,Drank coffee:Worked out
+s263,steps,0
+s264,start,2016-02-04 22:17:56
+s264,end,2016-02-05 06:53:46
+s264,quality,74%
+s264,time_in_bed,8:35
+s264,notes,Drank coffee:Stressful day:Worked out
+s264,steps,0
+s265,start,2016-02-05 23:45:36
+s265,end,2016-02-06 07:35:42
+s265,quality,84%
+s265,time_in_bed,7:50
+s265,notes,Drank coffee
+s265,steps,0
+s266,start,2016-02-06 22:55:30
+s266,end,2016-02-07 07:35:48
+s266,quality,91%
+s266,time_in_bed,8:40
+s266,notes,Drank tea
+s266,steps,0
+s267,start,2016-02-08 00:44:15
+s267,end,2016-02-08 07:45:22
+s267,quality,68%
+s267,time_in_bed,7:01
+s267,notes,Drank coffee:Drank tea
+s267,steps,0
+s268,start,2016-02-08 22:43:49
+s268,end,2016-02-09 06:40:40
+s268,quality,77%
+s268,time_in_bed,7:56
+s268,notes,Drank coffee:Drank tea:Worked out
+s268,steps,0
+s269,start,2016-02-09 21:57:50
+s269,end,2016-02-10 05:31:30
+s269,quality,66%
+s269,time_in_bed,7:33
+s269,notes,Drank coffee:Worked out
+s269,steps,0
+s270,start,2016-02-13 23:41:34
+s270,end,2016-02-14 05:11:40
+s270,quality,38%
+s270,time_in_bed,5:30
+s270,notes,Drank coffee
+s270,steps,0
+s271,start,2016-02-14 22:07:58
+s271,end,2016-02-15 05:53:25
+s271,quality,84%
+s271,time_in_bed,7:45
+s271,notes,Drank coffee:Stressful day
+s271,steps,0
+s272,start,2016-02-15 22:07:07
+s272,end,2016-02-16 05:25:39
+s272,quality,76%
+s272,time_in_bed,7:18
+s272,notes,Drank coffee:Worked out
+s272,steps,0
+s273,start,2016-02-16 22:20:30
+s273,end,2016-02-17 05:32:48
+s273,quality,70%
+s273,time_in_bed,7:12
+s273,notes,Drank coffee:Worked out
+s273,steps,0
+s274,start,2016-02-17 21:33:26
+s274,end,2016-02-18 06:24:29
+s274,quality,90%
+s274,time_in_bed,8:51
+s274,notes,Drank coffee:Stressful day:Worked out
+s274,steps,0
+s275,start,2016-02-18 22:47:46
+s275,end,2016-02-19 06:26:50
+s275,quality,77%
+s275,time_in_bed,7:39
+s275,notes,Drank coffee:Drank tea:Worked out
+s275,steps,0
+s276,start,2016-02-20 23:12:47
+s276,end,2016-02-21 07:41:40
+s276,quality,69%
+s276,time_in_bed,8:28
+s276,notes,Drank coffee
+s276,steps,0
+s277,start,2016-02-22 22:04:12
+s277,end,2016-02-23 06:23:53
+s277,quality,85%
+s277,time_in_bed,8:19
+s277,notes,Drank coffee
+s277,steps,0
+s278,start,2016-02-23 22:18:26
+s278,end,2016-02-24 06:25:24
+s278,quality,94%
+s278,time_in_bed,8:06
+s278,notes,Drank coffee:Worked out
+s278,steps,0
+s279,start,2016-02-24 21:59:00
+s279,end,2016-02-25 05:43:33
+s279,quality,88%
+s279,time_in_bed,7:44
+s279,notes,Drank tea:Worked out
+s279,steps,0
+s280,start,2016-02-26 00:15:25
+s280,end,2016-02-26 06:35:57
+s280,quality,68%
+s280,time_in_bed,6:20
+s280,notes,Drank tea:Worked out
+s280,steps,0
+s281,start,2016-02-27 23:33:23
+s281,end,2016-02-28 07:50:56
+s281,quality,92%
+s281,time_in_bed,8:17
+s281,notes,Drank coffee
+s281,steps,0
+s282,start,2016-02-28 22:19:47
+s282,end,2016-02-29 05:45:34
+s282,quality,64%
+s282,time_in_bed,7:25
+s282,notes,Drank tea
+s282,steps,0
+s283,start,2016-02-29 21:55:44
+s283,end,2016-03-01 06:22:29
+s283,quality,78%
+s283,time_in_bed,8:26
+s283,notes,Drank tea:Worked out
+s283,steps,0
+s284,start,2016-03-01 23:22:16
+s284,end,2016-03-02 05:50:28
+s284,quality,70%
+s284,time_in_bed,6:28
+s284,notes,Drank tea:Worked out
+s284,steps,0
+s285,start,2016-03-02 22:15:14
+s285,end,2016-03-03 06:21:26
+s285,quality,95%
+s285,time_in_bed,8:06
+s285,notes,Drank coffee:Drank tea:Worked out
+s285,steps,0
+s286,start,2016-03-03 22:01:33
+s286,end,2016-03-04 06:17:35
+s286,quality,90%
+s286,time_in_bed,8:16
+s286,notes,Drank tea:Worked out
+s286,steps,0
+s287,start,2016-03-05 23:20:01
+s287,end,2016-03-06 07:31:36
+s287,quality,98%
+s287,time_in_bed,8:11
+s287,notes,Drank tea
+s287,steps,0
+s288,start,2016-03-06 23:08:20
+s288,end,2016-03-07 06:19:25
+s288,quality,70%
+s288,time_in_bed,7:11
+s288,notes,Drank coffee:Drank tea
+s288,steps,0
+s289,start,2016-03-07 22:50:22
+s289,end,2016-03-08 06:22:58
+s289,quality,75%
+s289,time_in_bed,7:32
+s289,notes,Drank tea:Worked out
+s289,steps,0
+s290,start,2016-03-08 21:40:38
+s290,end,2016-03-09 06:25:07
+s290,quality,91%
+s290,time_in_bed,8:44
+s290,notes,Drank tea:Worked out
+s290,steps,0
+s291,start,2016-03-09 22:40:25
+s291,end,2016-03-10 05:49:39
+s291,quality,79%
+s291,time_in_bed,7:09
+s291,notes,Drank tea
+s291,steps,0
+s292,start,2016-03-10 21:35:17
+s292,end,2016-03-11 05:34:15
+s292,quality,92%
+s292,time_in_bed,7:58
+s292,notes,Drank tea:Worked out
+s292,steps,0
+s293,start,2016-03-12 01:33:16
+s293,end,2016-03-12 07:50:21
+s293,quality,69%
+s293,time_in_bed,6:17
+s293,notes,Drank coffee:Worked out
+s293,steps,0
+s294,start,2016-03-12 23:44:03
+s294,end,2016-03-13 07:51:57
+s294,quality,83%
+s294,time_in_bed,7:07
+s294,notes,Drank tea
+s294,steps,0
+s295,start,2016-03-13 22:47:36
+s295,end,2016-03-14 05:40:43
+s295,quality,82%
+s295,time_in_bed,6:53
+s295,notes,Drank tea:Worked out
+s295,steps,0
+s296,start,2016-03-14 22:16:43
+s296,end,2016-03-15 05:46:07
+s296,quality,79%
+s296,time_in_bed,7:29
+s296,notes,Drank tea:Worked out
+s296,steps,0
+s297,start,2016-03-15 22:41:40
+s297,end,2016-03-16 06:25:27
+s297,quality,85%
+s297,time_in_bed,7:43
+s297,notes,Drank coffee:Drank tea:Worked out
+s297,steps,0
+s298,start,2016-03-16 22:25:40
+s298,end,2016-03-17 07:05:26
+s298,quality,90%
+s298,time_in_bed,8:39
+s298,notes,Drank coffee:Worked out
+s298,steps,0
+s299,start,2016-03-17 22:46:35
+s299,end,2016-03-18 07:08:48
+s299,quality,98%
+s299,time_in_bed,8:22
+s299,notes,Drank coffee:Drank tea
+s299,steps,0
+s300,start,2016-03-18 22:17:45
+s300,end,2016-03-19 07:47:51
+s300,quality,87%
+s300,time_in_bed,9:30
+s300,notes,Drank coffee
+s300,steps,0
+s301,start,2016-03-20 22:13:36
+s301,end,2016-03-21 07:26:59
+s301,quality,80%
+s301,time_in_bed,9:13
+s301,notes,Drank coffee
+s301,steps,0
+s302,start,2016-03-21 22:37:03
+s302,end,2016-03-22 07:32:00
+s302,quality,80%
+s302,time_in_bed,8:54
+s302,notes,Drank coffee
+s302,steps,0
+s303,start,2016-03-22 21:22:46
+s303,end,2016-03-23 06:19:17
+s303,quality,80%
+s303,time_in_bed,8:56
+s303,notes,Drank coffee:Drank tea
+s303,steps,0
+s304,start,2016-03-23 22:06:49
+s304,end,2016-03-24 05:20:29
+s304,quality,65%
+s304,time_in_bed,7:13
+s304,notes,Drank coffee:Drank tea:Worked out
+s304,steps,0
+s305,start,2016-03-27 23:28:20
+s305,end,2016-03-28 07:30:07
+s305,quality,82%
+s305,time_in_bed,8:01
+s305,notes,Drank coffee
+s305,steps,0
+s306,start,2016-03-28 23:32:44
+s306,end,2016-03-29 06:29:15
+s306,quality,75%
+s306,time_in_bed,6:56
+s306,notes,Drank coffee:Stressful day:Worked out
+s306,steps,0
+s307,start,2016-03-29 23:12:02
+s307,end,2016-03-30 06:25:49
+s307,quality,66%
+s307,time_in_bed,7:13
+s307,notes,Drank coffee:Worked out
+s307,steps,0
+s308,start,2016-03-30 22:58:49
+s308,end,2016-03-31 06:25:21
+s308,quality,58%
+s308,time_in_bed,7:26
+s308,notes,Drank coffee:Drank tea:Worked out
+s308,steps,0
+s309,start,2016-03-31 22:47:19
+s309,end,2016-04-01 06:30:09
+s309,quality,89%
+s309,time_in_bed,7:42
+s309,notes,Drank coffee:Drank tea:Worked out
+s309,steps,0
+s310,start,2016-04-02 21:20:49
+s310,end,2016-04-03 07:08:13
+s310,quality,86%
+s310,time_in_bed,9:47
+s310,notes,Drank coffee
+s310,steps,0
+s311,start,2016-04-03 21:44:29
+s311,end,2016-04-04 06:24:00
+s311,quality,67%
+s311,time_in_bed,8:39
+s311,notes,Drank coffee
+s311,steps,0
+s312,start,2016-04-04 21:23:59
+s312,end,2016-04-05 06:29:22
+s312,quality,62%
+s312,time_in_bed,9:05
+s312,notes,Drank coffee
+s312,steps,0
+s313,start,2016-04-05 21:13:24
+s313,end,2016-04-06 06:24:45
+s313,quality,81%
+s313,time_in_bed,9:11
+s313,notes,Drank coffee:Worked out
+s313,steps,0
+s314,start,2016-04-06 23:00:14
+s314,end,2016-04-07 05:55:41
+s314,quality,73%
+s314,time_in_bed,6:55
+s314,notes,Drank coffee:Drank tea:Worked out
+s314,steps,0
+s315,start,2016-04-07 21:48:56
+s315,end,2016-04-08 05:49:06
+s315,quality,81%
+s315,time_in_bed,8:00
+s315,notes,Ate late:Drank coffee:Drank tea:Worked out
+s315,steps,0
+s316,start,2016-04-09 00:51:24
+s316,end,2016-04-09 07:21:57
+s316,quality,53%
+s316,time_in_bed,6:30
+s316,notes,Drank coffee:Drank tea:Worked out
+s316,steps,0
+s317,start,2016-04-09 22:59:45
+s317,end,2016-04-10 07:59:49
+s317,quality,94%
+s317,time_in_bed,9:00
+s317,notes,Drank coffee:Drank tea:Worked out
+s317,steps,0
+s318,start,2016-04-10 22:04:13
+s318,end,2016-04-11 05:16:33
+s318,quality,67%
+s318,time_in_bed,7:12
+s318,notes,Drank tea
+s318,steps,0
+s319,start,2016-04-11 22:35:10
+s319,end,2016-04-12 05:54:20
+s319,quality,82%
+s319,time_in_bed,7:19
+s319,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s319,steps,0
+s320,start,2016-04-12 22:18:30
+s320,end,2016-04-13 05:52:27
+s320,quality,85%
+s320,time_in_bed,7:33
+s320,notes,Drank coffee:Drank tea:Worked out
+s320,steps,0
+s321,start,2016-04-13 22:27:46
+s321,end,2016-04-14 06:13:03
+s321,quality,77%
+s321,time_in_bed,7:45
+s321,notes,Drank coffee:Drank tea:Worked out
+s321,steps,0
+s322,start,2016-04-14 21:43:30
+s322,end,2016-04-15 06:24:30
+s322,quality,94%
+s322,time_in_bed,8:41
+s322,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s322,steps,0
+s323,start,2016-04-15 22:38:27
+s323,end,2016-04-16 07:25:56
+s323,quality,81%
+s323,time_in_bed,8:47
+s323,notes,Drank coffee:Drank tea
+s323,steps,0
+s324,start,2016-04-17 21:34:35
+s324,end,2016-04-18 06:26:45
+s324,quality,75%
+s324,time_in_bed,8:52
+s324,notes,Drank coffee:Drank tea
+s324,steps,0
+s325,start,2016-04-19 21:21:02
+s325,end,2016-04-20 06:20:19
+s325,quality,79%
+s325,time_in_bed,8:59
+s325,notes,Drank coffee:Drank tea:Worked out
+s325,steps,0
+s326,start,2016-04-20 21:25:56
+s326,end,2016-04-21 05:35:24
+s326,quality,81%
+s326,time_in_bed,8:09
+s326,notes,Ate late:Drank coffee:Drank tea:Worked out
+s326,steps,0
+s327,start,2016-04-21 21:54:28
+s327,end,2016-04-22 05:35:27
+s327,quality,79%
+s327,time_in_bed,7:40
+s327,steps,0
+s328,start,2016-04-22 05:37:46
+s328,end,2016-04-22 06:20:18
+s328,quality,9%
+s328,time_in_bed,0:42
+s328,steps,0
+s329,start,2016-04-23 00:46:44
+s329,end,2016-04-23 07:54:03
+s329,quality,65%
+s329,time_in_bed,7:07
+s329,notes,Drank coffee:Drank tea:Worked out
+s329,steps,0
+s330,start,2016-04-24 22:30:35
+s330,end,2016-04-25 06:14:30
+s330,quality,81%
+s330,time_in_bed,7:43
+s330,notes,Drank tea
+s330,steps,0
+s331,start,2016-04-25 22:07:57
+s331,end,2016-04-26 05:39:43
+s331,quality,87%
+s331,time_in_bed,7:31
+s331,notes,Ate late:Drank coffee:Drank tea:Worked out
+s331,steps,0
+s332,start,2016-04-26 22:48:24
+s332,end,2016-04-27 06:20:28
+s332,quality,74%
+s332,time_in_bed,7:32
+s332,notes,Drank coffee:Drank tea:Worked out
+s332,steps,0
+s333,start,2016-04-27 22:24:10
+s333,end,2016-04-28 06:25:23
+s333,quality,92%
+s333,time_in_bed,8:01
+s333,notes,Drank coffee:Drank tea:Worked out
+s333,steps,0
+s334,start,2016-04-28 22:23:37
+s334,end,2016-04-29 06:17:32
+s334,quality,95%
+s334,time_in_bed,7:53
+s334,notes,Drank coffee:Drank tea:Worked out
+s334,steps,0
+s335,start,2016-04-29 22:47:32
+s335,end,2016-04-30 05:57:05
+s335,quality,81%
+s335,time_in_bed,7:09
+s335,notes,Drank coffee:Drank tea:Worked out
+s335,steps,0
+s336,start,2016-05-01 21:27:20
+s336,end,2016-05-02 06:15:12
+s336,quality,95%
+s336,time_in_bed,8:47
+s336,notes,Drank coffee:Worked out
+s336,steps,0
+s337,start,2016-05-02 21:50:53
+s337,end,2016-05-03 06:20:17
+s337,quality,85%
+s337,time_in_bed,8:29
+s337,notes,Drank coffee:Worked out
+s337,steps,0
+s338,start,2016-05-03 22:19:12
+s338,end,2016-05-04 06:20:18
+s338,quality,79%
+s338,time_in_bed,8:01
+s338,notes,Drank coffee:Worked out
+s338,steps,0
+s339,start,2016-05-04 22:16:31
+s339,end,2016-05-05 06:30:20
+s339,quality,83%
+s339,time_in_bed,8:13
+s339,notes,Drank coffee:Drank tea:Worked out
+s339,steps,0
+s340,start,2016-05-05 22:20:43
+s340,end,2016-05-06 06:15:04
+s340,quality,89%
+s340,time_in_bed,7:54
+s340,notes,Ate late:Drank coffee
+s340,steps,0
+s341,start,2016-05-06 23:07:56
+s341,end,2016-05-07 07:08:11
+s341,quality,87%
+s341,time_in_bed,8:00
+s341,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s341,steps,0
+s342,start,2016-05-07 23:20:36
+s342,end,2016-05-08 07:12:34
+s342,quality,93%
+s342,time_in_bed,7:51
+s342,notes,Drank coffee:Drank tea
+s342,steps,0
+s343,start,2016-05-08 23:44:12
+s343,end,2016-05-09 06:20:24
+s343,quality,74%
+s343,time_in_bed,6:36
+s343,notes,Drank coffee:Drank tea
+s343,steps,0
+s344,start,2016-05-09 22:10:46
+s344,end,2016-05-10 05:41:35
+s344,quality,83%
+s344,time_in_bed,7:30
+s344,notes,Drank coffee:Drank tea:Worked out
+s344,steps,0
+s345,start,2016-05-10 23:10:06
+s345,end,2016-05-11 05:30:21
+s345,quality,74%
+s345,time_in_bed,6:20
+s345,notes,Drank coffee:Drank tea:Worked out
+s345,steps,0
+s346,start,2016-05-11 22:43:49
+s346,end,2016-05-12 06:25:26
+s346,quality,80%
+s346,time_in_bed,7:41
+s346,notes,Drank coffee:Drank tea:Worked out
+s346,steps,0
+s347,start,2016-05-12 23:50:20
+s347,end,2016-05-13 06:50:20
+s347,quality,83%
+s347,time_in_bed,6:59
+s347,notes,Drank coffee:Drank tea:Worked out
+s347,steps,0
+s348,start,2016-05-13 23:08:55
+s348,end,2016-05-14 07:53:57
+s348,quality,100%
+s348,time_in_bed,8:45
+s348,notes,Drank coffee:Drank tea:Worked out
+s348,steps,0
+s349,start,2016-05-15 21:34:13
+s349,end,2016-05-16 06:07:30
+s349,quality,81%
+s349,time_in_bed,8:33
+s349,notes,Drank tea
+s349,steps,0
+s350,start,2016-05-16 21:34:47
+s350,end,2016-05-17 06:15:18
+s350,quality,85%
+s350,time_in_bed,8:40
+s350,notes,Drank coffee:Worked out
+s350,steps,0
+s351,start,2016-05-17 20:53:27
+s351,end,2016-05-18 06:10:18
+s351,quality,83%
+s351,time_in_bed,9:16
+s351,notes,Drank coffee:Worked out
+s351,steps,0
+s352,start,2016-05-18 22:26:07
+s352,end,2016-05-19 05:40:26
+s352,quality,79%
+s352,time_in_bed,7:14
+s352,notes,Drank coffee:Stressful day
+s352,steps,0
+s353,start,2016-05-20 00:00:10
+s353,end,2016-05-20 06:30:16
+s353,quality,76%
+s353,time_in_bed,6:30
+s353,notes,Drank coffee:Worked out
+s353,steps,0
+s354,start,2016-05-20 23:14:26
+s354,end,2016-05-21 07:34:07
+s354,quality,91%
+s354,time_in_bed,8:19
+s354,notes,Drank coffee:Worked out
+s354,steps,0
+s355,start,2016-05-23 22:34:58
+s355,end,2016-05-24 05:30:18
+s355,quality,75%
+s355,time_in_bed,6:55
+s355,notes,Drank coffee
+s355,steps,0
+s356,start,2016-05-24 22:00:00
+s356,end,2016-05-25 05:35:16
+s356,quality,90%
+s356,time_in_bed,7:35
+s356,notes,Drank coffee:Worked out
+s356,steps,0
+s357,start,2016-05-25 22:21:34
+s357,end,2016-05-26 06:31:01
+s357,quality,88%
+s357,time_in_bed,8:09
+s357,notes,Drank coffee:Worked out
+s357,steps,0
+s358,start,2016-05-26 22:08:30
+s358,end,2016-05-27 06:19:54
+s358,quality,89%
+s358,time_in_bed,8:11
+s358,notes,Drank coffee:Worked out
+s358,steps,0
+s359,start,2016-05-28 00:19:46
+s359,end,2016-05-28 07:15:58
+s359,quality,72%
+s359,time_in_bed,6:56
+s359,notes,Drank coffee:Worked out
+s359,steps,0
+s360,start,2016-05-29 22:04:35
+s360,end,2016-05-30 06:40:37
+s360,quality,100%
+s360,time_in_bed,8:36
+s360,notes,Drank coffee
+s360,steps,0
+s361,start,2016-05-30 22:07:42
+s361,end,2016-05-31 06:08:04
+s361,quality,72%
+s361,time_in_bed,8:00
+s361,notes,Drank coffee:Stressful day
+s361,steps,0
+s362,start,2016-05-31 23:02:52
+s362,end,2016-06-01 06:31:44
+s362,quality,70%
+s362,time_in_bed,7:28
+s362,notes,Drank coffee:Worked out
+s362,steps,0
+s363,start,2016-06-01 23:01:17
+s363,end,2016-06-02 05:48:05
+s363,quality,67%
+s363,time_in_bed,6:46
+s363,notes,Drank coffee:Worked out
+s363,steps,0
+s364,start,2016-06-02 22:51:43
+s364,end,2016-06-03 05:31:02
+s364,quality,65%
+s364,time_in_bed,6:39
+s364,notes,Drank coffee:Worked out
+s364,steps,0
+s365,start,2016-06-05 22:33:14
+s365,end,2016-06-06 05:51:51
+s365,quality,71%
+s365,time_in_bed,7:18
+s365,notes,Worked out
+s365,steps,0
+s366,start,2016-06-06 23:26:26
+s366,end,2016-06-07 05:31:41
+s366,quality,70%
+s366,time_in_bed,6:05
+s366,notes,Drank coffee:Worked out
+s366,steps,0
+s367,start,2016-06-07 22:32:35
+s367,end,2016-06-08 05:32:33
+s367,quality,77%
+s367,time_in_bed,6:59
+s367,notes,Drank coffee:Worked out
+s367,steps,0
+s368,start,2016-06-08 21:56:14
+s368,end,2016-06-09 06:16:18
+s368,quality,76%
+s368,time_in_bed,8:20
+s368,notes,Drank coffee:Worked out
+s368,steps,0
+s369,start,2016-06-09 22:07:31
+s369,end,2016-06-10 06:35:29
+s369,quality,87%
+s369,time_in_bed,8:27
+s369,notes,Ate late:Drank coffee:Worked out
+s369,steps,0
+s370,start,2016-06-11 22:42:30
+s370,end,2016-06-12 08:41:24
+s370,quality,93%
+s370,time_in_bed,9:58
+s370,notes,Drank tea
+s370,steps,0
+s371,start,2016-06-12 22:52:30
+s371,end,2016-06-13 06:32:02
+s371,quality,77%
+s371,time_in_bed,7:39
+s371,notes,Drank tea
+s371,steps,0
+s372,start,2016-06-13 22:03:24
+s372,end,2016-06-14 06:26:09
+s372,quality,82%
+s372,time_in_bed,8:22
+s372,notes,Drank tea:Worked out
+s372,steps,0
+s373,start,2016-06-14 22:32:22
+s373,end,2016-06-15 06:30:23
+s373,quality,68%
+s373,time_in_bed,7:58
+s373,notes,Drank coffee:Drank tea
+s373,steps,0
+s374,start,2016-06-16 00:46:59
+s374,end,2016-06-16 06:25:12
+s374,quality,64%
+s374,time_in_bed,5:38
+s374,notes,Drank coffee:Drank tea:Worked out
+s374,steps,0
+s375,start,2016-06-16 22:06:06
+s375,end,2016-06-17 06:01:02
+s375,quality,83%
+s375,time_in_bed,7:54
+s375,notes,Drank coffee:Drank tea:Worked out
+s375,steps,0
+s376,start,2016-06-17 23:28:36
+s376,end,2016-06-18 07:23:00
+s376,quality,79%
+s376,time_in_bed,7:54
+s376,notes,Drank coffee:Drank tea:Worked out
+s376,steps,0
+s377,start,2016-06-19 23:00:43
+s377,end,2016-06-20 06:00:38
+s377,quality,74%
+s377,time_in_bed,6:59
+s377,notes,Drank coffee
+s377,steps,0
+s378,start,2016-06-20 22:34:58
+s378,end,2016-06-21 05:50:46
+s378,quality,83%
+s378,time_in_bed,7:15
+s378,notes,Drank coffee:Worked out
+s378,steps,0
+s379,start,2016-06-21 22:11:24
+s379,end,2016-06-22 05:40:37
+s379,quality,83%
+s379,time_in_bed,7:29
+s379,notes,Drank coffee:Worked out
+s379,steps,0
+s380,start,2016-06-22 22:41:04
+s380,end,2016-06-23 06:22:44
+s380,quality,82%
+s380,time_in_bed,7:41
+s380,notes,Drank coffee:Worked out
+s380,steps,0
+s381,start,2016-06-23 22:32:02
+s381,end,2016-06-24 06:32:15
+s381,quality,86%
+s381,time_in_bed,8:00
+s381,notes,Drank coffee:Worked out
+s381,steps,0
+s382,start,2016-06-26 22:16:19
+s382,end,2016-06-27 06:30:30
+s382,quality,64%
+s382,time_in_bed,8:14
+s382,notes,Drank coffee
+s382,steps,0
+s383,start,2016-06-27 23:48:29
+s383,end,2016-06-28 06:47:24
+s383,quality,62%
+s383,time_in_bed,6:58
+s383,notes,Drank coffee:Stressful day:Worked out
+s383,steps,0
+s384,start,2016-06-28 23:10:25
+s384,end,2016-06-29 06:35:27
+s384,quality,77%
+s384,time_in_bed,7:25
+s384,notes,Drank coffee:Worked out
+s384,steps,0
+s385,start,2016-06-29 22:32:29
+s385,end,2016-06-30 05:55:57
+s385,quality,83%
+s385,time_in_bed,7:23
+s385,notes,Drank coffee:Stressful day:Worked out
+s385,steps,0
+s386,start,2016-07-01 23:32:46
+s386,end,2016-07-02 07:32:54
+s386,quality,90%
+s386,time_in_bed,8:00
+s386,notes,Drank coffee
+s386,steps,0
+s387,start,2016-07-03 21:49:41
+s387,end,2016-07-04 06:02:36
+s387,quality,86%
+s387,time_in_bed,8:12
+s387,steps,0
+s388,start,2016-07-04 21:39:08
+s388,end,2016-07-05 05:50:23
+s388,quality,85%
+s388,time_in_bed,8:11
+s388,notes,Drank coffee:Worked out
+s388,steps,0
+s389,start,2016-07-05 22:48:36
+s389,end,2016-07-06 06:05:36
+s389,quality,75%
+s389,time_in_bed,7:16
+s389,notes,Drank coffee:Stressful day:Worked out
+s389,steps,0
+s390,start,2016-07-06 22:13:30
+s390,end,2016-07-07 06:15:50
+s390,quality,92%
+s390,time_in_bed,8:02
+s390,notes,Drank coffee:Worked out
+s390,steps,0
+s391,start,2016-07-07 22:53:15
+s391,end,2016-07-08 07:05:46
+s391,quality,96%
+s391,time_in_bed,8:12
+s391,notes,Drank coffee:Worked out
+s391,steps,0
+s392,start,2016-07-10 22:18:13
+s392,end,2016-07-11 06:17:38
+s392,quality,85%
+s392,time_in_bed,7:59
+s392,notes,Drank coffee
+s392,steps,0
+s393,start,2016-07-11 21:24:42
+s393,end,2016-07-12 06:15:28
+s393,quality,99%
+s393,time_in_bed,8:50
+s393,notes,Drank coffee:Worked out
+s393,steps,0
+s394,start,2016-07-12 22:02:38
+s394,end,2016-07-13 06:15:55
+s394,quality,96%
+s394,time_in_bed,8:13
+s394,notes,Drank coffee:Worked out
+s394,steps,0
+s395,start,2016-07-13 23:13:10
+s395,end,2016-07-14 06:15:33
+s395,quality,78%
+s395,time_in_bed,7:02
+s395,notes,Drank coffee:Worked out
+s395,steps,0
+s396,start,2016-07-14 22:39:55
+s396,end,2016-07-15 06:15:20
+s396,quality,84%
+s396,time_in_bed,7:35
+s396,notes,Drank coffee:Stressful day:Worked out
+s396,steps,0
+s397,start,2016-07-16 00:32:25
+s397,end,2016-07-16 08:19:37
+s397,quality,87%
+s397,time_in_bed,7:47
+s397,notes,Drank coffee:Worked out
+s397,steps,0
+s398,start,2016-07-16 23:20:56
+s398,end,2016-07-17 07:31:40
+s398,quality,98%
+s398,time_in_bed,8:10
+s398,notes,Drank coffee:Worked out
+s398,steps,0
+s399,start,2016-07-17 22:23:36
+s399,end,2016-07-18 06:00:46
+s399,quality,76%
+s399,time_in_bed,7:37
+s399,notes,Drank coffee:Worked out
+s399,steps,0
+s400,start,2016-07-18 22:57:22
+s400,end,2016-07-19 06:05:28
+s400,quality,77%
+s400,time_in_bed,7:08
+s400,notes,Drank coffee:Stressful day:Worked out
+s400,steps,0
+s401,start,2016-07-19 22:36:11
+s401,end,2016-07-20 05:50:31
+s401,quality,77%
+s401,time_in_bed,7:14
+s401,notes,Drank coffee:Worked out
+s401,steps,0
+s402,start,2016-07-20 22:25:37
+s402,end,2016-07-21 05:56:20
+s402,quality,82%
+s402,time_in_bed,7:30
+s402,notes,Drank coffee:Worked out
+s402,steps,0
+s403,start,2016-07-21 23:07:32
+s403,end,2016-07-22 07:00:25
+s403,quality,87%
+s403,time_in_bed,7:52
+s403,notes,Drank coffee:Worked out
+s403,steps,0
+s404,start,2016-07-22 22:20:48
+s404,end,2016-07-23 07:56:07
+s404,quality,99%
+s404,time_in_bed,9:35
+s404,notes,Drank coffee
+s404,steps,0
+s405,start,2016-07-23 23:47:33
+s405,end,2016-07-24 07:56:34
+s405,quality,74%
+s405,time_in_bed,8:09
+s405,notes,Drank coffee
+s405,steps,0
+s406,start,2016-07-24 22:45:58
+s406,end,2016-07-25 06:14:20
+s406,quality,81%
+s406,time_in_bed,7:28
+s406,notes,Drank coffee:Worked out
+s406,steps,0
+s407,start,2016-07-25 21:54:39
+s407,end,2016-07-26 06:02:22
+s407,quality,86%
+s407,time_in_bed,8:07
+s407,notes,Drank coffee:Worked out
+s407,steps,0
+s408,start,2016-07-26 23:03:39
+s408,end,2016-07-27 06:11:38
+s408,quality,84%
+s408,time_in_bed,7:07
+s408,notes,Drank coffee:Worked out
+s408,steps,0
+s409,start,2016-07-27 22:49:44
+s409,end,2016-07-28 07:11:03
+s409,quality,95%
+s409,time_in_bed,8:21
+s409,notes,Drank coffee:Stressful day:Worked out
+s409,steps,0
+s410,start,2016-07-28 22:25:20
+s410,end,2016-07-29 03:35:22
+s410,quality,35%
+s410,time_in_bed,5:10
+s410,notes,Drank coffee
+s410,steps,0
+s411,start,2016-08-16 22:05:56
+s411,end,2016-08-17 05:50:45
+s411,quality,96%
+s411,time_in_bed,7:44
+s411,notes,Drank coffee:Drank tea:Stressful day
+s411,steps,0
+s412,start,2016-08-17 22:42:29
+s412,end,2016-08-18 06:15:46
+s412,quality,78%
+s412,time_in_bed,7:33
+s412,notes,Ate late:Drank coffee:Worked out
+s412,steps,7200
+s413,start,2016-08-18 21:58:44
+s413,end,2016-08-19 06:23:31
+s413,quality,36%
+s413,time_in_bed,8:24
+s413,notes,Drank coffee:Worked out
+s413,steps,3444
+s414,start,2016-08-20 22:04:29
+s414,end,2016-08-21 08:33:27
+s414,quality,56%
+s414,time_in_bed,10:28
+s414,notes,Drank coffee
+s414,steps,7901
+s415,start,2016-08-21 22:08:40
+s415,end,2016-08-22 06:20:25
+s415,quality,52%
+s415,time_in_bed,8:11
+s415,notes,Drank coffee:Drank tea
+s415,steps,3786
+s416,start,2016-08-22 22:13:35
+s416,end,2016-08-23 06:22:47
+s416,quality,35%
+s416,time_in_bed,8:09
+s416,notes,Drank coffee:Worked out
+s416,steps,2668
+s417,start,2016-08-23 23:08:06
+s417,end,2016-08-24 06:38:18
+s417,quality,51%
+s417,time_in_bed,7:30
+s417,notes,Drank coffee:Worked out
+s417,steps,4213
+s418,start,2016-08-24 21:51:35
+s418,end,2016-08-25 06:10:57
+s418,quality,54%
+s418,time_in_bed,8:19
+s418,notes,Drank coffee:Worked out
+s418,steps,2210
+s419,start,2016-08-25 22:06:03
+s419,end,2016-08-26 06:19:47
+s419,quality,55%
+s419,time_in_bed,8:13
+s419,notes,Drank coffee:Worked out
+s419,steps,3040
+s420,start,2016-08-26 23:49:26
+s420,end,2016-08-27 07:26:36
+s420,quality,46%
+s420,time_in_bed,7:37
+s420,notes,Drank coffee:Worked out
+s420,steps,3887
+s421,start,2016-08-27 23:52:04
+s421,end,2016-08-28 08:25:52
+s421,quality,48%
+s421,time_in_bed,8:33
+s421,notes,Drank coffee
+s421,steps,5631
+s422,start,2016-08-28 22:52:01
+s422,end,2016-08-29 06:40:35
+s422,quality,36%
+s422,time_in_bed,7:48
+s422,notes,Drank coffee
+s422,steps,10059
+s423,start,2016-08-29 22:10:33
+s423,end,2016-08-30 06:20:22
+s423,quality,40%
+s423,time_in_bed,8:09
+s423,notes,Drank coffee:Worked out
+s423,steps,3698
+s424,start,2016-08-30 22:21:42
+s424,end,2016-08-31 06:20:48
+s424,quality,49%
+s424,time_in_bed,7:59
+s424,notes,Drank coffee:Worked out
+s424,steps,4399
+s425,start,2016-08-31 22:33:07
+s425,end,2016-09-01 06:20:32
+s425,quality,49%
+s425,time_in_bed,7:47
+s425,notes,Drank coffee:Worked out
+s425,steps,4015
+s426,start,2016-09-01 23:08:05
+s426,end,2016-09-02 05:58:51
+s426,quality,54%
+s426,time_in_bed,6:50
+s426,notes,Drank coffee:Worked out
+s426,steps,4374
+s427,start,2016-09-02 22:38:01
+s427,end,2016-09-03 07:47:43
+s427,quality,67%
+s427,time_in_bed,9:09
+s427,notes,Drank coffee
+s427,steps,5038
+s428,start,2016-09-04 23:28:38
+s428,end,2016-09-05 08:00:45
+s428,quality,61%
+s428,time_in_bed,8:32
+s428,notes,Drank coffee
+s428,steps,827
+s429,start,2016-09-05 21:00:08
+s429,end,2016-09-06 06:20:37
+s429,quality,41%
+s429,time_in_bed,9:20
+s429,notes,Drank tea:Worked out
+s429,steps,2542
+s430,start,2016-09-06 22:11:10
+s430,end,2016-09-07 06:22:09
+s430,quality,70%
+s430,time_in_bed,8:10
+s430,notes,Drank tea:Worked out
+s430,steps,7370
+s431,start,2016-09-07 22:31:00
+s431,end,2016-09-08 06:21:04
+s431,quality,69%
+s431,time_in_bed,7:50
+s431,notes,Drank tea:Worked out
+s431,steps,5658
+s432,start,2016-09-08 22:28:57
+s432,end,2016-09-09 06:10:18
+s432,quality,61%
+s432,time_in_bed,7:41
+s432,notes,Drank tea:Worked out
+s432,steps,7107
+s433,start,2016-09-10 00:45:06
+s433,end,2016-09-10 07:06:54
+s433,quality,58%
+s433,time_in_bed,6:21
+s433,notes,Drank coffee:Worked out
+s433,steps,7048
+s434,start,2016-09-10 22:44:13
+s434,end,2016-09-11 06:01:14
+s434,quality,33%
+s434,time_in_bed,7:17
+s434,notes,Drank tea
+s434,steps,6925
+s435,start,2016-09-11 23:05:56
+s435,end,2016-09-12 06:20:22
+s435,quality,60%
+s435,time_in_bed,7:14
+s435,notes,Drank coffee
+s435,steps,1130
+s436,start,2016-09-12 22:46:00
+s436,end,2016-09-13 06:20:12
+s436,quality,67%
+s436,time_in_bed,7:34
+s436,notes,Drank tea:Worked out
+s436,steps,7025
+s437,start,2016-09-13 21:55:44
+s437,end,2016-09-14 06:07:55
+s437,quality,59%
+s437,time_in_bed,8:12
+s437,notes,Drank tea:Worked out
+s437,steps,5955
+s438,start,2016-09-14 22:26:52
+s438,end,2016-09-15 06:20:38
+s438,quality,65%
+s438,time_in_bed,7:53
+s438,notes,Drank tea:Worked out
+s438,steps,9243
+s439,start,2016-09-17 22:26:00
+s439,end,2016-09-18 08:22:25
+s439,quality,70%
+s439,time_in_bed,9:56
+s439,notes,Drank coffee
+s439,steps,908
+s440,start,2016-09-18 22:28:43
+s440,end,2016-09-19 06:24:18
+s440,quality,57%
+s440,time_in_bed,7:55
+s440,notes,Drank coffee:Worked out
+s440,steps,2191
+s441,start,2016-09-19 22:14:12
+s441,end,2016-09-20 06:22:04
+s441,quality,60%
+s441,time_in_bed,8:07
+s441,notes,Drank tea:Worked out
+s441,steps,11650
+s442,start,2016-09-20 22:39:22
+s442,end,2016-09-21 06:15:30
+s442,quality,57%
+s442,time_in_bed,7:36
+s442,notes,Drank tea:Worked out
+s442,steps,10842
+s443,start,2016-09-21 22:11:55
+s443,end,2016-09-22 06:11:36
+s443,quality,60%
+s443,time_in_bed,7:59
+s443,notes,Drank tea
+s443,steps,5765
+s444,start,2016-09-22 22:26:20
+s444,end,2016-09-23 06:55:45
+s444,quality,70%
+s444,time_in_bed,8:29
+s444,notes,Drank tea:Worked out
+s444,steps,8047
+s445,start,2016-09-25 22:53:08
+s445,end,2016-09-26 06:24:53
+s445,quality,58%
+s445,time_in_bed,7:31
+s445,notes,Drank coffee:Drank tea:Worked out
+s445,steps,359
+s446,start,2016-09-26 22:17:19
+s446,end,2016-09-27 06:20:57
+s446,quality,55%
+s446,time_in_bed,8:03
+s446,notes,Drank tea:Stressful day:Worked out
+s446,steps,8733
+s447,start,2016-09-27 22:22:09
+s447,end,2016-09-28 06:06:46
+s447,quality,55%
+s447,time_in_bed,7:44
+s447,notes,Drank tea:Worked out
+s447,steps,6963
+s448,start,2016-09-28 23:10:52
+s448,end,2016-09-29 06:20:16
+s448,quality,60%
+s448,time_in_bed,7:09
+s448,notes,Drank coffee:Drank tea:Worked out
+s448,steps,10392
+s449,start,2016-09-29 22:50:50
+s449,end,2016-09-30 06:20:29
+s449,quality,53%
+s449,time_in_bed,7:29
+s449,notes,Drank coffee:Worked out
+s449,steps,7230
+s450,start,2016-10-01 00:06:21
+s450,end,2016-10-01 08:27:00
+s450,quality,67%
+s450,time_in_bed,8:20
+s450,notes,Drank coffee:Drank tea:Worked out
+s450,steps,7255
+s451,start,2016-10-01 23:23:45
+s451,end,2016-10-02 07:50:03
+s451,quality,55%
+s451,time_in_bed,8:26
+s451,notes,Drank coffee
+s451,steps,4555
+s452,start,2016-10-02 23:29:07
+s452,end,2016-10-03 06:25:22
+s452,quality,54%
+s452,time_in_bed,6:56
+s452,notes,Drank coffee:Drank tea
+s452,steps,8954
+s453,start,2016-10-03 22:24:38
+s453,end,2016-10-04 06:03:11
+s453,quality,62%
+s453,time_in_bed,7:38
+s453,notes,Drank coffee:Drank tea:Worked out
+s453,steps,9726
+s454,start,2016-10-04 21:53:10
+s454,end,2016-10-05 06:21:35
+s454,quality,66%
+s454,time_in_bed,8:28
+s454,notes,Drank tea:Worked out
+s454,steps,8587
+s455,start,2016-10-05 22:33:02
+s455,end,2016-10-06 06:21:09
+s455,quality,54%
+s455,time_in_bed,7:48
+s455,notes,Drank tea:Worked out
+s455,steps,8612
+s456,start,2016-10-07 00:07:25
+s456,end,2016-10-07 06:40:59
+s456,quality,52%
+s456,time_in_bed,6:33
+s456,notes,Drank tea:Worked out
+s456,steps,8737
+s457,start,2016-10-07 23:18:12
+s457,end,2016-10-08 07:20:20
+s457,quality,71%
+s457,time_in_bed,8:02
+s457,notes,Drank coffee:Drank tea:Worked out
+s457,steps,10375
+s458,start,2016-10-10 22:38:44
+s458,end,2016-10-11 06:28:39
+s458,quality,59%
+s458,time_in_bed,7:49
+s458,notes,Drank coffee:Drank tea:Worked out
+s458,steps,21870
+s459,start,2016-10-11 22:28:30
+s459,end,2016-10-12 06:14:27
+s459,quality,56%
+s459,time_in_bed,7:45
+s459,notes,Drank tea:Worked out
+s459,steps,10106
+s460,start,2016-10-12 22:48:24
+s460,end,2016-10-13 06:05:17
+s460,quality,65%
+s460,time_in_bed,7:16
+s460,notes,Drank coffee:Worked out
+s460,steps,9308
+s461,start,2016-10-13 22:26:35
+s461,end,2016-10-14 06:30:44
+s461,quality,61%
+s461,time_in_bed,8:04
+s461,notes,Drank coffee:Worked out
+s461,steps,8406
+s462,start,2016-10-15 23:00:24
+s462,end,2016-10-16 07:31:15
+s462,quality,71%
+s462,time_in_bed,8:30
+s462,notes,Drank coffee
+s462,steps,779
+s463,start,2016-10-16 22:52:39
+s463,end,2016-10-17 06:20:38
+s463,quality,50%
+s463,time_in_bed,7:27
+s463,notes,Drank coffee:Drank tea
+s463,steps,3932
+s464,start,2016-10-17 22:53:05
+s464,end,2016-10-18 06:27:22
+s464,quality,63%
+s464,time_in_bed,7:34
+s464,notes,Drank coffee:Drank tea:Worked out
+s464,steps,10266
+s465,start,2016-10-18 22:34:56
+s465,end,2016-10-19 06:10:12
+s465,quality,67%
+s465,time_in_bed,7:35
+s465,notes,Drank coffee:Stressful day:Worked out
+s465,steps,10540
+s466,start,2016-10-19 22:13:21
+s466,end,2016-10-20 05:49:19
+s466,quality,64%
+s466,time_in_bed,7:35
+s466,notes,Drank coffee:Worked out
+s466,steps,8164
+s467,start,2016-10-20 22:14:18
+s467,end,2016-10-21 06:33:30
+s467,quality,67%
+s467,time_in_bed,8:19
+s467,notes,Drank coffee:Drank tea:Worked out
+s467,steps,7271
+s468,start,2016-10-22 01:38:50
+s468,end,2016-10-22 07:18:16
+s468,quality,54%
+s468,time_in_bed,5:39
+s468,notes,Drank coffee:Drank tea
+s468,steps,6044
+s469,start,2016-10-23 00:07:46
+s469,end,2016-10-23 08:47:55
+s469,quality,81%
+s469,time_in_bed,8:40
+s469,notes,Drank coffee
+s469,steps,7682
+s470,start,2016-10-23 22:21:35
+s470,end,2016-10-24 06:23:30
+s470,quality,66%
+s470,time_in_bed,8:01
+s470,notes,Drank coffee:Drank tea
+s470,steps,6719
+s471,start,2016-10-24 23:04:24
+s471,end,2016-10-25 06:25:53
+s471,quality,65%
+s471,time_in_bed,7:21
+s471,notes,Drank coffee:Drank tea:Worked out
+s471,steps,8273
+s472,start,2016-10-25 22:48:36
+s472,end,2016-10-26 06:35:20
+s472,quality,69%
+s472,time_in_bed,7:46
+s472,notes,Drank tea:Worked out
+s472,steps,6366
+s473,start,2016-10-26 22:55:13
+s473,end,2016-10-27 06:26:10
+s473,quality,72%
+s473,time_in_bed,7:30
+s473,notes,Drank coffee:Drank tea:Worked out
+s473,steps,9368
+s474,start,2016-10-27 23:03:27
+s474,end,2016-10-28 06:35:41
+s474,quality,63%
+s474,time_in_bed,7:32
+s474,notes,Drank coffee:Drank tea:Worked out
+s474,steps,7967
+s475,start,2016-10-29 00:16:28
+s475,end,2016-10-29 07:51:08
+s475,quality,66%
+s475,time_in_bed,7:34
+s475,notes,Drank coffee:Drank tea
+s475,steps,8641
+s476,start,2016-10-30 22:46:10
+s476,end,2016-10-31 06:10:08
+s476,quality,68%
+s476,time_in_bed,7:23
+s476,notes,Drank coffee:Worked out
+s476,steps,1283
+s477,start,2016-11-01 22:19:52
+s477,end,2016-11-02 05:57:51
+s477,quality,68%
+s477,time_in_bed,7:37
+s477,notes,Drank tea:Stressful day:Worked out
+s477,steps,4542
+s478,start,2016-11-02 22:52:01
+s478,end,2016-11-03 06:30:20
+s478,quality,72%
+s478,time_in_bed,7:38
+s478,notes,Drank coffee:Drank tea:Stressful day
+s478,steps,2870
+s479,start,2016-11-04 00:13:27
+s479,end,2016-11-04 06:15:18
+s479,quality,52%
+s479,time_in_bed,6:01
+s479,notes,Drank coffee:Drank tea:Stressful day
+s479,steps,10506
+s480,start,2016-11-04 22:49:41
+s480,end,2016-11-05 07:58:35
+s480,quality,80%
+s480,time_in_bed,9:08
+s480,notes,Drank coffee:Stressful day
+s480,steps,6716
+s481,start,2016-11-06 21:58:25
+s481,end,2016-11-07 05:47:40
+s481,quality,65%
+s481,time_in_bed,7:49
+s481,notes,Drank coffee
+s481,steps,6623
+s482,start,2016-11-07 22:16:20
+s482,end,2016-11-08 05:51:55
+s482,quality,70%
+s482,time_in_bed,7:35
+s482,notes,Drank tea:Worked out
+s482,steps,6608
+s483,start,2016-11-08 22:51:28
+s483,end,2016-11-09 05:48:09
+s483,quality,62%
+s483,time_in_bed,6:56
+s483,notes,Drank coffee:Drank tea:Worked out
+s483,steps,7119
+s484,start,2016-11-09 22:37:37
+s484,end,2016-11-10 05:55:35
+s484,quality,65%
+s484,time_in_bed,7:17
+s484,notes,Drank coffee:Drank tea:Worked out
+s484,steps,8981
+s485,start,2016-11-10 23:58:36
+s485,end,2016-11-11 07:19:01
+s485,quality,56%
+s485,time_in_bed,7:20
+s485,notes,Drank coffee:Drank tea:Worked out
+s485,steps,7385
+s486,start,2016-11-11 23:25:33
+s486,end,2016-11-12 07:16:45
+s486,quality,74%
+s486,time_in_bed,7:51
+s486,notes,Drank coffee:Drank tea
+s486,steps,737
+s487,start,2016-11-15 22:14:54
+s487,end,2016-11-16 07:35:12
+s487,quality,72%
+s487,time_in_bed,9:20
+s487,notes,Drank tea
+s487,steps,5274
+s488,start,2016-11-16 23:10:58
+s488,end,2016-11-17 07:07:23
+s488,quality,70%
+s488,time_in_bed,7:56
+s488,notes,Drank coffee
+s488,steps,2670
+s489,start,2016-11-17 23:15:24
+s489,end,2016-11-18 06:59:25
+s489,quality,73%
+s489,time_in_bed,7:44
+s489,notes,Drank tea
+s489,steps,5825
+s490,start,2016-11-18 23:37:14
+s490,end,2016-11-19 07:13:39
+s490,quality,70%
+s490,time_in_bed,7:36
+s490,notes,Drank coffee:Drank tea
+s490,steps,5971
+s491,start,2016-11-19 23:47:47
+s491,end,2016-11-20 07:53:30
+s491,quality,81%
+s491,time_in_bed,8:05
+s491,notes,Drank tea
+s491,steps,1540
+s492,start,2016-11-20 23:00:56
+s492,end,2016-11-21 07:02:20
+s492,quality,80%
+s492,time_in_bed,8:01
+s492,notes,Drank coffee:Drank tea
+s492,steps,847
+s493,start,2016-11-21 22:38:54
+s493,end,2016-11-22 05:40:29
+s493,quality,68%
+s493,time_in_bed,7:01
+s493,notes,Drank coffee:Drank tea
+s493,steps,6149
+s494,start,2016-11-22 21:26:49
+s494,end,2016-11-23 05:40:44
+s494,quality,80%
+s494,time_in_bed,8:13
+s494,notes,Drank tea:Worked out
+s494,steps,10585
+s495,start,2016-11-23 22:44:23
+s495,end,2016-11-24 06:10:19
+s495,quality,73%
+s495,time_in_bed,7:25
+s495,notes,Drank coffee:Drank tea:Worked out
+s495,steps,10248
+s496,start,2016-11-24 22:00:35
+s496,end,2016-11-25 06:39:41
+s496,quality,88%
+s496,time_in_bed,8:39
+s496,notes,Drank tea:Worked out
+s496,steps,6536
+s497,start,2016-11-25 23:09:40
+s497,end,2016-11-26 07:40:13
+s497,quality,89%
+s497,time_in_bed,8:30
+s497,notes,Drank coffee:Drank tea
+s497,steps,5628
+s498,start,2016-11-27 22:01:16
+s498,end,2016-11-28 06:18:05
+s498,quality,75%
+s498,time_in_bed,8:16
+s498,notes,Drank tea
+s498,steps,595
+s499,start,2016-11-28 22:35:53
+s499,end,2016-11-29 06:26:48
+s499,quality,83%
+s499,time_in_bed,7:50
+s499,notes,Drank tea:Worked out
+s499,steps,7499
+s500,start,2016-11-29 23:33:57
+s500,end,2016-11-30 06:31:02
+s500,quality,71%
+s500,time_in_bed,6:57
+s500,notes,Drank tea
+s500,steps,3196
+s501,start,2016-11-30 21:12:34
+s501,end,2016-12-01 05:13:52
+s501,quality,89%
+s501,time_in_bed,8:01
+s501,notes,Drank coffee:Drank tea
+s501,steps,3763
+s502,start,2016-12-01 05:14:26
+s502,end,2016-12-01 06:38:52
+s502,quality,17%
+s502,time_in_bed,1:24
+s502,steps,3763
+s503,start,2016-12-01 21:40:00
+s503,end,2016-12-02 05:11:18
+s503,quality,71%
+s503,time_in_bed,7:31
+s503,notes,Drank tea
+s503,steps,4904
+s504,start,2016-12-04 01:18:30
+s504,end,2016-12-04 09:20:41
+s504,quality,89%
+s504,time_in_bed,8:02
+s504,notes,Drank coffee:Drank tea
+s504,steps,3158
+s505,start,2016-12-04 21:45:14
+s505,end,2016-12-05 05:45:33
+s505,quality,78%
+s505,time_in_bed,8:00
+s505,notes,Drank tea
+s505,steps,4514
+s506,start,2016-12-05 21:44:42
+s506,end,2016-12-06 05:40:05
+s506,quality,79%
+s506,time_in_bed,7:55
+s506,notes,Drank tea:Worked out
+s506,steps,7137
+s507,start,2016-12-06 22:13:52
+s507,end,2016-12-07 05:46:46
+s507,quality,72%
+s507,time_in_bed,7:32
+s507,notes,Drank tea:Worked out
+s507,steps,7709
+s508,start,2016-12-07 22:46:53
+s508,end,2016-12-08 06:19:39
+s508,quality,82%
+s508,time_in_bed,7:32
+s508,notes,Drank coffee:Drank tea:Worked out
+s508,steps,10521
+s509,start,2016-12-08 23:32:15
+s509,end,2016-12-09 06:47:33
+s509,quality,69%
+s509,time_in_bed,7:15
+s509,notes,Drank coffee:Drank tea:Worked out
+s509,steps,9338
+s510,start,2016-12-09 22:48:02
+s510,end,2016-12-10 08:11:02
+s510,quality,79%
+s510,time_in_bed,9:23
+s510,notes,Drank tea
+s510,steps,4629
+s511,start,2016-12-11 01:07:36
+s511,end,2016-12-11 08:27:16
+s511,quality,82%
+s511,time_in_bed,7:19
+s511,notes,Drank coffee:Worked out
+s511,steps,5776
+s512,start,2016-12-11 22:14:46
+s512,end,2016-12-12 06:16:45
+s512,quality,85%
+s512,time_in_bed,8:01
+s512,notes,Drank tea
+s512,steps,168
+s513,start,2016-12-12 22:56:32
+s513,end,2016-12-13 06:35:28
+s513,quality,81%
+s513,time_in_bed,7:38
+s513,notes,Drank coffee:Drank tea
+s513,steps,6964
+s514,start,2016-12-13 22:02:53
+s514,end,2016-12-14 06:05:24
+s514,quality,83%
+s514,time_in_bed,8:02
+s514,notes,Drank coffee:Drank tea:Worked out
+s514,steps,3448
+s515,start,2016-12-14 21:57:40
+s515,end,2016-12-15 06:18:20
+s515,quality,74%
+s515,time_in_bed,8:20
+s515,notes,Drank tea
+s515,steps,4114
+s516,start,2016-12-15 21:29:37
+s516,end,2016-12-16 05:00:47
+s516,quality,75%
+s516,time_in_bed,7:31
+s516,notes,Drank tea
+s516,steps,7112
+s517,start,2016-12-18 22:35:39
+s517,end,2016-12-19 05:47:37
+s517,quality,78%
+s517,time_in_bed,7:11
+s517,notes,Drank coffee:Drank tea
+s517,steps,3391
+s518,start,2016-12-19 21:49:28
+s518,end,2016-12-20 06:35:32
+s518,quality,96%
+s518,time_in_bed,8:46
+s518,notes,Drank tea
+s518,steps,2335
+s519,start,2016-12-20 23:48:48
+s519,end,2016-12-21 07:09:06
+s519,quality,84%
+s519,time_in_bed,7:20
+s519,notes,Drank tea
+s519,steps,7293
+s520,start,2016-12-21 23:56:08
+s520,end,2016-12-22 07:30:08
+s520,quality,86%
+s520,time_in_bed,7:33
+s520,notes,Drank coffee:Drank tea
+s520,steps,8488
+s521,start,2016-12-22 23:07:02
+s521,end,2016-12-23 07:07:26
+s521,quality,74%
+s521,time_in_bed,8:00
+s521,notes,Drank coffee:Drank tea:Stressful day
+s521,steps,5701
+s522,start,2016-12-27 23:17:04
+s522,end,2016-12-28 07:22:29
+s522,quality,69%
+s522,time_in_bed,8:05
+s522,notes,Drank coffee:Drank tea
+s522,steps,4509
+s523,start,2016-12-30 23:25:36
+s523,end,2016-12-31 08:26:18
+s523,quality,92%
+s523,time_in_bed,9:00
+s523,notes,Drank coffee:Drank tea
+s523,steps,3868
+s524,start,2017-01-02 22:35:54
+s524,end,2017-01-03 05:10:36
+s524,quality,73%
+s524,time_in_bed,6:34
+s524,notes,Drank coffee:Drank tea
+s524,steps,5216
+s525,start,2017-01-03 05:11:12
+s525,end,2017-01-03 06:30:19
+s525,quality,17%
+s525,time_in_bed,1:19
+s525,steps,5216
+s526,start,2017-01-03 21:47:36
+s526,end,2017-01-04 05:57:07
+s526,quality,87%
+s526,time_in_bed,8:09
+s526,notes,Drank tea
+s526,steps,3669
+s527,start,2017-01-04 22:40:41
+s527,end,2017-01-05 06:10:16
+s527,quality,87%
+s527,time_in_bed,7:29
+s527,notes,Drank coffee:Drank tea:Worked out
+s527,steps,10856
+s528,start,2017-01-05 22:39:33
+s528,end,2017-01-06 06:42:11
+s528,quality,93%
+s528,time_in_bed,8:02
+s528,notes,Drank tea:Worked out
+s528,steps,7787
+s529,start,2017-01-06 23:14:42
+s529,end,2017-01-07 08:43:54
+s529,quality,90%
+s529,time_in_bed,9:29
+s529,notes,Drank coffee:Drank tea
+s529,steps,10344
+s530,start,2017-01-08 00:34:09
+s530,end,2017-01-08 07:56:17
+s530,quality,79%
+s530,time_in_bed,7:22
+s530,notes,Drank tea
+s530,steps,3094
+s531,start,2017-01-08 22:07:26
+s531,end,2017-01-09 06:23:46
+s531,quality,84%
+s531,time_in_bed,8:16
+s531,notes,Drank tea
+s531,steps,202
+s532,start,2017-01-09 22:42:26
+s532,end,2017-01-10 06:40:14
+s532,quality,65%
+s532,time_in_bed,7:57
+s532,notes,Drank coffee:Drank tea
+s532,steps,7122
+s533,start,2017-01-10 22:20:00
+s533,end,2017-01-11 06:14:43
+s533,quality,84%
+s533,time_in_bed,7:54
+s533,notes,Drank coffee:Drank tea
+s533,steps,1734
+s534,start,2017-01-11 22:14:13
+s534,end,2017-01-12 05:22:08
+s534,quality,73%
+s534,time_in_bed,7:07
+s534,notes,Drank coffee:Drank tea
+s534,steps,2562
+s535,start,2017-01-12 22:13:43
+s535,end,2017-01-13 05:31:40
+s535,quality,64%
+s535,time_in_bed,7:17
+s535,notes,Ate late:Drank coffee:Drank tea
+s535,steps,8076
+s536,start,2017-01-13 23:27:43
+s536,end,2017-01-14 07:22:42
+s536,quality,89%
+s536,time_in_bed,7:54
+s536,notes,Drank tea:Worked out
+s536,steps,12802
+s537,start,2017-01-15 23:25:52
+s537,end,2017-01-16 06:58:37
+s537,quality,74%
+s537,time_in_bed,7:32
+s537,notes,Drank coffee:Drank tea:Worked out
+s537,steps,12258
+s538,start,2017-01-16 21:58:38
+s538,end,2017-01-17 05:11:26
+s538,quality,71%
+s538,time_in_bed,7:12
+s538,notes,Drank tea
+s538,steps,4540
+s539,start,2017-01-17 05:12:01
+s539,end,2017-01-17 07:20:39
+s539,quality,24%
+s539,time_in_bed,2:08
+s539,steps,4540
+s540,start,2017-01-17 22:23:54
+s540,end,2017-01-18 05:01:08
+s540,quality,57%
+s540,time_in_bed,6:37
+s540,notes,Drank tea
+s540,steps,173
+s541,start,2017-01-18 22:22:23
+s541,end,2017-01-19 06:31:54
+s541,quality,76%
+s541,time_in_bed,8:09
+s541,notes,Drank tea
+s541,steps,6368
+s542,start,2017-01-19 22:14:59
+s542,end,2017-01-20 06:30:21
+s542,quality,92%
+s542,time_in_bed,8:15
+s542,notes,Drank coffee:Drank tea
+s542,steps,1740
+s543,start,2017-01-20 23:07:08
+s543,end,2017-01-21 07:45:58
+s543,quality,78%
+s543,time_in_bed,8:38
+s543,notes,Drank tea
+s543,steps,5056
+s544,start,2017-01-21 23:12:38
+s544,end,2017-01-22 07:42:38
+s544,quality,96%
+s544,time_in_bed,8:29
+s544,notes,Drank tea
+s544,steps,4223
+s545,start,2017-01-22 22:03:13
+s545,end,2017-01-23 06:25:22
+s545,quality,64%
+s545,time_in_bed,8:22
+s545,notes,Drank tea
+s545,steps,4336
+s546,start,2017-01-23 22:34:02
+s546,end,2017-01-24 06:09:14
+s546,quality,89%
+s546,time_in_bed,7:35
+s546,notes,Drank coffee:Drank tea
+s546,steps,4772
+s547,start,2017-01-24 22:55:44
+s547,end,2017-01-25 06:13:18
+s547,quality,84%
+s547,time_in_bed,7:17
+s547,notes,Drank coffee:Drank tea
+s547,steps,3492
+s548,start,2017-01-25 20:54:01
+s548,end,2017-01-26 05:09:50
+s548,quality,85%
+s548,time_in_bed,8:15
+s548,notes,Drank tea:Worked out
+s548,steps,6010
+s549,start,2017-01-26 22:12:44
+s549,end,2017-01-27 04:58:00
+s549,quality,54%
+s549,time_in_bed,6:45
+s549,notes,Drank coffee:Drank tea:Worked out
+s549,steps,4200
+s550,start,2017-01-27 04:58:17
+s550,end,2017-01-27 06:40:57
+s550,quality,21%
+s550,time_in_bed,1:42
+s550,steps,4200
+s551,start,2017-01-27 23:22:46
+s551,end,2017-01-28 07:25:11
+s551,quality,91%
+s551,time_in_bed,8:02
+s551,notes,Drank coffee:Drank tea
+s551,steps,4573
+s552,start,2017-01-30 23:27:29
+s552,end,2017-01-31 06:01:53
+s552,quality,63%
+s552,time_in_bed,6:34
+s552,notes,Drank coffee
+s552,steps,3228
+s553,start,2017-01-31 22:44:33
+s553,end,2017-02-01 06:20:33
+s553,quality,78%
+s553,time_in_bed,7:36
+s553,notes,Drank coffee:Drank tea:Worked out
+s553,steps,5379
+s554,start,2017-02-01 22:41:03
+s554,end,2017-02-02 06:10:32
+s554,quality,74%
+s554,time_in_bed,7:29
+s554,notes,Drank coffee:Drank tea:Worked out
+s554,steps,7521
+s555,start,2017-02-02 22:19:54
+s555,end,2017-02-03 06:31:10
+s555,quality,85%
+s555,time_in_bed,8:11
+s555,notes,Drank coffee:Drank tea
+s555,steps,2309
+s556,start,2017-02-03 23:58:49
+s556,end,2017-02-04 07:08:37
+s556,quality,80%
+s556,time_in_bed,7:09
+s556,notes,Drank coffee:Drank tea
+s556,steps,2983
+s557,start,2017-02-04 23:45:02
+s557,end,2017-02-05 07:20:28
+s557,quality,68%
+s557,time_in_bed,7:35
+s557,notes,Drank coffee:Drank tea
+s557,steps,6833
+s558,start,2017-02-05 22:53:55
+s558,end,2017-02-06 06:30:28
+s558,quality,75%
+s558,time_in_bed,7:36
+s558,notes,Drank coffee:Drank tea
+s558,steps,7665
+s559,start,2017-02-06 22:30:15
+s559,end,2017-02-07 06:20:17
+s559,quality,71%
+s559,time_in_bed,7:50
+s559,notes,Ate late:Drank coffee:Drank tea:Worked out
+s559,steps,7552
+s560,start,2017-02-07 23:34:51
+s560,end,2017-02-08 06:30:17
+s560,quality,71%
+s560,time_in_bed,6:55
+s560,notes,Drank coffee:Drank tea
+s560,steps,5339
+s561,start,2017-02-08 23:46:48
+s561,end,2017-02-09 06:27:00
+s561,quality,68%
+s561,time_in_bed,6:40
+s561,notes,Drank coffee:Drank tea
+s561,steps,4076
+s562,start,2017-02-09 22:31:43
+s562,end,2017-02-10 05:00:18
+s562,quality,62%
+s562,time_in_bed,6:28
+s562,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s562,steps,12892
+s563,start,2017-02-10 05:00:41
+s563,end,2017-02-10 06:36:44
+s563,quality,21%
+s563,time_in_bed,1:36
+s563,steps,12892
+s564,start,2017-02-10 22:37:33
+s564,end,2017-02-11 07:07:59
+s564,quality,100%
+s564,time_in_bed,8:30
+s564,notes,Drank tea
+s564,steps,3417
+s565,start,2017-02-12 21:49:33
+s565,end,2017-02-13 07:06:19
+s565,quality,63%
+s565,time_in_bed,9:16
+s565,notes,Drank coffee:Drank tea
+s565,steps,2756
+s566,start,2017-02-13 21:51:58
+s566,end,2017-02-14 05:02:27
+s566,quality,74%
+s566,time_in_bed,7:10
+s566,notes,Drank coffee:Drank tea
+s566,steps,6003
+s567,start,2017-02-14 05:02:55
+s567,end,2017-02-14 06:36:52
+s567,quality,12%
+s567,time_in_bed,1:33
+s567,steps,6003
+s568,start,2017-02-14 23:17:25
+s568,end,2017-02-15 06:13:14
+s568,quality,59%
+s568,time_in_bed,6:55
+s568,notes,Drank coffee:Drank tea
+s568,steps,3588
+s569,start,2017-02-15 22:36:26
+s569,end,2017-02-16 06:25:08
+s569,quality,44%
+s569,time_in_bed,7:48
+s569,notes,Drank coffee:Drank tea
+s569,steps,5558
+s570,start,2017-02-16 22:33:17
+s570,end,2017-02-17 06:31:28
+s570,quality,83%
+s570,time_in_bed,7:58
+s570,notes,Drank coffee:Drank tea
+s570,steps,3301
+s571,start,2017-02-17 23:49:14
+s571,end,2017-02-18 08:09:19
+s571,quality,93%
+s571,time_in_bed,8:20
+s571,notes,Drank coffee:Drank tea
+s571,steps,3027
+s572,start,2017-02-19 00:28:17
+s572,end,2017-02-19 08:16:49
+s572,quality,79%
+s572,time_in_bed,7:48
+s572,notes,Drank tea
+s572,steps,3361
+s573,start,2017-02-19 22:12:40
+s573,end,2017-02-20 06:16:47
+s573,quality,66%
+s573,time_in_bed,8:04
+s573,notes,Drank coffee:Drank tea
+s573,steps,460
+s574,start,2017-02-20 22:43:58
+s574,end,2017-02-21 06:27:19
+s574,quality,76%
+s574,time_in_bed,7:43
+s574,notes,Drank tea
+s574,steps,7419
+s575,start,2017-02-21 23:14:34
+s575,end,2017-02-22 06:26:11
+s575,quality,72%
+s575,time_in_bed,7:11
+s575,notes,Drank coffee:Drank tea
+s575,steps,5499
+s576,start,2017-02-22 21:30:46
+s576,end,2017-02-23 05:02:42
+s576,quality,83%
+s576,time_in_bed,7:31
+s576,notes,Drank tea
+s576,steps,4258
+s577,start,2017-02-23 22:15:13
+s577,end,2017-02-24 05:34:22
+s577,quality,81%
+s577,time_in_bed,7:19
+s577,notes,Drank coffee:Drank tea
+s577,steps,5862
+s578,start,2017-02-24 05:34:46
+s578,end,2017-02-24 06:30:30
+s578,quality,12%
+s578,time_in_bed,0:55
+s578,steps,5862
+s579,start,2017-02-25 02:46:24
+s579,end,2017-02-25 09:52:39
+s579,quality,80%
+s579,time_in_bed,7:06
+s579,notes,Ate late:Drank coffee:Drank tea:Worked out
+s579,steps,6388
+s580,start,2017-02-26 00:40:06
+s580,end,2017-02-26 07:47:20
+s580,quality,77%
+s580,time_in_bed,7:07
+s580,notes,Drank tea
+s580,steps,4275
+s581,start,2017-02-27 22:16:11
+s581,end,2017-02-28 05:50:20
+s581,quality,81%
+s581,time_in_bed,7:34
+s581,notes,Drank coffee
+s581,steps,2499
+s582,start,2017-02-28 21:39:30
+s582,end,2017-03-01 05:40:39
+s582,quality,87%
+s582,time_in_bed,8:01
+s582,notes,Drank coffee:Drank tea:Worked out
+s582,steps,7351
+s583,start,2017-03-01 05:43:20
+s583,end,2017-03-01 06:40:40
+s583,quality,12%
+s583,time_in_bed,0:57
+s583,steps,7351
+s584,start,2017-03-01 22:23:16
+s584,end,2017-03-02 06:30:31
+s584,quality,85%
+s584,time_in_bed,8:07
+s584,notes,Drank coffee:Drank tea
+s584,steps,6109
+s585,start,2017-03-02 22:22:27
+s585,end,2017-03-03 06:18:06
+s585,quality,81%
+s585,time_in_bed,7:55
+s585,notes,Drank coffee:Drank tea:Worked out
+s585,steps,6388
+s586,start,2017-03-05 00:12:24
+s586,end,2017-03-05 08:28:54
+s586,quality,96%
+s586,time_in_bed,8:16
+s586,notes,Drank coffee:Drank tea
+s586,steps,6785
+s587,start,2017-03-05 22:01:00
+s587,end,2017-03-06 06:08:33
+s587,quality,93%
+s587,time_in_bed,8:07
+s587,notes,Drank coffee:Drank tea
+s587,steps,171
+s588,start,2017-03-06 22:01:27
+s588,end,2017-03-07 06:22:56
+s588,quality,97%
+s588,time_in_bed,8:21
+s588,notes,Drank coffee:Drank tea
+s588,steps,4670
+s589,start,2017-03-07 22:13:31
+s589,end,2017-03-08 06:15:26
+s589,quality,90%
+s589,time_in_bed,8:01
+s589,notes,Drank coffee:Drank tea:Worked out
+s589,steps,7000
+s590,start,2017-03-08 21:13:09
+s590,end,2017-03-09 06:18:48
+s590,quality,85%
+s590,time_in_bed,9:05
+s590,notes,Drank coffee:Drank tea
+s590,steps,3744
+s591,start,2017-03-09 21:48:29
+s591,end,2017-03-10 05:01:32
+s591,quality,71%
+s591,time_in_bed,7:13
+s591,notes,Drank coffee:Drank tea:Worked out
+s591,steps,7028
+s592,start,2017-03-10 22:42:49
+s592,end,2017-03-11 06:57:16
+s592,quality,86%
+s592,time_in_bed,8:14
+s592,notes,Drank coffee:Drank tea
+s592,steps,2679
+s593,start,2017-03-12 22:39:47
+s593,end,2017-03-13 06:33:44
+s593,quality,80%
+s593,time_in_bed,7:53
+s593,notes,Drank coffee:Drank tea
+s593,steps,1572
+s594,start,2017-03-13 21:20:30
+s594,end,2017-03-14 05:02:38
+s594,quality,81%
+s594,time_in_bed,7:42
+s594,notes,Drank tea:Worked out
+s594,steps,6212
+s595,start,2017-03-14 21:06:21
+s595,end,2017-03-15 05:23:46
+s595,quality,89%
+s595,time_in_bed,8:17
+s595,notes,Drank tea:Worked out
+s595,steps,5933
+s596,start,2017-03-15 22:33:27
+s596,end,2017-03-16 06:17:42
+s596,quality,71%
+s596,time_in_bed,7:44
+s596,notes,Drank coffee:Drank tea:Worked out
+s596,steps,9185
+s597,start,2017-03-16 22:33:05
+s597,end,2017-03-17 06:37:29
+s597,quality,95%
+s597,time_in_bed,8:04
+s597,notes,Drank coffee:Drank tea:Worked out
+s597,steps,7887
+s598,start,2017-03-17 22:55:16
+s598,end,2017-03-18 08:02:40
+s598,quality,99%
+s598,time_in_bed,9:07
+s598,notes,Drank coffee:Drank tea
+s598,steps,10528
+s599,start,2017-03-18 22:26:50
+s599,end,2017-03-19 07:21:18
+s599,quality,89%
+s599,time_in_bed,8:54
+s599,notes,Drank tea
+s599,steps,302
+s600,start,2017-03-20 00:02:06
+s600,end,2017-03-20 07:20:24
+s600,quality,79%
+s600,time_in_bed,7:18
+s600,notes,Drank coffee:Drank tea
+s600,steps,2750
+s601,start,2017-03-20 23:35:25
+s601,end,2017-03-21 07:16:45
+s601,quality,88%
+s601,time_in_bed,7:41
+s601,notes,Drank coffee:Drank tea
+s601,steps,3695
+s602,start,2017-03-21 23:20:23
+s602,end,2017-03-22 06:21:50
+s602,quality,79%
+s602,time_in_bed,7:01
+s602,notes,Drank coffee:Drank tea
+s602,steps,1913
+s603,start,2017-03-22 22:02:27
+s603,end,2017-03-23 05:15:10
+s603,quality,72%
+s603,time_in_bed,7:12
+s603,notes,Drank tea:Worked out
+s603,steps,7155
+s604,start,2017-03-23 22:20:49
+s604,end,2017-03-24 05:41:56
+s604,quality,76%
+s604,time_in_bed,7:21
+s604,notes,Drank coffee:Drank tea:Worked out
+s604,steps,7810
+s605,start,2017-03-25 23:19:31
+s605,end,2017-03-26 07:16:06
+s605,quality,100%
+s605,time_in_bed,7:56
+s605,notes,Drank coffee:Drank tea
+s605,steps,3549
+s606,start,2017-03-26 22:03:26
+s606,end,2017-03-27 05:33:14
+s606,quality,83%
+s606,time_in_bed,7:29
+s606,notes,Drank coffee:Drank tea:Worked out
+s606,steps,3554
+s607,start,2017-03-27 21:19:26
+s607,end,2017-03-28 05:42:21
+s607,quality,78%
+s607,time_in_bed,8:22
+s607,notes,Drank tea:Worked out
+s607,steps,7562
+s608,start,2017-03-28 22:29:53
+s608,end,2017-03-29 05:41:34
+s608,quality,78%
+s608,time_in_bed,7:11
+s608,notes,Drank coffee:Drank tea:Worked out
+s608,steps,7823
+s609,start,2017-03-29 22:29:26
+s609,end,2017-03-30 06:04:16
+s609,quality,79%
+s609,time_in_bed,7:34
+s609,notes,Drank coffee:Drank tea:Worked out
+s609,steps,7708
+s610,start,2017-03-30 22:42:12
+s610,end,2017-03-31 07:33:52
+s610,quality,93%
+s610,time_in_bed,8:51
+s610,notes,Drank coffee:Drank tea:Worked out
+s610,steps,8615
+s611,start,2017-04-01 02:10:07
+s611,end,2017-04-01 08:37:45
+s611,quality,80%
+s611,time_in_bed,6:27
+s611,notes,Drank coffee:Drank tea
+s611,steps,9461
+s612,start,2017-04-01 21:22:18
+s612,end,2017-04-02 07:16:24
+s612,quality,95%
+s612,time_in_bed,9:54
+s612,notes,Drank tea
+s612,steps,4595
+s613,start,2017-04-02 22:01:10
+s613,end,2017-04-03 06:20:15
+s613,quality,90%
+s613,time_in_bed,8:19
+s613,notes,Drank coffee:Drank tea:Worked out
+s613,steps,2835
+s614,start,2017-04-03 21:58:04
+s614,end,2017-04-04 06:01:05
+s614,quality,92%
+s614,time_in_bed,8:03
+s614,notes,Drank tea
+s614,steps,1898
+s615,start,2017-04-04 22:01:48
+s615,end,2017-04-05 06:11:12
+s615,quality,81%
+s615,time_in_bed,8:09
+s615,notes,Drank tea:Worked out
+s615,steps,8396
+s616,start,2017-04-05 23:45:02
+s616,end,2017-04-06 06:20:30
+s616,quality,73%
+s616,time_in_bed,6:35
+s616,notes,Drank coffee:Drank tea:Worked out
+s616,steps,7948
+s617,start,2017-04-06 23:12:55
+s617,end,2017-04-07 06:20:28
+s617,quality,68%
+s617,time_in_bed,7:07
+s617,notes,Drank coffee:Drank tea:Worked out
+s617,steps,14408
+s618,start,2017-04-08 00:00:47
+s618,end,2017-04-08 07:30:09
+s618,quality,75%
+s618,time_in_bed,7:29
+s618,notes,Drank coffee:Drank tea:Worked out
+s618,steps,8646
+s619,start,2017-04-10 00:52:01
+s619,end,2017-04-10 06:32:21
+s619,quality,65%
+s619,time_in_bed,5:40
+s619,notes,Drank coffee
+s619,steps,771
+s620,start,2017-04-10 22:21:48
+s620,end,2017-04-11 05:41:07
+s620,quality,70%
+s620,time_in_bed,7:19
+s620,notes,Drank tea:Worked out
+s620,steps,11355
+s621,start,2017-04-11 06:03:43
+s621,end,2017-04-11 06:31:04
+s621,quality,6%
+s621,time_in_bed,0:27
+s621,steps,0
+s622,start,2017-04-11 22:39:32
+s622,end,2017-04-12 05:55:47
+s622,quality,67%
+s622,time_in_bed,7:16
+s622,steps,4153
+s623,start,2017-04-12 21:42:46
+s623,end,2017-04-13 06:54:43
+s623,quality,74%
+s623,time_in_bed,9:11
+s623,notes,Drank tea
+s623,steps,1318
+s624,start,2017-04-13 23:52:36
+s624,end,2017-04-14 08:05:24
+s624,quality,83%
+s624,time_in_bed,8:12
+s624,notes,Drank coffee:Drank tea
+s624,steps,889
+s625,start,2017-04-14 21:45:29
+s625,end,2017-04-15 07:52:55
+s625,quality,88%
+s625,time_in_bed,10:07
+s625,notes,Drank tea
+s625,steps,4787
+s626,start,2017-04-15 23:23:33
+s626,end,2017-04-16 07:05:46
+s626,quality,73%
+s626,time_in_bed,7:42
+s626,notes,Drank tea
+s626,steps,4581
+s627,start,2017-04-17 00:06:45
+s627,end,2017-04-17 07:51:04
+s627,quality,83%
+s627,time_in_bed,7:44
+s627,notes,Drank coffee:Drank tea
+s627,steps,1510
+s628,start,2017-04-17 22:12:26
+s628,end,2017-04-18 05:54:09
+s628,quality,66%
+s628,time_in_bed,7:41
+s628,notes,Drank coffee:Drank tea
+s628,steps,780
+s629,start,2017-04-18 22:43:50
+s629,end,2017-04-19 06:20:23
+s629,quality,59%
+s629,time_in_bed,7:36
+s629,notes,Drank coffee:Drank tea:Worked out
+s629,steps,6284
+s630,start,2017-04-19 21:39:14
+s630,end,2017-04-20 05:30:23
+s630,quality,75%
+s630,time_in_bed,7:51
+s630,steps,8213
+s631,start,2017-04-20 22:15:07
+s631,end,2017-04-21 05:41:14
+s631,quality,75%
+s631,time_in_bed,7:26
+s631,notes,Drank coffee:Drank tea:Worked out
+s631,steps,7905
+s632,start,2017-04-21 22:36:25
+s632,end,2017-04-22 07:46:24
+s632,quality,83%
+s632,time_in_bed,9:09
+s632,notes,Drank coffee:Drank tea:Worked out
+s632,steps,8072
+s633,start,2017-04-23 00:53:51
+s633,end,2017-04-23 08:38:20
+s633,quality,86%
+s633,time_in_bed,7:44
+s633,notes,Drank coffee:Drank tea
+s633,steps,2666
+s634,start,2017-04-23 22:31:31
+s634,end,2017-04-24 06:31:01
+s634,quality,75%
+s634,time_in_bed,7:59
+s634,notes,Drank coffee
+s634,steps,3042
+s635,start,2017-04-24 23:07:26
+s635,end,2017-04-25 06:34:32
+s635,quality,72%
+s635,time_in_bed,7:27
+s635,notes,Drank coffee:Drank tea:Worked out
+s635,steps,10319
+s636,start,2017-04-25 22:20:09
+s636,end,2017-04-26 06:20:58
+s636,quality,85%
+s636,time_in_bed,8:00
+s636,notes,Drank coffee:Drank tea:Worked out
+s636,steps,8358
+s637,start,2017-04-26 22:25:19
+s637,end,2017-04-27 06:32:18
+s637,quality,68%
+s637,time_in_bed,8:06
+s637,notes,Drank coffee:Drank tea:Worked out
+s637,steps,7337
+s638,start,2017-04-27 22:48:26
+s638,end,2017-04-28 06:40:19
+s638,quality,64%
+s638,time_in_bed,7:51
+s638,notes,Drank coffee:Drank tea:Worked out
+s638,steps,6551
+s639,start,2017-04-28 23:39:58
+s639,end,2017-04-29 08:17:11
+s639,quality,90%
+s639,time_in_bed,8:37
+s639,notes,Drank coffee:Drank tea:Stressful day
+s639,steps,3357
+s640,start,2017-04-29 23:39:22
+s640,end,2017-04-30 07:23:20
+s640,quality,74%
+s640,time_in_bed,7:43
+s640,notes,Drank coffee:Drank tea
+s640,steps,2668
+s641,start,2017-04-30 22:28:38
+s641,end,2017-05-01 06:16:14
+s641,quality,72%
+s641,time_in_bed,7:47
+s641,notes,Drank coffee:Drank tea:Worked out
+s641,steps,7491
+s642,start,2017-05-01 22:00:53
+s642,end,2017-05-02 06:17:03
+s642,quality,74%
+s642,time_in_bed,8:16
+s642,notes,Drank coffee:Drank tea:Worked out
+s642,steps,11475
+s643,start,2017-05-02 21:47:56
+s643,end,2017-05-03 06:04:42
+s643,quality,77%
+s643,time_in_bed,8:16
+s643,notes,Drank coffee:Drank tea:Worked out
+s643,steps,4810
+s644,start,2017-05-03 22:59:05
+s644,end,2017-05-04 06:20:50
+s644,quality,59%
+s644,time_in_bed,7:21
+s644,notes,Drank coffee:Drank tea:Worked out
+s644,steps,6932
+s645,start,2017-05-04 22:37:37
+s645,end,2017-05-05 06:10:20
+s645,quality,73%
+s645,time_in_bed,7:32
+s645,notes,Drank coffee:Drank tea:Worked out
+s645,steps,5954
+s646,start,2017-05-06 00:25:02
+s646,end,2017-05-06 07:45:11
+s646,quality,83%
+s646,time_in_bed,7:20
+s646,notes,Drank coffee:Drank tea:Worked out
+s646,steps,11070
+s647,start,2017-05-07 21:51:42
+s647,end,2017-05-08 06:10:11
+s647,quality,81%
+s647,time_in_bed,8:18
+s647,notes,Drank coffee
+s647,steps,4310
+s648,start,2017-05-08 22:28:29
+s648,end,2017-05-09 06:11:31
+s648,quality,66%
+s648,time_in_bed,7:43
+s648,notes,Drank coffee:Drank tea:Worked out
+s648,steps,8598
+s649,start,2017-05-09 23:33:31
+s649,end,2017-05-10 06:03:03
+s649,quality,64%
+s649,time_in_bed,6:29
+s649,notes,Drank coffee:Drank tea:Worked out
+s649,steps,6073
+s650,start,2017-05-10 06:04:51
+s650,end,2017-05-10 07:45:36
+s650,quality,18%
+s650,time_in_bed,1:40
+s650,steps,0
+s651,start,2017-05-10 22:43:36
+s651,end,2017-05-11 06:16:14
+s651,quality,82%
+s651,time_in_bed,7:32
+s651,notes,Drank coffee:Drank tea
+s651,steps,2854
+s652,start,2017-05-11 21:52:42
+s652,end,2017-05-12 06:40:09
+s652,quality,95%
+s652,time_in_bed,8:47
+s652,notes,Drank coffee:Drank tea:Worked out
+s652,steps,4280
+s653,start,2017-05-13 00:42:34
+s653,end,2017-05-13 07:41:35
+s653,quality,73%
+s653,time_in_bed,6:59
+s653,notes,Drank coffee:Drank tea:Worked out
+s653,steps,4068
+s654,start,2017-05-14 00:04:29
+s654,end,2017-05-14 08:11:13
+s654,quality,73%
+s654,time_in_bed,8:06
+s654,notes,Drank tea
+s654,steps,3298
+s655,start,2017-05-14 21:57:30
+s655,end,2017-05-15 06:20:25
+s655,quality,77%
+s655,time_in_bed,8:22
+s655,notes,Drank coffee:Drank tea
+s655,steps,3958
+s656,start,2017-05-15 22:55:59
+s656,end,2017-05-16 06:30:17
+s656,quality,75%
+s656,time_in_bed,7:34
+s656,notes,Drank coffee:Drank tea:Worked out
+s656,steps,7661
+s657,start,2017-05-16 22:41:34
+s657,end,2017-05-17 06:17:58
+s657,quality,73%
+s657,time_in_bed,7:36
+s657,notes,Drank tea
+s657,steps,1865
+s658,start,2017-05-17 22:44:16
+s658,end,2017-05-18 06:40:48
+s658,quality,90%
+s658,time_in_bed,7:56
+s658,notes,Drank coffee:Drank tea:Worked out
+s658,steps,6764
+s659,start,2017-05-18 23:17:42
+s659,end,2017-05-19 06:27:47
+s659,quality,88%
+s659,time_in_bed,7:10
+s659,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s659,steps,82
+s660,start,2017-05-20 01:04:03
+s660,end,2017-05-20 08:56:08
+s660,quality,73%
+s660,time_in_bed,7:52
+s660,notes,Drank coffee:Drank tea:Worked out
+s660,steps,5606
+s661,start,2017-05-22 22:29:18
+s661,end,2017-05-23 07:35:39
+s661,quality,90%
+s661,time_in_bed,9:06
+s661,notes,Drank tea:Worked out
+s661,steps,8858
+s662,start,2017-05-24 00:14:39
+s662,end,2017-05-24 07:46:48
+s662,quality,70%
+s662,time_in_bed,7:32
+s662,notes,Drank coffee:Worked out
+s662,steps,14276
+s663,start,2017-05-24 22:09:30
+s663,end,2017-05-25 06:37:45
+s663,quality,82%
+s663,time_in_bed,8:28
+s663,notes,Drank tea:Worked out
+s663,steps,3884
+s664,start,2017-05-25 22:19:48
+s664,end,2017-05-26 06:24:25
+s664,quality,73%
+s664,time_in_bed,8:04
+s664,notes,Drank tea:Worked out
+s664,steps,4565
+s665,start,2017-05-28 00:18:11
+s665,end,2017-05-28 08:01:15
+s665,quality,81%
+s665,time_in_bed,7:43
+s665,notes,Drank coffee:Worked out
+s665,steps,3770
+s666,start,2017-05-28 22:37:11
+s666,end,2017-05-29 06:18:28
+s666,quality,75%
+s666,time_in_bed,7:41
+s666,notes,Drank coffee
+s666,steps,1450
+s667,start,2017-05-29 22:28:43
+s667,end,2017-05-30 06:11:10
+s667,quality,88%
+s667,time_in_bed,7:42
+s667,notes,Drank coffee:Stressful day:Worked out
+s667,steps,7711
+s668,start,2017-05-30 21:59:14
+s668,end,2017-05-31 06:20:27
+s668,quality,75%
+s668,time_in_bed,8:21
+s668,notes,Ate late:Drank coffee:Worked out
+s668,steps,6430
+s669,start,2017-05-31 22:26:34
+s669,end,2017-06-01 05:45:50
+s669,quality,86%
+s669,time_in_bed,7:19
+s669,notes,Drank coffee:Drank tea:Worked out
+s669,steps,6964
+s670,start,2017-06-01 22:59:29
+s670,end,2017-06-02 06:40:30
+s670,quality,80%
+s670,time_in_bed,7:41
+s670,notes,Drank coffee:Drank tea:Worked out
+s670,steps,4562
+s671,start,2017-06-02 22:05:31
+s671,end,2017-06-03 06:11:20
+s671,quality,69%
+s671,time_in_bed,8:05
+s671,notes,Drank coffee:Drank tea
+s671,steps,1867
+s672,start,2017-06-03 21:56:57
+s672,end,2017-06-04 07:13:29
+s672,quality,72%
+s672,time_in_bed,9:16
+s672,notes,Drank coffee:Worked out
+s672,steps,8205
+s673,start,2017-06-04 23:14:35
+s673,end,2017-06-05 06:21:14
+s673,quality,67%
+s673,time_in_bed,7:06
+s673,notes,Drank coffee
+s673,steps,6705
+s674,start,2017-06-05 22:30:09
+s674,end,2017-06-06 06:17:34
+s674,quality,74%
+s674,time_in_bed,7:47
+s674,notes,Drank coffee:Worked out
+s674,steps,7820
+s675,start,2017-06-06 21:38:46
+s675,end,2017-06-07 05:53:29
+s675,quality,76%
+s675,time_in_bed,8:14
+s675,notes,Drank coffee:Drank tea:Stressful day:Worked out
+s675,steps,5391
+s676,start,2017-06-07 22:54:08
+s676,end,2017-06-08 06:34:25
+s676,quality,41%
+s676,time_in_bed,7:40
+s676,notes,Drank coffee:Drank tea:Worked out
+s676,steps,10542
+s677,start,2017-06-08 21:47:22
+s677,end,2017-06-09 06:17:26
+s677,quality,70%
+s677,time_in_bed,8:30
+s677,notes,Drank tea
+s677,steps,255
+s678,start,2017-06-10 00:07:56
+s678,end,2017-06-10 07:55:35
+s678,quality,67%
+s678,time_in_bed,7:47
+s678,steps,10427
+s679,start,2017-06-11 22:18:20
+s679,end,2017-06-12 06:10:31
+s679,quality,78%
+s679,time_in_bed,7:52
+s679,steps,6507
+s680,start,2017-06-12 21:44:54
+s680,end,2017-06-13 06:17:41
+s680,quality,93%
+s680,time_in_bed,8:32
+s680,steps,10373
+s681,start,2017-06-13 22:18:02
+s681,end,2017-06-14 06:12:15
+s681,quality,74%
+s681,time_in_bed,7:54
+s681,steps,9204
+s682,start,2017-06-14 22:34:54
+s682,end,2017-06-15 06:13:20
+s682,quality,68%
+s682,time_in_bed,7:38
+s682,steps,5027
+s683,start,2017-06-15 22:19:07
+s683,end,2017-06-16 06:07:14
+s683,quality,76%
+s683,time_in_bed,7:48
+s683,steps,7106
+s684,start,2017-06-18 05:01:21
+s684,end,2017-06-18 07:34:55
+s684,quality,31%
+s684,time_in_bed,2:33
+s684,steps,12153
+s685,start,2017-06-18 07:35:10
+s685,end,2017-06-18 08:09:18
+s685,quality,7%
+s685,time_in_bed,0:34
+s685,steps,804
+s686,start,2017-06-18 22:22:20
+s686,end,2017-06-19 06:02:19
+s686,quality,66%
+s686,time_in_bed,7:39
+s686,steps,5251
+s687,start,2017-06-19 22:57:14
+s687,end,2017-06-20 06:24:06
+s687,quality,70%
+s687,time_in_bed,7:26
+s687,steps,6672
+s688,start,2017-06-20 22:31:36
+s688,end,2017-06-21 06:15:06
+s688,quality,77%
+s688,time_in_bed,7:43
+s688,steps,7007
+s689,start,2017-06-21 06:16:05
+s689,end,2017-06-21 07:03:46
+s689,quality,10%
+s689,time_in_bed,0:47
+s689,steps,0
+s690,start,2017-06-21 22:32:49
+s690,end,2017-06-22 06:10:27
+s690,quality,72%
+s690,time_in_bed,7:37
+s690,steps,4898
+s691,start,2017-06-22 23:37:40
+s691,end,2017-06-23 06:38:08
+s691,quality,59%
+s691,time_in_bed,7:00
+s691,steps,7064
+s692,start,2017-06-23 23:26:37
+s692,end,2017-06-24 07:11:05
+s692,quality,74%
+s692,time_in_bed,7:44
+s692,steps,114
+s693,start,2017-06-25 22:08:35
+s693,end,2017-06-26 06:18:46
+s693,quality,83%
+s693,time_in_bed,8:10
+s693,steps,3403
+s694,start,2017-06-26 21:24:01
+s694,end,2017-06-27 06:15:53
+s694,quality,90%
+s694,time_in_bed,8:51
+s694,steps,6043
+s695,start,2017-06-27 21:52:15
+s695,end,2017-06-28 06:33:17
+s695,quality,86%
+s695,time_in_bed,8:41
+s695,steps,8946
+s696,start,2017-06-28 21:53:16
+s696,end,2017-06-29 06:21:30
+s696,quality,69%
+s696,time_in_bed,8:28
+s696,steps,7778
+s697,start,2017-06-29 22:32:41
+s697,end,2017-06-30 06:33:05
+s697,quality,77%
+s697,time_in_bed,8:00
+s697,steps,5510
+s698,start,2017-07-03 00:31:28
+s698,end,2017-07-03 07:44:16
+s698,quality,81%
+s698,time_in_bed,7:12
+s698,steps,17770
+s699,start,2017-07-03 22:37:36
+s699,end,2017-07-04 06:18:46
+s699,quality,73%
+s699,time_in_bed,7:41
+s699,steps,10604
+s700,start,2017-07-04 22:07:02
+s700,end,2017-07-05 05:55:45
+s700,quality,74%
+s700,time_in_bed,7:48
+s700,steps,7474
+s701,start,2017-07-05 21:48:16
+s701,end,2017-07-06 05:43:17
+s701,quality,66%
+s701,time_in_bed,7:55
+s701,steps,6430
+s702,start,2017-07-06 22:33:57
+s702,end,2017-07-07 06:31:01
+s702,quality,73%
+s702,time_in_bed,7:57
+s702,steps,11076
+s703,start,2017-07-09 22:36:36
+s703,end,2017-07-10 05:59:34
+s703,quality,70%
+s703,time_in_bed,7:22
+s703,steps,12647
+s704,start,2017-07-10 22:25:58
+s704,end,2017-07-11 06:01:00
+s704,quality,74%
+s704,time_in_bed,7:35
+s704,steps,4260
+s705,start,2017-07-11 21:39:56
+s705,end,2017-07-12 06:06:25
+s705,quality,65%
+s705,time_in_bed,8:26
+s705,steps,5504
+s706,start,2017-07-12 23:12:08
+s706,end,2017-07-13 06:25:50
+s706,quality,67%
+s706,time_in_bed,7:13
+s706,steps,6915
+s707,start,2017-07-13 22:30:55
+s707,end,2017-07-14 06:45:43
+s707,quality,81%
+s707,time_in_bed,8:14
+s707,steps,3919
+s708,start,2017-07-15 01:10:44
+s708,end,2017-07-15 07:54:40
+s708,quality,78%
+s708,time_in_bed,6:43
+s708,steps,5342
+s709,start,2017-07-16 02:12:50
+s709,end,2017-07-16 07:53:21
+s709,quality,69%
+s709,time_in_bed,5:40
+s709,steps,3739
+s710,start,2017-07-16 22:08:10
+s710,end,2017-07-17 06:25:30
+s710,quality,70%
+s710,time_in_bed,8:17
+s710,steps,5925
+s711,start,2017-07-17 22:51:14
+s711,end,2017-07-18 06:17:36
+s711,quality,71%
+s711,time_in_bed,7:26
+s711,steps,4840
+s712,start,2017-07-18 22:00:00
+s712,end,2017-07-19 06:39:58
+s712,quality,84%
+s712,time_in_bed,8:39
+s712,steps,5157
+s713,start,2017-07-19 21:45:40
+s713,end,2017-07-20 05:55:33
+s713,quality,87%
+s713,time_in_bed,8:09
+s713,steps,4336
+s714,start,2017-07-22 01:06:17
+s714,end,2017-07-22 07:54:35
+s714,quality,68%
+s714,time_in_bed,6:48
+s714,steps,135
+s715,start,2017-07-22 23:13:07
+s715,end,2017-07-23 07:10:13
+s715,quality,78%
+s715,time_in_bed,7:57
+s715,steps,5579
+s716,start,2017-07-23 21:57:52
+s716,end,2017-07-24 05:49:17
+s716,quality,84%
+s716,time_in_bed,7:51
+s716,steps,3901
+s717,start,2017-07-25 05:34:23
+s717,end,2017-07-25 05:55:30
+s717,quality,5%
+s717,time_in_bed,0:21
+s717,steps,6485
+s718,start,2017-07-25 22:04:25
+s718,end,2017-07-26 05:48:19
+s718,quality,87%
+s718,time_in_bed,7:43
+s718,steps,5451
+s719,start,2017-07-26 22:29:46
+s719,end,2017-07-27 06:05:30
+s719,quality,74%
+s719,time_in_bed,7:35
+s719,steps,2899
+s720,start,2017-07-27 21:53:02
+s720,end,2017-07-28 05:50:03
+s720,quality,51%
+s720,time_in_bed,7:57
+s720,steps,1552
+s721,start,2017-07-28 23:29:02
+s721,end,2017-07-29 06:22:28
+s721,quality,38%
+s721,time_in_bed,6:53
+s721,steps,5221
+s722,start,2017-07-29 22:00:52
+s722,end,2017-07-30 06:50:26
+s722,quality,72%
+s722,time_in_bed,8:49
+s722,steps,3834
+s723,start,2017-07-30 23:20:22
+s723,end,2017-07-31 06:33:10
+s723,quality,89%
+s723,time_in_bed,7:12
+s723,steps,1018
+s724,start,2017-07-31 22:39:28
+s724,end,2017-08-01 06:19:20
+s724,quality,82%
+s724,time_in_bed,7:39
+s724,steps,1837
+s725,start,2017-08-01 23:15:08
+s725,end,2017-08-02 06:10:05
+s725,quality,77%
+s725,time_in_bed,6:54
+s725,steps,893
+s726,start,2017-08-02 22:32:50
+s726,end,2017-08-03 06:06:01
+s726,quality,81%
+s726,time_in_bed,7:33
+s726,steps,5280
+s727,start,2017-08-03 23:14:21
+s727,end,2017-08-04 06:32:32
+s727,quality,80%
+s727,time_in_bed,7:18
+s727,steps,3584
+s728,start,2017-08-04 22:59:14
+s728,end,2017-08-05 07:31:09
+s728,quality,76%
+s728,time_in_bed,8:31
+s728,steps,1114
+s729,start,2017-08-05 23:37:59
+s729,end,2017-08-06 07:38:03
+s729,quality,81%
+s729,time_in_bed,8:00
+s729,steps,5152
+s730,start,2017-08-06 23:03:23
+s730,end,2017-08-07 08:12:03
+s730,quality,99%
+s730,time_in_bed,9:08
+s730,steps,3045
+s731,start,2017-08-07 23:14:29
+s731,end,2017-08-08 07:41:10
+s731,quality,73%
+s731,time_in_bed,8:26
+s731,steps,2429
+s732,start,2017-08-08 22:34:04
+s732,end,2017-08-09 06:05:52
+s732,quality,81%
+s732,time_in_bed,7:31
+s732,steps,7187
+s733,start,2017-08-09 23:22:48
+s733,end,2017-08-10 05:53:13
+s733,quality,59%
+s733,time_in_bed,6:30
+s733,steps,4488
+s734,start,2017-08-12 22:58:37
+s734,end,2017-08-13 06:40:56
+s734,quality,79%
+s734,time_in_bed,7:42
+s734,steps,5541
+s735,start,2017-08-13 22:46:18
+s735,end,2017-08-14 05:51:01
+s735,quality,58%
+s735,time_in_bed,7:04
+s735,steps,6246
+s736,start,2017-08-14 22:32:46
+s736,end,2017-08-15 05:51:31
+s736,quality,67%
+s736,time_in_bed,7:18
+s736,steps,7940
+s737,start,2017-08-15 21:56:15
+s737,end,2017-08-16 06:30:25
+s737,quality,83%
+s737,time_in_bed,8:34
+s737,steps,5029
+s738,start,2017-08-16 22:01:52
+s738,end,2017-08-17 05:29:51
+s738,quality,81%
+s738,time_in_bed,7:27
+s738,steps,9185
+s739,start,2017-08-17 20:36:10
+s739,end,2017-08-18 04:53:01
+s739,quality,35%
+s739,time_in_bed,8:16
+s739,steps,7581
+s740,start,2017-08-25 23:37:21
+s740,end,2017-08-26 06:38:04
+s740,quality,30%
+s740,time_in_bed,7:00
+s740,steps,10605
+s741,start,2017-08-27 22:15:33
+s741,end,2017-08-28 07:00:30
+s741,quality,94%
+s741,time_in_bed,8:44
+s741,steps,13476
+s742,start,2017-08-28 22:03:24
+s742,end,2017-08-29 07:20:54
+s742,quality,82%
+s742,time_in_bed,9:17
+s742,steps,3921
+s743,start,2017-08-30 23:01:16
+s743,end,2017-08-31 06:38:25
+s743,quality,74%
+s743,time_in_bed,7:37
+s743,steps,3332
+s744,start,2017-08-31 23:01:05
+s744,end,2017-09-01 07:16:49
+s744,quality,81%
+s744,time_in_bed,8:15
+s744,steps,3001
+s745,start,2017-09-01 22:33:45
+s745,end,2017-09-02 07:38:02
+s745,quality,89%
+s745,time_in_bed,9:04
+s745,steps,7268
+s746,start,2017-09-03 00:46:32
+s746,end,2017-09-03 08:08:23
+s746,quality,81%
+s746,time_in_bed,7:21
+s746,steps,4835
+s747,start,2017-09-03 23:07:20
+s747,end,2017-09-04 07:22:04
+s747,quality,84%
+s747,time_in_bed,8:14
+s747,steps,3230
+s748,start,2017-09-04 22:49:42
+s748,end,2017-09-05 06:07:20
+s748,quality,59%
+s748,time_in_bed,7:17
+s748,steps,1333
+s749,start,2017-09-05 22:38:20
+s749,end,2017-09-06 06:08:21
+s749,quality,81%
+s749,time_in_bed,7:30
+s749,steps,8922
+s750,start,2017-09-06 22:02:41
+s750,end,2017-09-07 06:02:21
+s750,quality,79%
+s750,time_in_bed,7:59
+s750,steps,5095
+s751,start,2017-09-07 22:26:23
+s751,end,2017-09-08 06:05:39
+s751,quality,77%
+s751,time_in_bed,7:39
+s751,steps,5470
+s752,start,2017-09-09 21:24:16
+s752,end,2017-09-10 06:13:13
+s752,quality,74%
+s752,time_in_bed,8:48
+s752,steps,2257
+s753,start,2017-09-11 22:39:00
+s753,end,2017-09-12 06:06:05
+s753,quality,56%
+s753,time_in_bed,7:27
+s753,steps,12094
+s754,start,2017-09-12 22:03:48
+s754,end,2017-09-13 06:08:39
+s754,quality,86%
+s754,time_in_bed,8:04
+s754,steps,6059
+s755,start,2017-09-13 23:43:45
+s755,end,2017-09-14 06:32:29
+s755,quality,55%
+s755,time_in_bed,6:48
+s755,steps,6075
+s756,start,2017-09-14 22:06:34
+s756,end,2017-09-15 06:05:38
+s756,quality,79%
+s756,time_in_bed,7:59
+s756,steps,4400
+s757,start,2017-09-16 00:18:13
+s757,end,2017-09-16 08:51:40
+s757,quality,91%
+s757,time_in_bed,8:33
+s757,steps,4880
+s758,start,2017-09-17 22:50:59
+s758,end,2017-09-18 06:32:47
+s758,quality,71%
+s758,time_in_bed,7:41
+s758,steps,7213
+s759,start,2017-09-18 22:19:43
+s759,end,2017-09-19 06:04:41
+s759,quality,69%
+s759,time_in_bed,7:44
+s759,steps,3640
+s760,start,2017-09-19 22:16:47
+s760,end,2017-09-20 06:04:25
+s760,quality,76%
+s760,time_in_bed,7:47
+s760,steps,5184
+s761,start,2017-09-20 22:04:28
+s761,end,2017-09-21 06:06:58
+s761,quality,65%
+s761,time_in_bed,8:02
+s761,steps,4443
+s762,start,2017-09-21 22:23:28
+s762,end,2017-09-22 06:07:29
+s762,quality,72%
+s762,time_in_bed,7:44
+s762,steps,5242
+s763,start,2017-09-24 21:44:24
+s763,end,2017-09-25 05:57:26
+s763,quality,80%
+s763,time_in_bed,8:13
+s763,steps,5142
+s764,start,2017-09-25 22:17:38
+s764,end,2017-09-26 06:19:01
+s764,quality,73%
+s764,time_in_bed,8:01
+s764,steps,5050
+s765,start,2017-09-26 23:01:43
+s765,end,2017-09-27 05:49:35
+s765,quality,66%
+s765,time_in_bed,6:47
+s765,steps,1706
+s766,start,2017-09-27 22:06:02
+s766,end,2017-09-28 06:08:22
+s766,quality,83%
+s766,time_in_bed,8:02
+s766,steps,10076
+s767,start,2017-09-28 23:36:21
+s767,end,2017-09-29 06:41:18
+s767,quality,75%
+s767,time_in_bed,7:04
+s767,steps,5320
+s768,start,2017-09-29 23:14:44
+s768,end,2017-09-30 08:00:51
+s768,quality,80%
+s768,time_in_bed,8:46
+s768,steps,2809
+s769,start,2017-10-01 00:03:39
+s769,end,2017-10-01 07:36:48
+s769,quality,79%
+s769,time_in_bed,7:33
+s769,steps,6235
+s770,start,2017-10-01 21:44:19
+s770,end,2017-10-02 06:05:20
+s770,quality,69%
+s770,time_in_bed,8:21
+s770,steps,2757
+s771,start,2017-10-02 22:55:18
+s771,end,2017-10-03 06:00:50
+s771,quality,76%
+s771,time_in_bed,7:05
+s771,steps,5551
+s772,start,2017-10-03 21:41:07
+s772,end,2017-10-04 06:25:44
+s772,quality,96%
+s772,time_in_bed,8:44
+s772,steps,3729
+s773,start,2017-10-04 22:44:21
+s773,end,2017-10-05 06:05:20
+s773,quality,75%
+s773,time_in_bed,7:20
+s773,steps,7101
+s774,start,2017-10-05 21:24:20
+s774,end,2017-10-06 04:37:37
+s774,quality,76%
+s774,time_in_bed,7:13
+s774,steps,4906
+s775,start,2017-10-06 22:56:47
+s775,end,2017-10-07 07:44:33
+s775,quality,55%
+s775,time_in_bed,8:47
+s775,steps,4507
+s776,start,2017-10-07 21:57:55
+s776,end,2017-10-08 08:05:32
+s776,quality,71%
+s776,time_in_bed,10:07
+s776,steps,1588
+s777,start,2017-10-09 22:27:21
+s777,end,2017-10-10 06:10:18
+s777,quality,79%
+s777,time_in_bed,7:42
+s777,steps,3951
+s778,start,2017-10-10 22:23:41
+s778,end,2017-10-11 06:00:29
+s778,quality,80%
+s778,time_in_bed,7:36
+s778,steps,5912
+s779,start,2017-10-11 22:32:30
+s779,end,2017-10-12 06:10:39
+s779,quality,71%
+s779,time_in_bed,7:38
+s779,steps,5314
+s780,start,2017-10-12 22:22:18
+s780,end,2017-10-13 06:37:05
+s780,quality,79%
+s780,time_in_bed,8:14
+s780,steps,3240
+s781,start,2017-10-13 23:03:57
+s781,end,2017-10-14 08:15:03
+s781,quality,88%
+s781,time_in_bed,9:11
+s781,steps,356
+s782,start,2017-10-14 22:58:56
+s782,end,2017-10-15 07:24:01
+s782,quality,80%
+s782,time_in_bed,8:25
+s782,steps,388
+s783,start,2017-10-15 22:47:15
+s783,end,2017-10-16 05:56:41
+s783,quality,69%
+s783,time_in_bed,7:09
+s783,steps,4287
+s784,start,2017-10-16 21:51:31
+s784,end,2017-10-17 06:01:21
+s784,quality,74%
+s784,time_in_bed,8:09
+s784,steps,7129
+s785,start,2017-10-17 21:41:00
+s785,end,2017-10-18 06:02:24
+s785,quality,78%
+s785,time_in_bed,8:21
+s785,steps,3342
+s786,start,2017-10-19 00:01:27
+s786,end,2017-10-19 06:02:24
+s786,quality,60%
+s786,time_in_bed,6:00
+s786,steps,4074
+s787,start,2017-10-19 21:13:33
+s787,end,2017-10-20 06:14:02
+s787,quality,100%
+s787,time_in_bed,9:00
+s787,steps,907
+s788,start,2017-10-21 00:05:16
+s788,end,2017-10-21 07:57:15
+s788,quality,89%
+s788,time_in_bed,7:51
+s788,steps,5899
+s789,start,2017-10-22 00:25:34
+s789,end,2017-10-22 07:45:57
+s789,quality,79%
+s789,time_in_bed,7:20
+s789,steps,71
+s790,start,2017-10-22 21:50:11
+s790,end,2017-10-23 06:00:36
+s790,quality,82%
+s790,time_in_bed,8:10
+s790,steps,5210
+s791,start,2017-10-23 22:18:50
+s791,end,2017-10-24 06:01:49
+s791,quality,65%
+s791,time_in_bed,7:42
+s791,steps,6636
+s792,start,2017-10-24 22:15:22
+s792,end,2017-10-25 06:06:53
+s792,quality,83%
+s792,time_in_bed,7:51
+s792,steps,5355
+s793,start,2017-10-25 21:55:37
+s793,end,2017-10-26 06:00:46
+s793,quality,65%
+s793,time_in_bed,8:05
+s793,steps,4119
+s794,start,2017-10-27 01:50:09
+s794,end,2017-10-27 06:51:31
+s794,quality,59%
+s794,time_in_bed,5:01
+s794,steps,5364
+s795,start,2017-10-28 22:51:22
+s795,end,2017-10-29 07:51:27
+s795,quality,91%
+s795,time_in_bed,9:00
+s795,steps,1097
+s796,start,2017-10-29 22:26:09
+s796,end,2017-10-30 06:00:41
+s796,quality,78%
+s796,time_in_bed,7:34
+s796,steps,1430
+s797,start,2017-10-30 22:52:29
+s797,end,2017-10-31 05:43:44
+s797,quality,62%
+s797,time_in_bed,6:51
+s797,steps,7603
+s798,start,2017-10-31 23:29:23
+s798,end,2017-11-01 05:02:58
+s798,quality,49%
+s798,time_in_bed,5:33
+s798,steps,9304
+s799,start,2017-11-02 21:25:12
+s799,end,2017-11-03 06:21:18
+s799,quality,74%
+s799,time_in_bed,8:56
+s799,steps,5051
+s800,start,2017-11-03 23:23:48
+s800,end,2017-11-04 07:26:48
+s800,quality,89%
+s800,time_in_bed,8:02
+s800,steps,787
+s801,start,2017-11-05 22:30:18
+s801,end,2017-11-06 06:05:55
+s801,quality,70%
+s801,time_in_bed,7:35
+s801,steps,5504
+s802,start,2017-11-06 22:08:49
+s802,end,2017-11-07 05:58:38
+s802,quality,75%
+s802,time_in_bed,7:49
+s802,steps,3709
+s803,start,2017-11-07 21:01:59
+s803,end,2017-11-08 05:45:28
+s803,quality,90%
+s803,time_in_bed,8:43
+s803,steps,144
+s804,start,2017-11-08 23:11:50
+s804,end,2017-11-09 06:30:07
+s804,quality,76%
+s804,time_in_bed,7:18
+s804,steps,6094
+s805,start,2017-11-09 22:04:06
+s805,end,2017-11-10 07:15:12
+s805,quality,96%
+s805,time_in_bed,9:11
+s805,steps,847
+s806,start,2017-11-10 23:29:46
+s806,end,2017-11-11 07:21:04
+s806,quality,83%
+s806,time_in_bed,7:51
+s806,steps,5919
+s807,start,2017-11-11 23:06:26
+s807,end,2017-11-12 07:18:05
+s807,quality,84%
+s807,time_in_bed,8:11
+s807,steps,1751
+s808,start,2017-11-12 23:39:58
+s808,end,2017-11-13 08:30:57
+s808,quality,79%
+s808,time_in_bed,8:50
+s808,steps,3789
+s809,start,2017-11-14 21:16:47
+s809,end,2017-11-15 06:50:55
+s809,quality,93%
+s809,time_in_bed,9:34
+s809,steps,52
+s810,start,2017-11-15 21:23:57
+s810,end,2017-11-16 06:51:33
+s810,quality,85%
+s810,time_in_bed,9:27
+s810,steps,27
+s811,start,2017-11-16 22:33:27
+s811,end,2017-11-17 06:07:47
+s811,quality,80%
+s811,time_in_bed,7:34
+s811,steps,430
+s812,start,2017-11-17 23:08:36
+s812,end,2017-11-18 07:20:32
+s812,quality,91%
+s812,time_in_bed,8:11
+s812,steps,3281
+s813,start,2017-11-19 21:58:13
+s813,end,2017-11-20 06:02:13
+s813,quality,82%
+s813,time_in_bed,8:04
+s813,steps,4153
+s814,start,2017-11-20 22:26:32
+s814,end,2017-11-21 06:00:14
+s814,quality,86%
+s814,time_in_bed,7:33
+s814,steps,6494
+s815,start,2017-11-21 22:26:00
+s815,end,2017-11-22 05:57:08
+s815,quality,68%
+s815,time_in_bed,7:31
+s815,steps,9426
+s816,start,2017-11-22 22:34:51
+s816,end,2017-11-23 06:01:17
+s816,quality,80%
+s816,time_in_bed,7:26
+s816,steps,7565
+s817,start,2017-11-23 22:56:54
+s817,end,2017-11-24 06:30:05
+s817,quality,80%
+s817,time_in_bed,7:33
+s817,steps,5735
+s818,start,2017-11-25 23:14:12
+s818,end,2017-11-26 08:19:42
+s818,quality,100%
+s818,time_in_bed,9:05
+s818,steps,5116
+s819,start,2017-11-26 22:10:04
+s819,end,2017-11-27 06:05:57
+s819,quality,63%
+s819,time_in_bed,7:55
+s819,steps,27
+s820,start,2017-11-27 22:36:02
+s820,end,2017-11-28 05:58:49
+s820,quality,73%
+s820,time_in_bed,7:22
+s820,steps,0
+s821,start,2017-11-28 22:54:56
+s821,end,2017-11-29 06:09:22
+s821,quality,80%
+s821,time_in_bed,7:14
+s821,steps,6417
+s822,start,2017-11-29 22:33:33
+s822,end,2017-11-30 06:26:26
+s822,quality,83%
+s822,time_in_bed,7:52
+s822,steps,0
+s823,start,2017-11-30 20:54:34
+s823,end,2017-12-01 05:55:40
+s823,quality,77%
+s823,time_in_bed,9:01
+s823,steps,0
+s824,start,2017-12-03 23:10:31
+s824,end,2017-12-04 06:15:51
+s824,quality,63%
+s824,time_in_bed,7:05
+s824,steps,3400
+s825,start,2017-12-04 21:20:58
+s825,end,2017-12-05 05:50:36
+s825,quality,70%
+s825,time_in_bed,8:29
+s825,steps,6015
+s826,start,2017-12-05 22:56:23
+s826,end,2017-12-06 06:15:35
+s826,quality,68%
+s826,time_in_bed,7:19
+s826,steps,3179
+s827,start,2017-12-06 21:56:53
+s827,end,2017-12-07 05:50:15
+s827,quality,63%
+s827,time_in_bed,7:53
+s827,steps,6346
+s828,start,2017-12-07 22:04:25
+s828,end,2017-12-08 06:31:39
+s828,quality,82%
+s828,time_in_bed,8:27
+s828,steps,218
+s829,start,2017-12-09 23:39:39
+s829,end,2017-12-10 08:15:38
+s829,quality,95%
+s829,time_in_bed,8:35
+s829,steps,0
+s830,start,2017-12-10 22:16:12
+s830,end,2017-12-11 06:06:04
+s830,quality,70%
+s830,time_in_bed,7:49
+s830,steps,96
+s831,start,2017-12-11 21:47:09
+s831,end,2017-12-12 05:57:00
+s831,quality,68%
+s831,time_in_bed,8:09
+s831,steps,7339
+s832,start,2017-12-12 22:09:55
+s832,end,2017-12-13 05:55:21
+s832,quality,72%
+s832,time_in_bed,7:45
+s832,steps,6970
+s833,start,2017-12-14 22:47:44
+s833,end,2017-12-15 05:51:51
+s833,quality,60%
+s833,time_in_bed,7:04
+s833,steps,1566
+s834,start,2017-12-17 21:35:13
+s834,end,2017-12-18 06:08:30
+s834,quality,80%
+s834,time_in_bed,8:33
+s834,steps,5184
+s835,start,2017-12-18 21:39:40
+s835,end,2017-12-19 06:05:47
+s835,quality,79%
+s835,time_in_bed,8:26
+s835,steps,75
+s836,start,2017-12-19 22:05:48
+s836,end,2017-12-20 06:25:53
+s836,quality,79%
+s836,time_in_bed,8:20
+s836,steps,3088
+s837,start,2017-12-20 21:30:02
+s837,end,2017-12-21 05:52:44
+s837,quality,59%
+s837,time_in_bed,8:22
+s837,steps,4553
+s838,start,2017-12-21 22:10:42
+s838,end,2017-12-22 06:55:22
+s838,quality,75%
+s838,time_in_bed,8:44
+s838,steps,1306
+s839,start,2017-12-26 21:19:56
+s839,end,2017-12-27 07:55:33
+s839,quality,97%
+s839,time_in_bed,10:35
+s839,steps,373
+s840,start,2017-12-29 00:06:23
+s840,end,2017-12-29 07:57:09
+s840,quality,75%
+s840,time_in_bed,7:50
+s840,steps,5168
+s841,start,2017-12-29 22:00:17
+s841,end,2017-12-30 08:08:59
+s841,quality,75%
+s841,time_in_bed,10:08
+s841,steps,61
+s842,start,2018-01-01 21:30:48
+s842,end,2018-01-02 05:56:47
+s842,quality,81%
+s842,time_in_bed,8:25
+s842,steps,2544
+s843,start,2018-01-02 22:31:35
+s843,end,2018-01-03 05:48:52
+s843,quality,76%
+s843,time_in_bed,7:17
+s843,steps,475
+s844,start,2018-01-03 20:28:55
+s844,end,2018-01-04 03:40:00
+s844,quality,0%
+s844,time_in_bed,0:00
+s844,steps,47
+s845,start,2018-01-04 22:19:49
+s845,end,2018-01-05 07:25:32
+s845,quality,91%
+s845,time_in_bed,9:05
+s845,steps,5064
+s846,start,2018-01-06 23:13:54
+s846,end,2018-01-07 08:00:24
+s846,quality,86%
+s846,time_in_bed,8:46
+s846,steps,2101
+s847,start,2018-01-07 22:09:01
+s847,end,2018-01-08 06:10:31
+s847,quality,83%
+s847,time_in_bed,8:01
+s847,steps,1334
+s848,start,2018-01-08 22:53:56
+s848,end,2018-01-09 05:45:45
+s848,quality,77%
+s848,time_in_bed,6:51
+s848,steps,2262
+s849,start,2018-01-09 22:22:48
+s849,end,2018-01-10 06:23:50
+s849,quality,90%
+s849,time_in_bed,8:01
+s849,steps,4529
+s850,start,2018-01-10 21:31:25
+s850,end,2018-01-11 05:10:18
+s850,quality,71%
+s850,time_in_bed,7:38
+s850,steps,6224
+s851,start,2018-01-11 21:54:18
+s851,end,2018-01-12 05:01:11
+s851,quality,70%
+s851,time_in_bed,7:06
+s851,steps,47
+s852,start,2018-01-12 21:50:07
+s852,end,2018-01-13 07:38:38
+s852,quality,70%
+s852,time_in_bed,9:48
+s852,steps,6296
+s853,start,2018-01-13 22:07:20
+s853,end,2018-01-14 07:09:23
+s853,quality,64%
+s853,time_in_bed,9:02
+s853,steps,2405
+s854,start,2018-01-14 22:02:09
+s854,end,2018-01-15 05:50:20
+s854,quality,73%
+s854,time_in_bed,7:48
+s854,steps,9237
+s855,start,2018-01-15 22:45:03
+s855,end,2018-01-16 06:00:21
+s855,quality,79%
+s855,time_in_bed,7:15
+s855,steps,2818
+s856,start,2018-01-16 22:09:46
+s856,end,2018-01-17 06:01:27
+s856,quality,71%
+s856,time_in_bed,7:51
+s856,steps,5752
+s857,start,2018-01-17 22:45:11
+s857,end,2018-01-18 06:12:22
+s857,quality,84%
+s857,time_in_bed,7:27
+s857,steps,6631
+s858,start,2018-01-18 22:46:26
+s858,end,2018-01-19 06:48:42
+s858,quality,59%
+s858,time_in_bed,8:02
+s858,steps,9516
+s859,start,2018-01-19 22:21:24
+s859,end,2018-01-20 08:22:57
+s859,quality,71%
+s859,time_in_bed,10:01
+s859,steps,4454
+s860,start,2018-01-20 23:44:10
+s860,end,2018-01-21 07:01:39
+s860,quality,67%
+s860,time_in_bed,7:17
+s860,steps,7253
+s861,start,2018-01-21 22:04:55
+s861,end,2018-01-22 06:01:48
+s861,quality,84%
+s861,time_in_bed,7:56
+s861,steps,22
+s862,start,2018-01-22 23:15:57
+s862,end,2018-01-23 06:00:31
+s862,quality,66%
+s862,time_in_bed,6:44
+s862,steps,2334
+s863,start,2018-01-23 21:41:50
+s863,end,2018-01-24 06:00:37
+s863,quality,73%
+s863,time_in_bed,8:18
+s863,steps,2867
+s864,start,2018-01-24 20:58:39
+s864,end,2018-01-25 06:02:13
+s864,quality,84%
+s864,time_in_bed,9:03
+s864,steps,4881
+s865,start,2018-01-25 23:17:03
+s865,end,2018-01-26 06:00:13
+s865,quality,72%
+s865,time_in_bed,6:43
+s865,steps,2149
+s866,start,2018-01-26 22:13:41
+s866,end,2018-01-27 07:20:56
+s866,quality,92%
+s866,time_in_bed,9:07
+s866,steps,1720
+s867,start,2018-01-28 01:21:47
+s867,end,2018-01-28 08:49:01
+s867,quality,81%
+s867,time_in_bed,7:27
+s867,steps,6518
+s868,start,2018-01-28 21:30:54
+s868,end,2018-01-29 05:00:20
+s868,quality,69%
+s868,time_in_bed,7:29
+s868,steps,29
+s869,start,2018-01-29 21:37:33
+s869,end,2018-01-30 06:01:01
+s869,quality,79%
+s869,time_in_bed,8:23
+s869,steps,107
+s870,start,2018-01-30 22:18:44
+s870,end,2018-01-31 06:03:00
+s870,quality,77%
+s870,time_in_bed,7:44
+s870,steps,5277
+s871,start,2018-01-31 22:29:56
+s871,end,2018-02-01 06:02:18
+s871,quality,72%
+s871,time_in_bed,7:32
+s871,steps,1325
+s872,start,2018-02-01 21:25:06
+s872,end,2018-02-02 06:45:43
+s872,quality,80%
+s872,time_in_bed,9:20
+s872,steps,3319
+s873,start,2018-02-03 02:20:39
+s873,end,2018-02-03 07:44:10
+s873,quality,65%
+s873,time_in_bed,5:23
+s873,steps,4810
+s874,start,2018-02-03 08:32:14
+s874,end,2018-02-03 09:08:44
+s874,quality,8%
+s874,time_in_bed,0:36
+s874,steps,166
+s875,start,2018-02-03 22:29:00
+s875,end,2018-02-04 07:37:14
+s875,quality,96%
+s875,time_in_bed,9:08
+s875,steps,362
+s876,start,2018-02-04 23:09:25
+s876,end,2018-02-05 06:01:30
+s876,quality,72%
+s876,time_in_bed,6:52
+s876,steps,2528
+s877,start,2018-02-05 22:02:05
+s877,end,2018-02-06 06:00:17
+s877,quality,78%
+s877,time_in_bed,7:58
+s877,steps,7982
+s878,start,2018-02-06 21:44:05
+s878,end,2018-02-07 06:12:59
+s878,quality,82%
+s878,time_in_bed,8:28
+s878,steps,5039
+s879,start,2018-02-07 23:18:52
+s879,end,2018-02-08 06:48:07
+s879,quality,73%
+s879,time_in_bed,7:29
+s879,steps,2435
+s880,start,2018-02-08 22:41:38
+s880,end,2018-02-09 06:00:24
+s880,quality,93%
+s880,time_in_bed,7:18
+s880,steps,68
+s881,start,2018-02-09 23:07:55
+s881,end,2018-02-10 07:26:34
+s881,quality,76%
+s881,time_in_bed,8:18
+s881,steps,5598
+s882,start,2018-02-11 22:44:25
+s882,end,2018-02-12 07:08:28
+s882,quality,91%
+s882,time_in_bed,8:24
+s882,steps,1901
+s883,start,2018-02-12 21:54:14
+s883,end,2018-02-13 07:02:15
+s883,quality,91%
+s883,time_in_bed,9:08
+s883,steps,56
+s884,start,2018-02-13 23:49:19
+s884,end,2018-02-14 07:00:53
+s884,quality,81%
+s884,time_in_bed,7:11
+s884,steps,64
+s885,start,2018-02-14 21:24:05
+s885,end,2018-02-15 06:20:52
+s885,quality,71%
+s885,time_in_bed,8:56
+s885,steps,3316
+s886,start,2018-02-15 21:36:32
+s886,end,2018-02-16 06:50:31
+s886,quality,80%
+s886,time_in_bed,9:13
+s886,steps,6555
+s887,start,2018-02-16 22:52:29
+s887,end,2018-02-17 07:48:04
+s887,quality,91%
+s887,time_in_bed,8:55
+s887,steps,2291

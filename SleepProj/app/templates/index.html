@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Slemo - SleepModeOn</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="" name="keywords">
+        <meta content="" name="description">
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700" rel="stylesheet">
+
+        <!-- Bootstrap CSS File -->
+        <link href="../static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Libraries CSS Files -->
+        <link href="../static/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <link href="../static/lib/animate/animate.min.css" rel="stylesheet">
+
+        <!-- Main Stylesheet File -->
+        <link href="../static/css/style.css" rel="stylesheet">
+
+        <!-- =======================================================
+          Theme Name: Regna
+          Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+          Author: BootstrapMade.com
+          License: https://bootstrapmade.com/license/
+        ======================================================= -->
+    </head>
+
+    <body>
+
+    <!--==========================
+    Header
+    ============================-->
+    <header id="header">
+        <div class="container">
+
+            <div id="logo" class="pull-left">
+                <a href="#hero"><img src="../static/img/logo.png" alt="" title="" /></a>
+            </div>
+
+            <nav id="nav-menu-container">
+                <ul class="nav-menu">
+                    <li class="menu-active"><a href="#hero">Home</a></li>
+                    <li><a href="#facts">Facts</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio_Graphs</a></li>
+                    <li><a href="#team">Team</a></li>
+                </ul>
+            </nav><!-- #nav-menu-container -->
+        </div>
+    </header><!-- #header -->
+
+    <!--==========================
+      1st Section - welcome
+    ============================-->
+    <section id="hero">
+        <div class="hero-container">
+            <h1>Welcome to Slemo - Sleep Mode On</h1>
+            <h2>We are here to help you motoring sleep data, in order to improve your own sleep</h2>
+            <a href="#services" class="btn-get-started">Get Started</a>
+        </div>
+    </section> <!-- #hero -->
+
+    <main id="main">
+
+        <!--==========================
+          Facts Section
+        ============================-->
+
+        <section id="facts">
+            <div class="container wow fadeIn">
+                <div class="section-header">
+                    <h3 class="section-title">Facts</h3>
+                    <p class="section-description">Average amount of sleep of the individual (in hours and minutes), according to the specifications</p>
+                </div>
+
+                <div class="row counters">
+
+                    <div class="col-lg-3 col-6 text-center">
+                        <span>{{ avgTime }}</span>
+                        <p>Total average sleep time</p>
+                    </div>
+
+                    <div class="col-lg-3 col-6 text-center">
+                        <span>{{ avgHappyTime }}</span>
+                        <p>Feeling good after</p>
+                    </div>
+
+                    <div class="col-lg-3 col-6 text-center">
+                        <span>{{ avgMehTime }}</span>
+                        <p>Feeling <i>meeeh</i> after</p>
+                    </div>
+
+                    <div class="col-lg-3 col-6 text-center">
+                        <span>{{ avgSadTime }}</span>
+                        <p>Not feeling good after</p>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- #facts -->
+
+        <!--==========================
+          Services Section
+        ============================-->
+        <section id="services">
+            <div class="container wow fadeIn">
+                <div class="section-header">
+                    <h3 class="section-title">Services</h3>
+                    <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="fa fa-bed"></i></a></div>
+                            <h4 class="title"><a href="">Calculate time to sleep</a></h4>
+
+                            <div class="description">
+
+                                <form method="POST" action="{% url 'calcTimesSleep' %}"> {% csrf_token %}
+                                    <select name="horas_drop">
+                                        <option selected="selected" disabled>Hours</option>
+
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                        <option value="6">6</option>
+                                        <option value="7">7</option>
+                                        <option value="8">8</option>
+                                        <option value="9">9</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                        <option value="16">16</option>
+                                        <option value="17">17</option>
+                                        <option value="18">18</option>
+                                        <option value="19">19</option>
+                                        <option value="20">20</option>
+                                        <option value="21">21</option>
+                                        <option value="22">22</option>
+                                        <option value="23">23</option>
+                                        <option value="24">24</option>
+                                    </select>
+
+                                    <select name="minutos_drop">
+                                        <option selected="selected" disabled>Minutes</option>
+
+                                        <option value="5">5</option>
+                                        <option value="10">10</option>
+                                        <option value="15">15</option>
+                                        <option value="20">20</option>
+                                        <option value="25">25</option>
+                                        <option value="30">30</option>
+                                        <option value="35">35</option>
+                                        <option value="40">40</option>
+                                        <option value="45">45</option>
+                                        <option value="50">40</option>
+                                        <option value="55">55</option>
+                                    </select>
+
+                                    <input id="selectBtn" type="button" onClick="reply_click()" value="Select">
+                                </form>
+
+
+                                <!--<p>at least at: {{ min_whenSleep }} ; at most at: {{ max_whenSleep }}</p>-->
+                                <p>at least at: <span id="min_whenSleep">_____</span> ; at most at: <span id="max_whenSleep">_______</span></p>
+
+                                <script type="text/javascript">
+                                    var reply_click = function()
+                                    {
+                                        document.getElementById("min_whenSleep").innerHTML = "00:00";
+                                        document.getElementById("max_whenSleep").innerHTML = "08:55";
+                                    }
+                                </script>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="fa fa-bar-chart"></i></a></div>
+                            <h4 class="title"><a href="">Good Sleeping Inference</a></h4>
+                            <p class="description" style="line-height: 0.5">
+                                Time of sleep with 100% quality of sleep: <p>{{ timesGoodSleep }}</p>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="box">
+                            <div class="icon"><a href=""><i class="fa fa-heartbeat"></i></a></div>
+                            <h4 class="title"><a href="">Best heart rate Inference</a></h4>
+                            <p class="description" style="line-height: 0.5">
+                                Time of sleep with best heart rate ({{ beatbed }}) <p>{{ timesGoodRate }}</p>
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- #services -->
+
+        <!--==========================
+        Call To Action Section
+        ============================-->
+        <section id="call-to-action">
+            <div class="container wow fadeIn">
+                <div class="row">
+                    <div class="col-lg-10 text-center text-lg-left" style="margin-left: 25px">
+                        <h3 class="cta-title">Call To Action</h3>
+                        <p class="cta-text">
+                            Your sleep is important to us!
+                            With our study, we managed to provide the info of one of our individuals in order to present it and help you.
+                            Thanks to our services you can understand the average time of good sleep, so you can wake up energized, and calculate your own timings.
+                    </div>
+                </div>
+            </div>
+        </section><!-- #call-to-action -->
+
+        <!--==========================
+          Portfolio Section
+        ============================-->
+        <section id="portfolio">
+            <div class="container wow fadeInUp">
+                <div class="section-header">
+                    <h3 class="section-title">Portfolio of Graphs</h3>
+                    <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-lg-12">
+                        <ul id="portfolio-flters">
+                            <li data-filter=".filter-app" class="filter-active">Time of sleep</li>
+                            <li data-filter=".filter-card">Quality of sleep</li>
+                            <li data-filter=".filter-logo">Feelings</li>
+                            <li data-filter=".filter-web">Heart Rate</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row" id="portfolio-wrapper">
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-app">
+                        <a href="../static/img/portfolio/time.png" target="_blank">
+                            <img src="../static/img/portfolio/time.png" alt=""
+                                 align="center" style="width: 100%; height: 100%">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-card">
+                        <a href="../static/img/portfolio/quality.png" target="_blank">
+                            <img src="../static/img/portfolio/quality.png" alt=""
+                                 align="center" style="width: 100%; height: 100%">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+                        <a href="../static/img/portfolio/feel.png" target="_blank">
+                            <img src="../static/img/portfolio/feel.png" alt=""
+                                 align="center" style="width: 100%; height: 100%">
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 portfolio-item filter-web">
+                        <a href="../static/img/portfolio/heart.png" target="_blank">
+                            <img src="../static/img/portfolio/heart.png" alt=""
+                                 align="center" style="width: 100%; height: 100%">
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- #portfolio -->
+
+        <!--==========================
+          Team Section
+        ============================-->
+        <section id="team">
+            <div class="container wow fadeInUp">
+                <div class="section-header">
+                    <h3 class="section-title">Team</h3>
+                    <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="../static/img/team-1.jpg" alt=""></div>
+                            <h4>Bárbara Jael</h4>
+                            <span>Co-Founder & Web Designer</span>
+                            <div class="social">
+                                <a href="https://www.facebook.com/barbara.j94" target="_blank"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.linkedin.com/in/barbarajael/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="../static/img/team-2.jpg" alt=""></div>
+                            <h4>Joana Ribeiro</h4>
+                            <span>Co-Founder & Developer</span>
+                            <div class="social">
+                                <a href="https://www.facebook.com/jjoanaribeiro" target="_blank"><i class="fa fa-facebook"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="../static/img/team-3.jpg" alt=""></div>
+                            <h4></h4>
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="../static/img/team-4.jpg" alt=""></div>
+                            <h4>Hélder Zagalo</h4>
+                            <span>Adviser</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- #team -->
+
+    </main>
+
+
+    <!--==========================
+      Footer
+    ============================-->
+    <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!--
+                  All the links in the footer should remain intact.
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Regna
+                -->
+                Bootstrap Templates by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- #footer -->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="../static/lib/jquery/jquery.min.js"></script>
+    <script src="../static/lib/jquery/jquery-migrate.min.js"></script>
+    <script src="../static/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../static/lib/easing/easing.min.js"></script>
+    <script src="../static/lib/wow/wow.min.js"></script>
+
+    <script src="../static/lib/waypoints/waypoints.min.js"></script>
+    <script src="../static/lib/counterup/counterup.min.js"></script>
+    <script src="../static/lib/superfish/hoverIntent.js"></script>
+    <script src="../static/lib/superfish/superfish.min.js"></script>
+
+    <!-- Template Main Javascript File -->
+    <script src="../static/js/main.js"></script>
+
+    </body>
+</html>
