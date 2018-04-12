@@ -1,14 +1,15 @@
 from django.http import HttpResponse, HttpRequest
 from datetime import datetime, timedelta
 import datetime
-
 from django.template import loader
-
 from app.graph_py.grafo import Graph
 from app.graph_py.RegrasInferencia import Inf1, Inf3
 
 
-# ------------- MENU / GRAPH -------------
+# ----------------------------------
+# ---------- MENU / GRAPH ----------
+# ----------------------------------
+
 
 _graph = Graph()
 _graph.load("app/graph_py/sleepdata_triples.csv")
@@ -35,7 +36,9 @@ def time_feel(feel):
 
 
 
+# -----------------------------------
 # ------------- HELPERS -------------
+# -----------------------------------
 
 
 def makeAverage(tempos):
@@ -73,13 +76,17 @@ def timeToSleep(hour):
 
 
 
+# --------------------------------
 # ------------- VIEW -------------
+# --------------------------------
+
 
 def dataSleep(request):
     assert isinstance(request, HttpRequest)
     template = loader.get_template('index.html')
 
-    # ------------------------------------------
+    # --------------------------------------------------
+
 
     # ------- total average -------
 
@@ -109,7 +116,7 @@ def dataSleep(request):
     avgSadTime = avgSadTime.rsplit(':', 1)
 
 
-    # ------------------------------------------
+    # --------------------------------------------------
 
 
     # ------- inference1 (good sleep) -------
@@ -158,7 +165,36 @@ def dataSleep(request):
         .replace('\'', '')
 
 
-    # ------------------------------------------
+    # --------------------------------------------------
+
+
+    # ------- form things (calc) -------
+
+    min_whenSleep = '_____'
+    max_whenSleep = '_____'
+
+    if 'horas_drop' in request.POST and 'minutos_drop' in request.POST:
+        hours = request.POST.get('horas_drop')
+        minutes = request.POST.get('minutos_drop')
+        whenSleep = timeToSleep(str(hours) + ':' + str(minutes))
+
+        min_whenSleep = whenSleep[0][:-3]
+        max_whenSleep = whenSleep[1][:-3]
+
+        if 'day' in min_whenSleep:
+            min_whenSleep = min_whenSleep[8:]
+        if 'day' in max_whenSleep:
+            max_whenSleep = max_whenSleep[8:]
+
+        if min_whenSleep < max_whenSleep:
+            tmp1 = min_whenSleep
+            tmp2 = max_whenSleep
+
+            min_whenSleep = tmp2
+            max_whenSleep = tmp1
+
+
+    # --------------------------------------------------
 
 
     return HttpResponse(template.render({
@@ -166,23 +202,11 @@ def dataSleep(request):
             'avgHappyTime': avgHappyTime[0],
             'avgMehTime': avgMehTime[0],
             'avgSadTime': avgSadTime[0],
-            'min_whenSleep': '_____',
-            'max_whenSleep': '_____',
+
             'timesGoodSleep': timesGoodSleep,
             'beatbed': beatbed,
-            'timesGoodRate': timesGoodRate
+            'timesGoodRate': timesGoodRate,
+
+            'min_whenSleep': min_whenSleep,
+            'max_whenSleep': max_whenSleep
         }, request))
-
-
-
-
-def calcTimesSleep(request):
-    assert isinstance(request, HttpRequest)
-    template = loader.get_template('index.html')
-
-    hours = request.POST.get('horas_drop')
-    minutes = request.POST.get('minutos_drop')
-    whenSleep = timeToSleep(str(hours) + ':' + str(minutes))
-    # whenSleep = timeToSleep('9:31')
-    min_whenSleep = whenSleep[0]
-    max_whenSleep = whenSleep[1]

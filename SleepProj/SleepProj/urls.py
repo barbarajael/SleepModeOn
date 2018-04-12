@@ -22,5 +22,4 @@ from app import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     re_path(r'^$', app.views.dataSleep),
-    re_path(r'^$', app.views.calcTimesSleep, name='calcTimesSleep'),
 ]
