@@ -2,9 +2,9 @@
 
 ***
 
-First Project for the course of **Semantic Web** @ DETI-UA.
+First Project for the course of **Semantic Web** @ DETI-UA [2019].
 
-> Project done in colaboration with Joana Ribeiro.
+> Project done in collaboration with Joana Ribeiro.
 
 ***
 
