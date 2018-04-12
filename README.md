@@ -1,7 +1,5 @@
 # SleepModeOn
 
-***
-
 First Project for the course of **Semantic Web** @ DETI-UA [2018].
 
 > Project done in collaboration with Joana Ribeiro.
