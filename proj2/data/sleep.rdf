@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/SleepModeOn/2018#"
+     xml:base="http://www.semanticweb.org/SleepModeOn/2018"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:sleepdata="http://localhost:7200/sleepdata/#"
+     xmlns:sleepdata1="http://localhost:7200/sleepdata/"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/SleepModeOn/2018"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost:7200/sleepdata/hasDiet -->
+
+    <owl:ObjectProperty rdf:about="http://localhost:7200/sleepdata/hasDiet">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost:7200/sleepdata/hasDiet"/>
+                <owl:someValuesFrom rdf:resource="http://localhost:7200/sleepdata/#Person"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost:7200/sleepdata/hasDiet"/>
+                <owl:someValuesFrom rdf:resource="http://localhost:7200/sleepdata/#Mediterranean"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost:7200/sleepdata/hasDiet"/>
+                <owl:someValuesFrom rdf:resource="http://localhost:7200/sleepdata/#Paleo"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost:7200/sleepdata/hasDiet"/>
+                <owl:someValuesFrom rdf:resource="http://localhost:7200/sleepdata/#Raw"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost:7200/sleepdata/hasDiet"/>
+                <owl:someValuesFrom rdf:resource="http://localhost:7200/sleepdata/#Vegan"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/sleeps -->
+
+    <owl:ObjectProperty rdf:about="http://localhost:7200/sleepdata/sleeps">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://localhost:7200/sleepdata/hasDiet"/>
+                <owl:someValuesFrom rdf:resource="http://localhost:7200/sleepdata/#Person"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <owl:ObjectProperty rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost:7200/sleepdata/ingredients -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/ingredients">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Diet"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#age -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#age">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#end -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#end">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTimeStamp"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#feeling -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#feeling">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#gender -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#gender">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#heart_rate -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#heart_rate">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#notes -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#notes">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#quality -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#quality">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#start -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#start">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTimeStamp"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#steps -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#steps">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#nonNegativeInteger"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#time_in_bed -->
+
+    <owl:DatatypeProperty rdf:about="http://localhost:7200/sleepdata/#time_in_bed">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTimeStamp"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#Diet -->
+
+    <owl:Class rdf:about="http://localhost:7200/sleepdata/#Diet"/>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#Mediterranean -->
+
+    <owl:Class rdf:about="http://localhost:7200/sleepdata/#Mediterranean">
+        <rdfs:subClassOf rdf:resource="http://localhost:7200/sleepdata/#Diet"/>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#Paleo -->
+
+    <owl:Class rdf:about="http://localhost:7200/sleepdata/#Paleo">
+        <rdfs:subClassOf rdf:resource="http://localhost:7200/sleepdata/#Diet"/>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#Person -->
+
+    <owl:Class rdf:about="http://localhost:7200/sleepdata/#Person"/>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#Raw -->
+
+    <owl:Class rdf:about="http://localhost:7200/sleepdata/#Raw">
+        <rdfs:subClassOf rdf:resource="http://localhost:7200/sleepdata/#Diet"/>
+    </owl:Class>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#Sleep -->
+
+    <owl:Class rdf:about="http://localhost:7200/sleepdata/#Sleep"/>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/#Vegan -->
+
+    <owl:Class rdf:about="http://localhost:7200/sleepdata/#Vegan">
+        <rdfs:subClassOf rdf:resource="http://localhost:7200/sleepdata/#Diet"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://localhost:7200/sleepdata/Diet -->
+
+    <owl:NamedIndividual rdf:about="http://localhost:7200/sleepdata/Diet">
+        <rdf:type rdf:resource="http://localhost:7200/sleepdata/#Diet"/>
+        <sleepdata1:ingredients rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></sleepdata1:ingredients>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/Person -->
+
+    <owl:NamedIndividual rdf:about="http://localhost:7200/sleepdata/Person">
+        <rdf:type rdf:resource="http://localhost:7200/sleepdata/#Person"/>
+        <sleepdata1:hasDiet rdf:resource="http://localhost:7200/sleepdata/Diet"/>
+        <sleepdata1:sleeps rdf:resource="http://localhost:7200/sleepdata/Sleep"/>
+        <sleepdata:gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></sleepdata:gender>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://localhost:7200/sleepdata/Sleep -->
+
+    <owl:NamedIndividual rdf:about="http://localhost:7200/sleepdata/Sleep">
+        <rdf:type rdf:resource="http://localhost:7200/sleepdata/#Sleep"/>
+        <sleepdata:feeling rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></sleepdata:feeling>
+        <sleepdata:notes rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></sleepdata:notes>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

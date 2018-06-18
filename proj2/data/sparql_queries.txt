@@ -1,0 +1,94 @@
+--- all_times_of_sleep ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+select ?time
+where { 
+	?s pred:time_in_bed ?time.
+}
+
+
+-----------------------------------------------
+
+
+--- time_feel HAPPY ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+select ?time
+where { 
+    ?s pred:feeling ":)" ;
+    	pred:time_in_bed ?time.
+}
+
+
+--- time_feel MEH ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+select ?time
+where { 
+    ?s pred:feeling ":|" ;
+    	pred:time_in_bed ?time.
+}
+
+
+--- time_feel SAD ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+select ?time
+where { 
+    ?s pred:feeling ":(" ;
+    	pred:time_in_bed ?time.
+}
+
+
+-----------------------------------------------
+
+--- max NUMBER OF STEPS ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+select (max(?nstep) as ?maxsteps)
+where {
+    ?s pred:steps ?nstep
+}
+
+
+--- min and max HEARTRATE ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+select (min(?rate) as ?minrate) (max(?rate) as ?maxrate)
+where {
+    ?s pred:heart_rate ?rate
+}
+
+
+-----------------------------------------------
+
+
+--- good hear rate ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+construct {
+    ?s pred:result "Ideal Heart Rate" 
+}
+where { 
+    ?s pred:heart_rate "55" 
+}
+
+
+--- good sleep ---
+
+prefix pred: <http://sleepdata.com/predicate/>
+
+construct {
+    ?s pred:result "Good Sleep Quality!"
+}
+where {
+    ?s pred:quality "100%" 
+}
+
