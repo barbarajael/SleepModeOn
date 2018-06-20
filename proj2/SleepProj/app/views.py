@@ -276,6 +276,6 @@ def dataSleep(request):
             'beatbed': beatbed,
             'timesGoodRate': timesGoodRate,
 
-            'min_whenSleep': min_whenSleep,
-            'max_whenSleep': max_whenSleep
+            'min_whenSleep': max_whenSleep,
+            'max_whenSleep': min_whenSleep
         }, request))
